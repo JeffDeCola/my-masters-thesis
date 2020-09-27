@@ -1,14 +1,27 @@
 # my-masters-thesis
 
-UNIVERSITY OF NEW HAMPSHIRE
+[![MIT License](http://img.shields.io/:license-mit-blue.svg)](http://jeffdecola.mit-license.org)
 
 **A HIGH-LEVEL DESIGN FRAMEWORK ILLUSTRATING TECHNOLOGY MIGRATION**
 
-BY JEFFRY A. DeCOLA
+BY
 
-MASTER OF SCIENCE 1993
+Jeffry A. DeCola
 
-Located at the
+B.S.E.E., University of New Hampshire, 1991
+
+Submitted to the University of New Hampshire
+in Partial Fulfillment of the Requirements for the Degree of
+Master of Science
+in
+Electrical Engineering
+
+December, 1993
+
+ALL RIGHTS RESERVED
+&copy;1993 Jeffry A. DeCola
+
+Copy located at the
 [UNH Engineering, Math & CS Library](https://unh.primo.exlibrisgroup.com/permalink/01USNH_UNH/121i3ml/alma991007116219805221)
 
 ## ABSTRACT
@@ -17,3 +30,25 @@ This thesis presents a comprehensive high-level design framework which embodies 
 
 ## TABLE OF CONTENTS
 
+* DEDICATION
+* ACKNOWLEDGMENTS
+* PREFACE
+* LIST OF FIGURES
+* LIST OF TABLES
+* TRADEMARKS
+* ABSTRACT
+
+**1 INTRODUCTION**
+
+**2 DESIGN DOMAIN, DESIGN FRAMEWORK AND TECHNOLOGY MIGRATION IN MICROSYSTEM DEVELOPMENT**
+
+* 2.1 Design Domain
+  * 2.1.1 Schematic Capture View of the Design Domain
+  * 2.1.2 VHDL View of the Design Domain
+* 2.2 Design Framework
+* 2.3Technology Migration (Horizontal Design Methodology)
+  * 2.3.1 Technology Migration using Schematic Capture
+  * 2.3.2 Technology Migration using VHDL
+* 2.4 Summary
+
+**3 SYSTEM MODELS, DESCRIPTION TOOLS AND SIMULATION**
