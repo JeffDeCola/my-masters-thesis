@@ -1,5 +1,7 @@
 # ACKNOWLEDGEMENTS
 
+[Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
+
 I want to wholeheartedly thank everyone; friends, family, and educators,
 who have made my educational experience rewarding. You have enriched my life.
 

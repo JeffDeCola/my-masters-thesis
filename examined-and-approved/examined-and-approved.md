@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
+
 # EXAMINED AND APPROVED
 
 This thesis has been examined and approved.
