@@ -20,7 +20,7 @@ The system is currently used on board rockets and will eventually be
 placed in a NASA satellite [Deco91a].
 
 * Built a stand-alone speaker dependent speech recognition system using
-Tis TMS320 digital signal processing (DSP) chip and standard parts in a
+TIs TMS320 digital signal processing (DSP) chip and standard parts in a
 real­time environment [Deco91b].
 
 * Used the description tool VHDL to model, simulate and synthesize a
