@@ -56,22 +56,47 @@ FPGA technology.
   * 2.1.1 Schematic Capture View of the Design Domain
   * 2.1.2 VHDL View of the Design Domain
 * 2.2 Design Framework
-* 2.3Technology Migration (Horizontal Design Methodology)
+* 2.3 Technology Migration (Horizontal Design Methodology)
   * 2.3.1 Technology Migration using Schematic Capture
   * 2.3.2 Technology Migration using VHDL
 * 2.4 Summary
 
 **3 [SYSTEM MODELS, DESCRIPTION TOOLS AND SIMULATION](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-3.md)**
 
+* 3.1 TBD
+  * 3.1.1 TBD
+  * 3.1.2 TBD
+* 3.2 TBD
+
 **4 [TBD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md)**
+
+* 3.1 TBD
+  * 3.1.1 TBD
+  * 3.1.2 TBD
+* 3.2 TBD
 
 **5 [TBD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md)**
 
+* 3.1 TBD
+  * 3.1.1 TBD
+  * 3.1.2 TBD
+* 3.2 TBD
+
 **6 [TBD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md)**
+
+* 3.1 TBD
+  * 3.1.1 TBD
+  * 3.1.2 TBD
+* 3.2 TBD
 
 **7 [TBD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md)**
 
-**8 [TBD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-8/chapter-8.md)**
+* 3.1 TBD
+  * 3.1.1 TBD
+  * 3.1.2 TBD
+* 3.2 TBD
+
+**8 [CONCLUSIONS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-8/chapter-8.md)**
 
 * [REFERENCES](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md)
 * [GLOSSARY](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md)
