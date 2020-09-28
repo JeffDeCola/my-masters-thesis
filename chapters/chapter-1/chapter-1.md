@@ -1,6 +1,6 @@
-[Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
-
 # CHAPTER 1
+
+[Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
 ## INTRODUCTION
 
@@ -24,11 +24,8 @@ complex system development, an enhanced *design framework* has been developed.
 This qualitative structure contains four basic elements:
 
 * a) System models.
-
 * b) Electronic design automation (EDA) tools.
-
 * c) Microsystem technologies.
-
 * d) Design methodologies.
 
 The design framework provides a formal basis for viewing and analyzing these
