@@ -1,7 +1,5 @@
 # my-masters-thesis
 
-[![MIT License](http://img.shields.io/:license-mit-blue.svg)](http://jeffdecola.mit-license.org)
-
 **A HIGH-LEVEL DESIGN FRAMEWORK ILLUSTRATING TECHNOLOGY MIGRATION**
 
 BY Jeffry A. DeCola
@@ -15,11 +13,14 @@ in
 Electrical Engineering,
 December, 1993
 
-Copies of my thesis located at the
-[UNH Diamond Library and the UNH Engineering, Math & CS Library](https://unh.primo.exlibrisgroup.com/permalink/01USNH_UNH/121i3ml/alma991007116219805221)
+Copies of my thesis are located at the
+[UNH Diamond Library](https://unh.primo.exlibrisgroup.com/permalink/01USNH_UNH/121i3ml/alma991007116219805221)
+and the
+[UNH Engineering, Math & CS Library](https://unh.primo.exlibrisgroup.com/permalink/01USNH_UNH/121i3ml/alma991007116219805221)
 
 ALL RIGHTS RESERVED
 &copy;1993 Jeffry A. DeCola
+(Registration Number [TXu000610236](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=TXu000610236&Search_Code=REGS&PID=lloaWKm0G2JQphbL-_dy2nn9IG994&SEQ=20200928153521&CNT=25&HIST=1))
 
 ## ABSTRACT
 
@@ -71,6 +72,9 @@ FPGA technology.
 **7 [TBD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md)**
 
 **8 [TBD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-8/chapter-8.md)**
+
+* [REFERENCES](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md)
+* [GLOSSARY](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md)
 
 * [APPENDIX A](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-a/appendix-a.md)
 * [APPENDIX B](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-b/appendix-b.md)
