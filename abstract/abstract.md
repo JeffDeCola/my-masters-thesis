@@ -1,5 +1,7 @@
 # ABSTRACT
 
+[Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
+
 **A HIGH-LEVEL DESIGN FRAMEWORK ILLUSTRATING TECHNOLOGY MIGRATION**
 
 BY
