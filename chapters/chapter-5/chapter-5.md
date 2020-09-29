@@ -1,6 +1,6 @@
-# CHAPTER 5
-
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
+
+# CHAPTER 5
 
 ## OVERVIEW OF MICROSYSTEM TECHNOLOGIES
 

@@ -1,6 +1,6 @@
-# CHAPTER 3
-
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
+
+# CHAPTER 3
 
 ## SYSTEM MODELS, DESCRIPTION TOOLS AND SIMULATION
 

@@ -61,99 +61,126 @@ FPGA technology.
   * 2.3.2 [Technology Migration using VHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#232-technology-migration-using-vhdl)
 * 2.4 [Summary](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#24-summary)
 
-**3 [SYSTEM MODELS, DESCRIPTION TOOLS AND SIMULATION](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-3.md#chapter-3)**
+**3 [SYSTEM MODELS, DESCRIPTION TOOLS AND SIMULATION](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#chapter-3)**
 
-* 3.1 [Five Levels of Abstraction]()
-* 3.2 [Domains and Classes of Abstractions]()
-  * 3.2.1 [Domains of the Abstraction Levels]()
-  * 3.2.2 [Classes of the Abstraction Levels]()
-* 3.3 [Schematic Capture and Simulation]()
-* 3.4 [Hardware Description Languages and Simulation]()
-  * 3.4.1 [High-Level HDL Applications and Benefits]()
-  * 3.4.2 [Limitations - Industry View of an HDL]()
-  * 3.4.3 [The Language Tree]()
-  * 3.4.4 [Classification of Common Languages]()
-* 3.5 [Multi-Level Description Environment and Multi-Level Simulation]()
-* 3.6 [VHDL]()
-  * 3.6.1 [Benefits and Limitations of VHDL]()
-  * 3.6.2 [Four Types of VHDL Models ]()
-  * 3.6.3 [VHDL Library Design Units]()
+* 3.1 [Five Levels of Abstraction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#31-five-levels-of-abstraction)
+* 3.2 [Domains and Classes of Abstractions](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#32-domains-and-classes-of-abstractions)
+  * 3.2.1 [Domains of the Abstraction Levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#321-domains-of-the-abstraction-levels)
+  * 3.2.2 [Classes of the Abstraction Levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#322-classes-of-the-abstraction-levels)
+* 3.3 [Schematic Capture and Simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#33-schematic-capture-and-simulation)
+* 3.4 [Hardware Description Languages and Simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#34-hardware-description-languages-and-simulation)
+  * 3.4.1 [High-Level HDL Applications and Benefits](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#341-high-level-hdl-applications-and-benefits)
+  * 3.4.2 [Limitations - Industry View of an HDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#342-limitations---industry-view-of-an-hdl)
+  * 3.4.3 [The Language Tree](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#343-the-language-tree)
+  * 3.4.4 [Classification of Common Languages](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#344-classification-of-common-languages)
+* 3.5 [Multi-Level Description Environment and Multi-Level Simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#35-multi-level-description-environment-and-multi-level-simulation)
+* 3.6 [VHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#36-vhdl)
+  * 3.6.1 [Benefits and Limitations of VHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#36-vhdl)
+  * 3.6.2 [Four Types of VHDL Models ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
+  * 3.6.3 [VHDL Library Design Units](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#363-vhdl-library-design-units)
 
 **4 [DESIGN SYNTHESIS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#chapter-4)**
 
-* 4.1 [Synthesis]()
-* 4.2 [Types of Synthesis]()
-* 4.3 [Synthesis for Technology Migration ]()
-* 4.4 [Synthesis System ]()
-  * 4.4.1 [Design Automation ]()
-  * 4.4.2 [Benefits of High-Level Synthesis Systems]()
-  * 4.4.3 [Limitations of High-Level Synthesis Systems]()
-* 4.5 [Modeling for the Synthesis System]()
-  * 4.5.1 [Modeling for the Synthesis System using VHDL]()
-  * 4.5.2 [Modeling for the Target Technology using VHDL]()
+* 4.1 [Synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#41-synthesis)
+* 4.2 [Types of Synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis)
+* 4.3 [Synthesis for Technology Migration ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#43-synthesis-for-technology-migration)
+* 4.4 [Synthesis System ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
+  * 4.4.1 [Design Automation ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation)
+  * 4.4.2 [Benefits of High-Level Synthesis Systems](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#442-benefits-of-high-level-synthesis-systems)
+  * 4.4.3 [Limitations of High-Level Synthesis Systems](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#443-limitations-of-high-level-synthesis-systems)
+* 4.5 [Modeling for the Synthesis System](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#45-modeling-for-the-synthesis-system)
+  * 4.5.1 [Modeling for the Synthesis System using VHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#451-modeling-for-the-synthesis-system-using-vhdl)
+  * 4.5.2 [Modeling for the Target Technology using VHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#452-modeling-for-the-target-technology-using-vhdl)
 
 **5 [OVERVIEW OF MICROSYSTEM TECHNOLOGIES](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#chapter-5)**
 
-* 5.1 [Technology Breakdown]()
-* 5.2 [Standard Parts and PLDs]()
-* 5.3 [All-Mask ASICs]()
-* 5.4 [Gate Arrays and FPGAs]()
-  * 5.4.1 [Gate Arrays]()
-  * 5.4.2 [FPGA Architectures and Programming]()
-* 5.5 [Multichip Modules (MCMs)]()
-  * 5.5.1 [A New Technology]()
-  * 5.5.2 [Design Issues]()
-  * 5.5.3 [Multichip Module Assemblies]()
-* 5.6 [Selecting a Technological Device]()
-  * 5.6.1 [The Logic Integration Tool (LIT)]()
-  * 5.6.2 [Software Aided Selection Issues]()
+* 5.1 [Technology Breakdown](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#51-technology-breakdown)
+* 5.2 [Standard Parts and PLDs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
+* 5.3 [All-Mask ASICs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
+* 5.4 [Gate Arrays and FPGAs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#54-gate-arrays-and-fpgas)
+  * 5.4.1 [Gate Arrays](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#541-gate-arrays)
+  * 5.4.2 [FPGA Architectures and Programming](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
+* 5.5 [Multichip Modules (MCMs)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#55-multichip-modules-mcms)
+  * 5.5.1 [A New Technology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#551-a-new-technology)
+  * 5.5.2 [Design Issues](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#552-design-issues)
+  * 5.5.3 [Multichip Module Assemblies](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#553-multichip-module-assemblies)
+* 5.6 [Selecting a Technological Device](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#56-selecting-a-technological-device)
+  * 5.6.1 [The Logic Integration Tool (LIT)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#561-the-logic-integration-tool-lit)
+  * 5.6.2 [Software Aided Selection Issues](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#562-software-aided-selection-issues)
 
 **6 [LOW-LEVEL VERTICAL DESIGN METHODOLOGY](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#chapter-6)**
 
-* 6.1 [Low-Level Design Methodology]()
-  * 6.1.1 [Bottom-Up Modeling]()
-  * 6.1.2 [General Low-Level EDA Environment]()
-  * 6.1.3 [General Low-Level Steps]()
-* 6.2 [Evaluation of Low-Level Vertical Design Methodology]()
-  * 6.2.1 [Goals of a Design Methodology]()
-  * 6.2.1 [Evaluation]()
+* 6.1 [Low-Level Design Methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#61-low-level-design-methodology)
+  * 6.1.1 [Bottom-Up Modeling](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#611-bottom-up-modeling)
+  * 6.1.2 [General Low-Level EDA Environment](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#612-general-low-level-eda-environment)
+  * 6.1.3 [General Low-Level Steps](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#613-general-low-level-steps)
+* 6.2 [Evaluation of Low-Level Vertical Design Methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#62-evaluation-of-low-level-vertical-design-methodology)
+  * 6.2.1 [Goals of a Design Methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#621-goals-of-a-design-methodology)
+  * 6.2.1 [Evaluation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#621-evaluation)
 
 **7 [HIGH-LEVEL HORIZONTAL DESIGN METHODOLOGY (TECHNOLOGY MIGRATION)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#chapter-7)**
 
-* 7.1 [High-Level Design Methodology (Technology Migration)]()
-  * 7.1.1 [Top-Down Modeling]()
-  * 7.1.2 [General High-Level EDA Environment]()
-  * 7.1.3 [General High-Level EDA Environment]()
-* 7.2 [Evaluation of Technology Migration]()
+* 7.1 [High-Level Design Methodology (Technology Migration)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#71-high-level-design-methodology-technology-migration)
+  * 7.1.1 [Top-Down Modeling](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#711-top-down-modeling)
+  * 7.1.2 [General High-Level EDA Environment](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#712-general-high-level-eda-environment)
+  * 7.1.3 [General High-Level EDA Environment](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#713-general-high-level-eda-environment)
+* 7.2 [Evaluation of Technology Migration](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#72-evaluation-of-technology-migration)
 
 **8 [CONCLUSIONS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-8/chapter-8.md#chapter-8)**
 
-* **[REFERENCES](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md)**
-* **[GLOSSARY](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md)**
+**[REFERENCES](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md)**
 
-APPENDICES
+**[GLOSSARY](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md)**
 
-* **[APPENDIX A](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-a/appendix-a.md)**
-  * [HARDWARE AND SOFTWARE USED]()
-* **[APPENDIX B](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-b/appendix-b.md)**
-  * [HOST INTERFACE SERIAL CONTROLLER (HISC) (CORRELATOR CONTROLLER) ARCHITECTURE]()
-* **[APPENDIX C](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-c/appendix-c.md)**
-  * [LABORATORY 1: SOFIWARE AIDED DEVICE SELECTION WITI-1 THE TI LOGIC INTEGRATION TOOL (LIT)]()
-* **[APPENDIX D](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-d/appendix-d.md)**
-  * [LABORATORY 2A: SCHEMATIC CAPTURE WITH VIEWLOGIC'S VlEWDRAW]()
-* **[APPENDIX E](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-e/appendix-e.md)**
-  * [LABORATORY 3A: SCHEMATIC CAPTURE IIlERARCHICAL DESIGN WITH VIEWLOGIC'S VIEWDRAW]()
-* **[APPENDIX F](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-f/appendix-f.md)**
-  * [LABORATORY 4A: SCHEMATIC CAPTURE SIMULATION WITH VIEWLOGIC'S VlEWSIM]()
-* **[APPENDIX G](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-g/appendix-g.md)**
-  * [LABORATORY 5A: PROGRAMMING A TI TPC12 FPGA WITH TI-ALS TOOLS]()
-* **[APPENDIX H](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-h/appendix-h.md)**
-  * [LABORATORY 2B: VHDL MODEL AND LOGIC SYNTIIESIS WITH VIEWLOGIC'S VHDL TOOLS]()
-* **[APPENDIX I](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-i/appendix-i.md)**
-  * [LABORATORY 3B: VHDL HIERARCHICAL DESIGN WI1H VIEWLOGIC'S TOOLS]()
-* **[APPENDIX J](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-j/appendix-j.md)**
-  * [LABORATORY 4B: VHDL SIMULATION WI1H VIEWLOGIC'S VIEWSIM]()
-* **[APPENDIX K](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-k/appendix-k.md)**
-  * [LABORATORY 5B: PROGRAMMING A TI TPC12 FPGA WI1H TI-ALS TOOLS]()
-* **[APPENDIX L](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md)**
-  * [PROGRAMABLE 8-BIT MICROPROCESSOR]()
+**[APPENDIX A](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-a/appendix-a.md)**
+
+* [HARDWARE AND SOFTWARE USED]()
+  * [I. HARDWARE USED]()
+  * [II. SOFTWARE USED]()
+
+**[APPENDIX B](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-b/appendix-b.md)**
+
+* [HOST INTERFACE SERIAL CONTROLLER (HISC) (CORRELATOR CONTROLLER) ARCHITECTURE]()
+  * [I. NASA CORRELATOR]()
+  * [II. CORRELATOR PROCESSOR ARCHITECTURE]()
+  * [III. HOST INTERFACE SERIAL CONTROLLER]()
+
+**[APPENDIX C](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-c/appendix-c.md)**
+
+* [LABORATORY 1: SOFTWARE AIDED DEVICE SELECTION WITH THE TI LOGIC INTEGRATION TOOL (LIT)]()
+
+**[APPENDIX D](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-d/appendix-d.md)**
+
+* [LABORATORY 2A: SCHEMATIC CAPTURE WITH VIEWLOGIC'S VlEWDRAW]()
+
+**[APPENDIX E](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-e/appendix-e.md)**
+
+* [LABORATORY 3A: SCHEMATIC CAPTURE HIERARCHICAL DESIGN WITH VIEWLOGIC'S VIEWDRAW]()
+
+**[APPENDIX F](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-f/appendix-f.md)**
+  
+* [LABORATORY 4A: SCHEMATIC CAPTURE SIMULATION WITH VIEWLOGIC'S VIEWSIM]()
+
+**[APPENDIX G](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-g/appendix-g.md)**
+  
+* [LABORATORY 5A: PROGRAMMING A TI TPC12 FPGA WITH TI-ALS TOOLS]()
+
+**[APPENDIX H](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-h/appendix-h.md)**
+
+* [LABORATORY 2B: VHDL MODEL AND LOGIC SYNTHESIS WITH VIEWLOGIC'S VHDL TOOLS]()
+
+**[APPENDIX I](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-i/appendix-i.md)**
+
+* [LABORATORY 3B: VHDL HIERARCHICAL DESIGN WI1H VIEWLOGIC'S TOOLS]()
+
+**[APPENDIX J](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-j/appendix-j.md)**
+
+* [LABORATORY 4B: VHDL SIMULATION WI1H VIEWLOGIC'S VIEWSIM]()
+
+**[APPENDIX K](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-k/appendix-k.md)**
+
+* [LABORATORY 5B: PROGRAMMING A TI TPC12 FPGA WI1H TI-ALS TOOLS]()
+
+**[APPENDIX L](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md)**
+
+* [PROGRAMABLE 8-BIT MICROPROCESSOR]()
