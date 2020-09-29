@@ -1,6 +1,6 @@
-# CHAPTER 6
-
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
+
+# CHAPTER 6
 
 ## LOW-LEVEL VERTICAL DESIGN METHODOLOGY
 

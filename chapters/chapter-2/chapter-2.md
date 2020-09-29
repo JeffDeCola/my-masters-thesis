@@ -1,6 +1,6 @@
-# CHAPTER 2
-
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
+
+# CHAPTER 2
 
 ## DESIGN DOMAIN, DESIGN FRAMEWORK AND TECHNOLOGY MIGRATION IN MICROSYSTEM DEVELOPMENT
 

@@ -1,6 +1,6 @@
-# CHAPTER 7
-
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
+
+# CHAPTER 7
 
 ## HIGH-LEVEL HORIZONTAL DESIGN METHODOLOGY (TECHNOLOGY MIGRATION)
 
