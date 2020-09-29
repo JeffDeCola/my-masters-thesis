@@ -138,39 +138,28 @@ FPGA technology.
   * [HARDWARE AND SOFTWARE USED]()
     * [I. HARDWARE USED]()
     * [II. SOFTWARE USED]()
-
 * **[APPENDIX B](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-b/appendix-b.md)**
   * [HOST INTERFACE SERIAL CONTROLLER (HISC) (CORRELATOR CONTROLLER) ARCHITECTURE]()
     * [I. NASA CORRELATOR]()
     * [II. CORRELATOR PROCESSOR ARCHITECTURE]()
     * [III. HOST INTERFACE SERIAL CONTROLLER]()
-
 * **[APPENDIX C](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-c/appendix-c.md)**
   * [LABORATORY 1: SOFTWARE AIDED DEVICE SELECTION WITH THE TI LOGIC INTEGRATION TOOL (LIT)]()
-
 * **[APPENDIX D](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-d/appendix-d.md)**
   * [LABORATORY 2A: SCHEMATIC CAPTURE WITH VIEWLOGIC'S VlEWDRAW]()
-
 * **[APPENDIX E](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-e/appendix-e.md)**
   * [LABORATORY 3A: SCHEMATIC CAPTURE HIERARCHICAL DESIGN WITH VIEWLOGIC'S VIEWDRAW]()
-
 * **[APPENDIX F](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-f/appendix-f.md)**
   * [LABORATORY 4A: SCHEMATIC CAPTURE SIMULATION WITH VIEWLOGIC'S VIEWSIM]()
-
 * **[APPENDIX G](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-g/appendix-g.md)**
   * [LABORATORY 5A: PROGRAMMING A TI TPC12 FPGA WITH TI-ALS TOOLS]()
-
 * **[APPENDIX H](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-h/appendix-h.md)**
   * [LABORATORY 2B: VHDL MODEL AND LOGIC SYNTHESIS WITH VIEWLOGIC'S VHDL TOOLS]()
-
 * **[APPENDIX I](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-i/appendix-i.md)**
   * [LABORATORY 3B: VHDL HIERARCHICAL DESIGN WI1H VIEWLOGIC'S TOOLS]()
-
 * **[APPENDIX J](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-j/appendix-j.md)**
   * [LABORATORY 4B: VHDL SIMULATION WI1H VIEWLOGIC'S VIEWSIM]()
-
 * **[APPENDIX K](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-k/appendix-k.md)**
   * [LABORATORY 5B: PROGRAMMING A TI TPC12 FPGA WI1H TI-ALS TOOLS]()
-
 * **[APPENDIX L](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md)**
   * [PROGRAMABLE 8-BIT MICROPROCESSOR]()
