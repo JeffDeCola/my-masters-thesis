@@ -131,6 +131,8 @@ FPGA technology.
 * **[REFERENCES](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md)**
 * **[GLOSSARY](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md)**
 
+APPENDICES
+
 * **[APPENDIX A](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-a/appendix-a.md)**
   * [HARDWARE AND SOFTWARE USED]()
 * **[APPENDIX B](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-b/appendix-b.md)**
