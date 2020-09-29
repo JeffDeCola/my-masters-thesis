@@ -16,7 +16,7 @@ introducing designers to fast in-house complex digital system development
 the National Aeronautics and Space Agency's (NASAs) rocket project using a
 CMOS standard-cell, very large scale integration (VLSI) process.
 This application specific integrated circuit (ASIC), also known as the
-Aydin Vector Serial/Parallel Interface (A VSPI), is part of a larger system
+Aydin Vector Serial/Parallel Interface (AVSPI), is part of a larger system
 which is used to gather gamma ray information in the upper atmosphere.
 The system is currently used on board rockets and will eventually be
 placed in a NASA satellite [Deco91a].
@@ -38,5 +38,5 @@ provides VHDL EDA tools as well as multichip module (MCM) development capabiliti
 [Ment92] [Ment91a-f] [Ment90a-b].
 
 * Attended a one week intensive training session on VHDL logic synthesis
-at View logic. Various VHDL modeling styles tailored specifically to their
+at Viewlogic. Various VHDL modeling styles tailored specifically to their
 synthesis system were examined [View93].
