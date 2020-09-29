@@ -34,14 +34,11 @@ four basic elements. Their definitions are:
 * A *system model* is a collection of one or more design files
 (at the same abstraction level) developed from a description tool
 that represents a designer's idea.
-
 * *EDA tools* are computer aided design (CAD) programs which assist a
 designer during system development usually with part or all of the
 process automated (e.g. simulators, compilers, synthesizers and design entry tools).
-
 * *Microsystem technologies* are the available physical means to implement
 a system (e.g. VLSI, multichip modules (MCMs), standard parts and FPGAs).
-
 * *Design methodologies* are the processes used to develop a system from
 concept-to-silicon.
 
@@ -52,7 +49,6 @@ these categories are defined as:
 * A *vertical design methodology* corresponds to the traditional design
 process which targets a given system model to a specific microsystem technology.
 It is very well documented and widely used.
-
 * A *horizontal design methodology*, or *technology migration*, pertains to the
 design process which targets a given system model to more than
 one microsystem technology. It offers the ability to change from
@@ -71,7 +67,6 @@ enabling the designer to be more productive. The corresponding definitions are:
 * A *low-level design framework* contains system models, EDA tools and
 design methodologies that are below and include the logic level of abstraction.
 This framework uses only a vertical design methodology.
-
 * A *high-level design framework* contains system models, EDA tools
 and design methodologies that are above the logic level of abstraction.
 This framework has all of the capabilities of the low-level framework
