@@ -130,7 +130,18 @@ FPGA technology.
 
 **[REFERENCES](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md)**
 
+* [I. General Related Documentation]()
+* [II. Alternative System Concepts and CAD Language Systems, Inc. Related Documentation]()
+* [III. Mentor Graphics Related Documentation]()
+* [IV. Texas Instruments and Actel Related Documentation]()
+* [V. Viewlogic Related Documentation]()
+* [VI. Xilinx Related Documentation]()
+* [VII. Other Related Documentation]()
+
 **[GLOSSARY](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md)**
+
+* [I. General Acronyms and Technical Terms]()
+* [II. CAE Environment Acronyms and Technical Terms]()
 
 **APPENDICES**
 
