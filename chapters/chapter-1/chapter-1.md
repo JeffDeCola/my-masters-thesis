@@ -16,7 +16,7 @@ and increased mask layers
 Moore's Law states that there is a
 doubling in transistor density on substrates every two years
 (eventually physical limits will endure)
-[[Dasg89a]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#sasg89a).
+[[Dasg89a]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#dasg89a).
 Due to the increasing transistor density, the complexity and size of
 digital systems has also grown giving today's design engineer the task of
 managing these systems at all phases of development. The designer
@@ -161,9 +161,9 @@ capture, simulation, synthesis and wirelist conversion (Refer to
 [[Keny92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#keny92)
 [[View 93]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#view93)
 **(sic)**
-[[View92a-c]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#gajs92a)
+[[View92a-c]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#view92a)
 [[View91a-x]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#view91a)
-[[Xili91a-b]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#sili91a).
+[[Xili91a-b]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#Xili91a).
 The laboratories also use the *TI Action Logic System* (TI-ALS)
 tools for programming and analyzing a TI/Actel FPGA
 [[Acte92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#acte92)
