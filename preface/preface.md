@@ -9,7 +9,9 @@ presented in this thesis. The projects are as follows:
 
 * Developed a complete set of nine Texas Instruments (Tl) laboratory experiments
 introducing designers to fast in-house complex digital system development
-(Refer to Appendices C-K). The laboratories have been published in a TI book
+(Refer to
+[Appendices C](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-c/appendix-c.md)-K).
+The laboratories have been published in a TI book
 "Introduction to FPGA-Based Microsystem Design"
 [[RuHl93]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#ruhl93).
 
@@ -32,9 +34,10 @@ real­time environment
 programmable 8-bit microprocessor for implementation with a Xilinx field
 programmable gate array (FPGA). The system is capable of decoding a small
 instruction set and was based on a standard part implementation
-[[SeFi91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#sifi91).
+[[SeFi91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#sefi91).
 It was completely modeled in structural VHDL code, written specifically
-for an FPGA using hard and soft macros (Refer to Appendix L)
+for an FPGA using hard and soft macros (Refer to
+[Appendix L](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md))
 [[Deco92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#deco92).
 
 * Analyzed the Mentor Graphics electronic design automation (EDA) environment,
