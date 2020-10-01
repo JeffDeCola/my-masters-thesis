@@ -3,11 +3,11 @@
 # LIST OF FIGURES
 
 * 2.1 [The Digital Design Domain](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#21-design-domain)
-* 2.2 [Schematic Capture View of the Digital Design Domain]()
-* 2.3 [VHDL View of the Digital Design Domain]()
-* 2.4 [The Design Framework ]()
-* 2.5 []()
-* 2.6 []()
+* 2.2 [Schematic Capture View of the Digital Design Domain](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#211-schematic-capture-view-of-the-design-domain)
+* 2.3 [VHDL View of the Digital Design Domain](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#212-vhdl-view-of-the-design-domain)
+* 2.4 [The Design Framework ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#22-design-framework)
+* 2.5 [The Design Framework with Schematic Capture Models](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#231-technology-migration-using-schematic-capture)
+* 2.6 [The Design Framework with a VHDL Model Illustrating Technology Migration](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#232-technology-migration-using-vhdl)
 * 3.1 []()
 * 3.2 []()
 * 3.3 []()
