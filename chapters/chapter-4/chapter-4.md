@@ -186,12 +186,164 @@ demonstrates model enhancement.
 * *Model enhancement* adds a capability to a system model, usually through a
   design automation process.
 
+![Figure-4.4-System-Representations-Illustrating-Synthesis-and-Design-Automation-(Model-Enhancement).jpg](figures/image-coming-soon.png)
+
+**Figure 4.4** *System Representations Illustrating Synthesis and Design
+Automation (Model Enhancement)*
+
+In Figure 4.4, two types of model enhancements are illustrated: insertion and
+optimization. These operations are explained:
+
+* *Insertion* is the process of adding a subsystem to a model (e.g. test insertion).
+* *Optimization* is the process of refining a model to optimize the designer's
+  specifications.
+
+Model enhancement can also be shown within the design framework (See Figure 4.5).
+Enhancement can occur at two places in system development - at the model level or
+during a synthesis process. As shown in both figures, design automation does
+not change abstraction levels or domains.
+
+![Figure-4.5-Design-Framework-Illustrating-Model-Enhancement.jpg](figures/image-coming-soon.png)
+
+**Figure 4.5** *Design Framework Illustrating Model Enhancement*
+
+There is an obvious question of the supremacy of design automation over
+human ability (not in terms of design time, but design quality).
+There is an opinion that a human designer with years of experience
+exceeds an automated process. Other opinions claim humans can find optimized
+solutions to a small number of objects, but in terms of thousands of objects,
+design automation is better suited
+[[DGLW92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#dglw92).
+
+Yet another question is the correctness of automated design tools.
+Theoretically, a synthesized system should not require any type of
+verification because the integrity of the system is kept throughout the
+synthesis process, but in practice verification is a necessity.
+This is justified by the fact that a synthesis system cannot possibly
+synthesize the endless amounts of different model styles, correctly,
+100% of the time. More discussion on the subject is given at the end of
+this chapter.
+
 ### 4.4.2 Benefits of High-Level Synthesis Systems
+
+A high-level synthesis process provides the designer with many benefits such as
+decreased design time, technology migration, increased circuit speeds, higher
+yield and more flexibility to experiment with different design styles.
+Most of the benefits are due to the high-level abstraction models as explained
+in previous chapters.
+
+Expanding on the design framework diagram, Figure 4.6 shows that by using a
+high-level synthesis system, different architectural styles can be created
+from the same model. Creation of various architecture styles can happen for
+all microsystem technologies. The most efficient technology implementation
+can then be chosen based on the designer's objectives
+[[Gajs91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#gajs91).
+
+![Figure-4.6-Design-Framework-Illustrating-Different-Architecture-Styles.jpg](figures/image-coming-soon.png)
+
+**Figure 4.6** *Design Framework Illustrating Different Architecture Styles*
+
+Another benefit of using high-level synthesis is that it gives the designer the
+ability to prototype systems before commitment to expensive technology.
+For example, if an MCM technology is desired, the system can be first prototyped
+using an FPGA technology. This is accomplished by using high-level system
+models, synthesized down into the FPGA technology. If the prototype is
+satisfactory, then the same system models can be synthesized into the
+desired MCM technology.
+
+As wide spread use of synthesis systems becomes more popular, vendors will
+supply more options (i.e. insertion and optimization) to satisfy the
+demands of the designer
+[[CaWa91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#cawa91).
 
 ### 4.4.3 Limitations of High-Level Synthesis Systems
 
+Two important problems in a high-level synthesis system are: the lack of an
+accepted standard framework and the lack of controllable synthesis tools.
+
+A standard framework allows a common EDA environment in which various software
+tools (from different vendors) can function together. Many synthesis tools can
+be combined, allowing a larger synthesis system, providing the designer with
+more options to chose from. The CAD Framework Initiative (CFI) is striving
+to meet standardization head on, not just for the sake of synthesis, but
+for the sake of the entire EDA environment (i.e. tool framework,
+EDA encapsulation, system models and intertool communication).
+
+Controllability gives the designer the ability to interact with the synthesis
+system. The designer can control synthesis criteria and the order of their
+execution
+[[DGLW92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#dglw92).
+For example, Viewlogic's Powerview environment provides such a capability.
+It allows the designer the ability to select different logic synthesis
+algorithms for a speed/area weighting criteria
+[[View93]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#View93).
+
 ## 4.5 Modeling for the Synthesis System
+
+In the modeling process, the designer must consider the synthesis system as well
+as the technology the synthesis system is targeted to. To clarify this
+statement, VHDL will be used as an example.
 
 ### 4.5.1 Modeling for the Synthesis System using VHDL
 
+Modeling for a synthesis system requires that the designer be aware of:
+
+* a) The synthesis system capabilities (i.e. what language constructs the
+  synthesis system can synthesize).
+* b) The optimization range of the synthesis system (i.e. what models the
+  synthesis system can efficiently synthesize).
+
+Let us consider the VHDL description language with these two criteria.
+First, the designer must be aware of the synthesis system capabilities when
+modeling a system. For example, the synthesis system from Viewlogic can
+synthesize only a well defined subset of the VHDL language
+[[View93]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#View93).
+Moreover, some constructs cannot be synthesized by any synthesis system.
+Let us consider the RTL statement:
+
+```text
+A <= B + C after 20ns;
+```
+
+The synthesis system will not incorporate the delay time (given here as 20ns)
+into synthesized hardware. Timing is utilized only for timing simulation.
+
+Second, the fact that a synthesis system can synthesize a certain subset
+of VHDL constructs does not imply efficiency, therefore the designer must be
+aware of the optimization range of the synthesis system. The particular model
+styles that can be efficiently synthesized are usually explained in the
+synthesis system documentation. It is almost impossible to develop a
+synthesis system that will generate the same quality for all model styles
+[[DGLW92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#dglw92).
+
 ### 4.5.2 Modeling for the Target Technology using VHDL
+
+The designer. when modeling a system, must also be aware of the target
+technology. This statement may seem contradictory to the idea of higher level
+models being separated from the underlying technology. However, the synthesis system
+algorithms are closely coupled to the architecture of the chosen technology,
+therefore the model styles must be matched to the algorithms of the synthesis
+system
+[[Gajs91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#gajs91).
+
+To clarify, each microsystem technology has a preferred architecture style for
+optimal performance. As a rule, this optimal style is imbedded in the synthesis
+system algorithms. Thus, the designer should model for the synthesis system
+algorithms to obtain this optimal architecture.
+
+Modeling for a particular technology for optimal performance does limit the
+designer to a small subset of optimal models, however, this modeling practice
+is very beneficial because it keeps all the models in a system uniform.
+Common model styles promote good design practices, especially in a design team
+environment, facilitating communication, documentation and comprehension
+[[Gajs91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#gajs91).
+
+In Laboratories 2B and 3B
+([Appendices H](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-h/appendix-h.md)
+and
+[I](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-i/appendix-i.md)),
+various VHDL model styles
+were synthesized with Viewlogic's synthesis. These models were written
+specifically for the synthesis system in order to obtain optimal performance.
+Moreover, this small subset of models can be used as templates, allowing the
+design team to use the same model styles.
