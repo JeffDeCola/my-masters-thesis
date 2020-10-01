@@ -20,9 +20,9 @@ and Three Associated Domains - with Various Model Styles](https://github.com/Jef
 * **4.2** [Design Framework Illustrating Synthesis Tools used for Technology Migration ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#43-synthesis-for-technology-migration)
 * **4.3** [Design Framework Illustrating Reverse Synthesis Tools for
 Technology Migration](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#43-synthesis-for-technology-migration)
-* **4.4** []()
-* **4.5** []()
-* **4.6** []()
+* **4.4** [System Representations Illustrating Synthesis and Design Automation (Model Enhancement)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation)
+* **4.5** [Design Framework Illustrating Model Enhancement](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation)
+* **4.6** [Design Framework Illustrating Different Architecture Styles](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#442-benefits-of-high-level-synthesis-systems)
 * **5.1** []()
 * **5.2** []()
 * **5.3** []()

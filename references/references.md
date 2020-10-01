@@ -34,7 +34,8 @@
 * *A Survey of High-Level Synthesis Systems*
 * Kluwer Academic Publishers, Boston, Massachusetts. 1991
 * [3.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#341-high-level-hdl-applications-and-benefits),
-  [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
+  [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system),
+  [4.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#442-benefits-of-high-level-synthesis-systems)
 
 ### [CaWo91]
 
@@ -136,7 +137,10 @@
   [3.6.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models),
   [4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#41-synthesis),
   [4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis),
-  [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
+  [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system),
+  [4.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation),
+  [4.4.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#443-limitations-of-high-level-synthesis-systems),
+  [4.5.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#451-modeling-for-the-synthesis-system-using-vhdl)
 
 ### [Donl92]
 
@@ -164,8 +168,10 @@
   [2.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#21-design-domain),
   [3.5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#35-multi-level-description-environment-and-multi-level-simulation),
   [4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis),
-  [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
-
+  [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system),
+  [4.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#442-benefits-of-high-level-synthesis-systems),
+  [4.5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#452-modeling-for-the-target-technology-using-vhdl)
+  
 ### [Hart87a]
 
 * R. W. Hartenstein
@@ -533,7 +539,9 @@
 * [Preface](https://github.com/JeffDeCola/my-masters-thesis/blob/master/preface/preface.md#preface),
   [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
   [3.6.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#361-benefits-and-limitations-of-vhdl),
-  [4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis)
+  [4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis),
+  [4.4.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#443-limitations-of-high-level-synthesis-systems),
+  [4.5.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#451-modeling-for-the-synthesis-system-using-vhdl)
 
 ### [View92a]
 
