@@ -16,9 +16,10 @@ and Three Associated Domains - with Various Model Styles](https://github.com/Jef
 * **3.5** [The Language Tree for Electronic Design](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#343-the-language-tree)
 * **3.6** [Language Classifications](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#344-classification-of-common-languages)
 * **3.7** [VHDL Description Tool Area of System Representations](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
-* **4.1** []()
-* **4.2** []()
-* **4.3** []()
+* **4.1** [Synthesis View of System Representations](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis)
+* **4.2** [Design Framework Illustrating Synthesis Tools used for Technology Migration ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#43-synthesis-for-technology-migration)
+* **4.3** [Design Framework Illustrating Reverse Synthesis Tools for
+Technology Migration](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#43-synthesis-for-technology-migration)
 * **4.4** []()
 * **4.5** []()
 * **4.6** []()

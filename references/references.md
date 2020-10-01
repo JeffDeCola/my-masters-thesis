@@ -33,13 +33,15 @@
 * Raul Camposano and Robert A. Walker, Editors
 * *A Survey of High-Level Synthesis Systems*
 * Kluwer Academic Publishers, Boston, Massachusetts. 1991
-* [3.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#341-high-level-hdl-applications-and-benefits)
+* [3.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#341-high-level-hdl-applications-and-benefits),
+  [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
 
 ### [CaWo91]
 
 * Raul Camposano and Wayne Wolf, Editors
 * *High-Level VLSI Synthesis*
-* Kluwer Academic Publishers, Boston, Massachusetts. 1991
+* Kluwer Academic Publishers, Boston, Massachusetts. 1991,
+* [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
 
 ### [Chin93]
 
@@ -131,7 +133,10 @@
   [3.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#34-hardware-description-languages-and-simulation),
   [3.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#341-high-level-hdl-applications-and-benefits),
   [3.5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#35-multi-level-description-environment-and-multi-level-simulation),
-  [3.6.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
+  [3.6.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models),
+  [4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#41-synthesis),
+  [4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis),
+  [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
 
 ### [Donl92]
 
@@ -157,7 +162,9 @@
 * Kluwer Academic Publishers, Boston, Massachusetts. 1991. PP· 1-26
 * [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
   [2.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#21-design-domain),
-  [3.5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#35-multi-level-description-environment-and-multi-level-simulation)
+  [3.5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#35-multi-level-description-environment-and-multi-level-simulation),
+  [4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis),
+  [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
 
 ### [Hart87a]
 
@@ -192,7 +199,7 @@
 * IEEE Standard VHDL Language Reference Manual
 * IEEE Standard 1076-1987
 * IEEE Publications, New York, New York. March, 1988.
-*  [3.6.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
+* [3.6.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
 
 ### [JoTB91]
 
@@ -525,7 +532,8 @@
 * Viewlogic Systems, Inc., Marlboro, Massachusetts. 1993.
 * [Preface](https://github.com/JeffDeCola/my-masters-thesis/blob/master/preface/preface.md#preface),
   [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
-  [3.6.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#361-benefits-and-limitations-of-vhdl)
+  [3.6.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#361-benefits-and-limitations-of-vhdl),
+  [4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis)
 
 ### [View92a]
 

@@ -642,15 +642,14 @@ The ability of step-wise refinement during the design process is crucial to
 top-down modeling. VHDL facilitates this well with the entity/architecture pair
 [[Dasg89b]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#dasg89b).
 
-The package declaration is used to declare subprograms (procedures and
-functions), constants and types separate from the entity/architecture pair.
-Its contents can be used in various architectures, much like the language C
-utilizes nested functions. As the entity declaration has a architecture body,
-so the package declaration has a package body.
-
-* The package body contains the functionality of the subprograms.
+* The *package declaration* is used to declare subprograms (procedures and
+  functions), constants and types separate from the entity/architecture pair.
+  Its contents can be used in various architectures, much like the language C
+  utilizes nested functions. As the entity declaration has a architecture body,
+  so the package declaration has a package body.
+* The *package body* contains the functionality of the subprograms.
   Subprograms define algorithms for computing values or exhibiting behavior.
   They can be used to convert types, define output resolution or define ports
   in a process. The two forms of a subprogram are functions and procedures.
-* Lastly, the configuration declaration design unit describes how design
+* Lastly, the *configuration declaration* design unit describes how design
   entities are put together to form a complete system.
