@@ -77,12 +77,15 @@ characteristics such as power consumption and performance can vary).
 Consequently, subtle differences arise between model and architecture styles -
 technology imposes constraints on the type of architectural style that can be
 used whereas there are no technology constraints on the choice of model style
-(ideal case only). This point is examined further in Chapter 4.
+(ideal case only). This point is examined further in
+[Chapter 4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#chapter-4).
 
 The microsystem technologies element in the figure can be anything from
 standard parts to MCMs. As explained above, technologies have a great deal of
 influence on system development because of the constraints technology
-imposes on the choice of an architecture style. Chapter 5 is fully devoted
+imposes on the choice of an architecture style.
+[Chapter 5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#chapter-5)
+is fully devoted
 to various microsystem technologies and their characteristics.
 
 Between the microsystem technologies and description tools elements are
@@ -99,7 +102,8 @@ These are referred to as '*low-level*' and contain the circuit and logic levels.
 The closer the levels (dashes) are to the description tools element, the less
 dependent they are on technology. These levels are referred to as '*high-level*'
 and are above the logic level. The details of these abstraction levels are
-further examined in Chapter 3.
+further examined in
+[Chapter 3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#chapter-3).
 
 A digital system, when viewed in the digital design domain, must be taken as
 a whole because there is a strong connection between all three elements
@@ -253,7 +257,9 @@ technology (i.e. technology-dependent). These low-level abstraction models are
 very limiting to technology migration. When updating the system to a new
 technology, a designer must remodel the entire system (worst case scenario).
 The figure shows that the system has to be modeled four times for the four
-separate technologies. Chapter 4 will explain how to salvage these low-level
+separate technologies.
+[Chapter 4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#chapter-4)
+will explain how to salvage these low-level
 system models for use with other technologies.
 
 ![Figure-2.5-The-Design-Framework-with-Schematic-Capture-Models.jpg](figures/image-coming-soon.png)
@@ -267,7 +273,8 @@ because it is higher in the abstraction levels than the schematic capture models
 The system can be modeled once, then synthesized down to many technologies.
 No redesign is needed; one model is used for all the technologies (ideal case),
 instead of four needed with schematic capture. The role of synthesis is fully
-explained in Chapter 4.
+explained in
+[Chapter 4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#chapter-4).
 
 ![Figure-2.6-The-Design-Framework-with-a-VHDL-Model-Illustrating-Technology-Migration.jpg](figures/image-coming-soon.png)
 
