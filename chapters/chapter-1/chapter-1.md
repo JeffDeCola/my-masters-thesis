@@ -168,7 +168,8 @@ The laboratories also use the *TI Action Logic System* (TI-ALS)
 tools for programming and analyzing a TI/Actel FPGA
 [[Acte92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#acte92)
 [[Texa93b-f]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#texa93b)
-[[Texa92b-j]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#texa92b).
+[[Texa92b-j]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#texa92b)
+**(sic)**.
 
 To further test the advantages and existence of the high-level framework, a ninth
 laboratory experiment using TIs' *Logic Integration Tool* (LIT) is introduced.
@@ -180,7 +181,7 @@ the design model and the design objectives (Refer to
 
 The nine laboratory experiments herein are published in the Texas Instruments book
 "Introduction to FPGA-Based Microsystem Design"
-[[RuH193]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#ruhl93).
+[[RuHl93]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#ruhl93).
 This is part of the TI FPGA University Program, introducing designers to FPGA design,
 a vehicle for fast, in-house, complex digital system implementation.
 
@@ -191,41 +192,63 @@ structural model, synthesized into a FPGA netlist for programming (Refer to
 [[Deco92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#deco92).
 
 This thesis is separated into eight chapters, each building upon the preceding
-ones. Chapter 1 (this chapter) serves as an introduction to the design framework.
+ones.
+[Chapter 1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#chapter-1)
+(this chapter) serves as an introduction to the design framework.
 
-Chapter 2 shows the development and provides a formal explanation of the design framework.
+[Chapter 2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#chapter-2)
+shows the development and provides a formal explanation of the design framework.
 The framework is used to illustrate and analyze schematic capture, VHDL and
 technology migration.
 
 The remaining chapters explore the four basic elements of the design framework.
-Chapter 3 explains the **system model**, the first element in the design framework,
+[Chapter 3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#chapter-3)
+explains the **system model**, the first element in the design framework,
 illustrating its fifteen basic system representations. The capacities of the
 low-level schematic capture and high-level HDL description tools to cover the
 system representations are also shown. VHDL is formally introduced as an HDL example.
 
-Chapter 4 analyzes design synthesis, a powerful **EDA tool** and part of the second
+[Chapter 4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#chapter-4)
+analyzes design synthesis, a powerful **EDA tool** and part of the second
 element in the high-level design framework. The types of synthesis, the use of synthesis
-for technology migration and synthesis systems are discussed. Chapter 4 also
-presents model enhancement and methods of modeling for the synthesis system.
+for technology migration and synthesis systems are discussed.
+[Chapter 4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#chapter-4)
+also presents model enhancement and methods of modeling for the synthesis system.
 
-Chapter 5 examines current and future **microsystem technologies**, the third element
+[Chapter 5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#chapter-5)
+examines current and future **microsystem technologies**, the third element
 in the design framework. MCM, a new technology, is formally introduced. Software
 aided device selection, a powerful tool in the design framework, is also addressed
 with TIs' Logic Integration Tool.
 
-In Chapters 6 and 7 the HISC architecture is used as a case study to analyze
-both design methodologies. Chapter 6 examines and analyzes a
+In
+[Chapters 6](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#chapter-6)
+and
+[7](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#chapter-7)
+the HISC architecture is used as a case study to analyze
+both design methodologies.
+[Chapter 6](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#chapter-6)
+examines and analyzes a
 **low-level vertical design methodology**, part of the fourth element
 in the low-level design framework, using the schematic capture description tool.
 Four goals of any design methodology are also introduced and used to evaluate
 this methodology.
 
-Chapter 7 examines and analyzes a **high-level horizontal design methodology
+[Chapter 7](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#chapter-7)
+examines and analyzes a **high-level horizontal design methodology
 (technology migration)**, part of the fourth element in the high-level design framework,
 using the VHDL description tool. This methodology includes the high-level system
-models from Chapter 3, the synthesis systems discussed in Chapter 4 and the
-microsystem technologies addressed in Chapter 5; creating an integrated process
+models from
+[Chapter 3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#chapter-3)
+, the synthesis systems discussed in
+[Chapter 4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#chapter-4)
+and the
+microsystem technologies addressed in
+[Chapter 5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#chapter-5);
+creating an integrated process
 for implementing complex digital systems.
 
-Finally, Chapter 8 concludes the thesis with a discussion of the noteworthy
+Finally,
+[Chapter 8](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-8/chapter-8.md#chapter-8)
+concludes the thesis with a discussion of the noteworthy
 results and the steps for future work.
