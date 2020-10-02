@@ -133,6 +133,48 @@ the device
 
 ## 5.3 All-Mask ASICs
 
+All-mask ASICs are described as follows:
+
+* All-masks means that the designer has complete control over all the mask
+  layers in the VLSI process. The term refers to both full-custom ASICs
+  such as MCMs and analog/digital technologies as well as semi-custom
+  standard-cells technologies.
+
+Full-custom ASIC design inherently has higher system performance and higher
+transistor density since the designer' can create a highly customized
+system not mandated by a collection of pre-designed parts. Full-custom ASIC
+development can be very expensive in terms of the designer's time and
+non-recurring engineering (NRE) costs because all the mask layers are
+customized. These costs can be justified with higher volumes and the
+decrease in chip count that would have been used
+[[Seid88]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#seid88)
+[[Wake90]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#wake90).
+
+The semi-custom standard-cell approach further reduces costs, over full-custom
+ASICs, by cutting down the design time and NRE
+[[Wake90]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#wake90).
+Pre-designed building blocks such as decoders, registers, memories and even
+PLDs can be used. The designer still has full control over all the mask
+layers and can always add some custom logic when desired
+[[DeSB86]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#desb86).
+For example, the A VSPI design (Refer to Preface) used a CMOS semi-custom
+process in which some die space was available to add a full-customized
+inverter
+[[Deco92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#deco92).
+
+The standard-cells in the library are usually highly structured, having their 1/0
+ports at specific places. The cells are connected by abutments, thus connecting
+the ports together. This reduces the metal routing between cells which can save
+a substantial amount of area
+[[Hart87a]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#hart87a).
+
+One of the main problems o:f all-mask ASICs is their limited flexibility; once the
+system is put into silicon, it is very difficult to change. For example, the
+AVSPI design used Mississippi State University (MSU) standard-cells.
+Teh objective was to get the cells extremely close together at the expense of
+the flexibility to make changes later on
+[[Deco91a]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#Deco91a).
+
 ## 5.4 Gate Arrays and FPGAs
 
 ### 5.4.1 Gate Arrays
