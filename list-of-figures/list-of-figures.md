@@ -23,7 +23,7 @@ Technology Migration](https://github.com/JeffDeCola/my-masters-thesis/blob/maste
 * **4.4** [System Representations Illustrating Synthesis and Design Automation (Model Enhancement)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation)
 * **4.5** [Design Framework Illustrating Model Enhancement](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation)
 * **4.6** [Design Framework Illustrating Different Architecture Styles](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#442-benefits-of-high-level-synthesis-systems)
-* **5.1** []()
+* **5.1** [Integrated Circuit Technology Breakdown](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#51-technology-breakdown)
 * **5.2** []()
 * **5.3** []()
 * **6.1** []()
