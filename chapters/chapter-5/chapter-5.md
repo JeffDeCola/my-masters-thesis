@@ -252,7 +252,7 @@ signal to any sequential logic module. The TPC12 and TPC14 series devices have
 combinational and sequential logic modules while the TPCl0 has only
 combinational logic modules
 [[Texa93f]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#texa93f)
-[[RuH193]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#ruhl93).
+[[RuHl93]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#ruhl93).
 
 The TPC1225A was used in the laboratories (Refer to Appendix G), mainly because
 it was available for use. It has 84-pins with 2,500 gates available for

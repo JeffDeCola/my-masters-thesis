@@ -405,7 +405,8 @@
 
 * *ACT Family Field Programmable Gate Array Data Book*
 * Actel Corporation, Sunnyvale, California. April, 1992.
-* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction)
+* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
+  [5.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
 
 ### [RuHl93]
 
@@ -414,7 +415,8 @@
 * Texas Instruments, Inc., Dallas, Texas. 1993.
 * [Preface](https://github.com/JeffDeCola/my-masters-thesis/blob/master/preface/preface.md#preface),
   [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
-  [3.6.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
+  [3.6.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models),
+  [5.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
 
 ### [RuHl92]
 
@@ -461,7 +463,8 @@
 
 * *FPGA Data Manual*
 * Texas Instruments, Inc., Dallas, Texas. 1993.
-* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction)
+* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
+  [5.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
 
 ### [Texa93g]
 
@@ -775,6 +778,7 @@
 * "Reprogrammable Missile: How an FPGA Adds Flexibility to the Navy's Tomahawk"
 * *Military & Aerospace Electronics*
 * Sentry Publishing Company, Inc., Westborough, Massachusetts. April, 1990.
+* [5.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
 
 ### [Xili92a]
 
@@ -790,11 +794,13 @@
 
 * *XC3100 Logic Cell Array Family Technical Data*
 * Xilinx, Inc., San Jose, California. December, 1992.
+* [5.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
 
 ### [Xili92d]
 
 * *The XC4000 Databook*
 * Xilinx, Inc., San Jose, California. August, 1992.
+* [5.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
 
 ### [Xili92e]
 
@@ -816,11 +822,13 @@
 
 * *XACT 4000 Development System Design Interface User Guide*
 * Xilinx, Inc., San Jose, California. August, 1991.
+* [5.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
 
 ### [Xili91d]
 
 * *XC4000 Design Implementation Reference Manual*
 * Xilinx, Inc., San Jose, California. August, 1991.
+* [5.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
 
 ### [Xili91e]
 
