@@ -20,6 +20,7 @@
 * "MCM Repair System Designed to MCC Specs"
 * *Electronic Engineering Times*
 * CMP Publications, Inc., Manhasset, New York. February 25, 1991. pg. 133.
+* [5.5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#552-design-issues)
 
 ### [BrBu92]
 
@@ -27,6 +28,7 @@
 * "MCM Designs Require Exhaustive Thermal Analysis"
 * *Electronic Data News*
 * December 24, 1992.  pp. 96-104.
+* [5.5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#552-design-issues)
 
 ### [CaWa91]
 
@@ -50,6 +52,7 @@
 * "Multichip Modules Stride Towards Greater Acceptance"
 * *Electronic Products*
 * February, 1993. pp. 15-19.
+* [5.5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#552-design-issues)
 
 ### [Cost92]
 
@@ -57,6 +60,7 @@
 * "Intel Rolls Dice for MCM Makers"
 * *Electronic Engineering Times, Issue 693*
 * CMP Publications, Inc., Manhasset, New York. May 4, 1992.
+* [5.5.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#551-a-new-technology)
 
 ### [Dasg89a]
 
@@ -152,6 +156,7 @@
 * "MCMs Push Design and Test Tools to the Limit"
 * *Computer Design, Volume 31, Number 81*
 * Penn Well Publishing Company, Tulsa, Oklahoma. August, 1992. pp. 59-65.
+* [5.5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#552-design-issues)
 
 ### [EBCH86]
 
@@ -219,6 +224,8 @@
 * *Multichip Modules: System Advantages, Major Constructions,
   and Materials Technologies*
 * IEEE Press, Piscataway, New Jersey. 1991.
+* [5.5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#55-multichip-modules-mcms),
+  [5.5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#553-multichip-module-assemblies)
 
 ### [LaMc86]
 
@@ -262,6 +269,7 @@
 * "Military Multichip Modules Need 'Perfect' Die"
 * *Electronic Products*
 * October, 1992. pp. 41-51.
+* [5.5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#552-design-issues)
 
 ### [Seid88]
 
@@ -433,7 +441,8 @@
 * Janelle Richards, Editor
 * *Integration, Volume 10, Number 1*
 * Texas Instruments, Inc., Dallas, Texas. January, 1993. pg. 3.
-* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction)
+* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
+  [5.6.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#561-the-logic-integration-tool-lit)
 
 ### [Texa93b]
 
@@ -451,7 +460,8 @@
 
 * *FPGA Applications Handbook*
 * Texas Instruments, Inc., Dallas, Texas. 1993.
-* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction)
+* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
+  [5.6.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#561-the-logic-integration-tool-lit)
 
 ### [Texa93e]
 
@@ -476,7 +486,8 @@
 
 * *Logic Integration Tool, Version 1.0 Software User's Guide*
 * Texas Instruments, Inc., Dallas, Texas. 1992.
-* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction)
+* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
+  [5.6.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#561-the-logic-integration-tool-lit)
 
 ### [Texa92b]
 

@@ -300,14 +300,243 @@ For reference, the main steps are listed in Table 5.1.
 
 ## 5.5 Multichip Modules (MCMs)
 
+MCMs are hailed as the packaging technology of the 1990s, where surface mount
+was the packaging technology of the 1980s. Since MCMs are a fairly new
+technology, there are few comprehensive books on the subject; most information
+is gathered by reading newspaper articles, periodicals and selected papers.
+Most of the information in this section came from a collection of papers in
+[[JoTB91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#jotb91).
+
 ### 5.5.1 A New Technology
+
+There has always been motivation to develop high density devices that are cost
+effective and have reduced design times. Density is usually achieved at the
+chip level. There is now a trend to increase the density at the interconnect
+level. MCMs allow this to happen.
+
+An MCM is a new packaging technology in which dice (chips without a package)
+are interconnected on a substrate (metal, silicon or ceramic) at the silicon
+level, not at the PC-board, hybrid or backplane level. This allows the
+dice to be placed extremely close together, with short interconnections
+between them.
+
+Figure 5.2 illustrates a general MCM configuration. An MCM consists of an
+assembly and various dice that contain the digital systems. The assembly
+unit is the structure that contains the interconnections between the dice
+and the external environment. As an analogy, an MCM is a very small PC-board.
+
+![Figure-5.2-General-MCM-Assembly-Unit-and-Dice.jpg](figures/image-coming-soon.png)
+
+**Figure 5.2** *General MCM Assembly Unit and Dice*
+
+International Business Machines (IBM) was one of the first companies to
+embrace this new technology with its use of an MCM in one of its mainframe
+computers in the early 1980s. The cost at the time was much higher than
+with conventional interconnection methods, but IBM justified the cost
+with an increase in circuit performance. This was due to the shorter
+interconnections between the dice, allowing shorter path delays.
+
+Besides performance, there are many other advantages to using MCMs.
+The size of the system is reduced due to dice proximity. The weight
+is also reduced due to the smaller size. Size and weight are
+important for many applications such as notebook PCs, pagers and
+hand-held phones.
+
+With wide-spread use, the cost of MCMs will go down, making them more
+affordable for many companies. Also, current chip manufacturers will
+offer dice that designers can use in their MCMs. Intel's 8086 line of
+microprocessors are now available in die form
+[[Cost92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#cost92).
 
 ### 5.5.2 Design Issues
 
+In order to make this technology acceptable and feasible to industry, many
+obstacles still need to be addressed; the high cost of prototyping, questions of
+testing, difficulty of repairing and the low-yield. To overcome these obstacles,
+four basic design issues are explored; testing requirements, known-good dice
+(KGD), sophisticated EDA tools and adequate design and process standards
+[[Chin93]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#chin93).
+
+The first issue, testing, helps increase the yield of MCMs. Testing MCMs needs
+to happen at all phases in the design process. At the MCM assembly level,
+signal integrity, thermal analysis and functionality must be tested. Signal
+integrity involves cross-talk, noise and speed limits. Thermal analysis is
+important because MCMs can dissipate huge amounts of heat, sometimes as much
+as 1,000 watts. This can cause cracking and welting of the material. Materials,
+chip placement and packaging must be utilized to help reduce heat
+[[BrBu92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#brbu92).
+Testing is also performed during the manufacturing process. For example,
+each layer of the assembly must be tested and repaired before the next layer
+is fabricated. This insures proper functionality of the interconnections
+[[Donl92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#donl92).
+
+Secondly, KGD must be addressed. KGD must be used with MCMs to further
+increase the yield. Defective dice, when attached to MCMs are disastrous,
+because repairing can be difficult. If possible, the die must be removed and replaced
+[[Bind91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#bind91).
+KGD means that the dice must be unpackaged, ready for MCM assembly, electrically
+reliable and functionally guaranteed. The reason for the shortage of KGD is
+that testing bare dice is costly, difficult, slow and potentially harmful. Most
+silicon vendors will not do this because of the small market
+[[Donl92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#donl92)
+[[PoGa92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#poga92).
+
+Lastly, advanced EDA tools and design/process standards for MCMs are just now
+being addressed by industry.
+
 ### 5.5.3 Multichip Module Assemblies
+
+The MCM assemblies and chip attachment methods offer a huge variety of choices,
+each with their own limitations and problems. To discuss all of the various
+technologies would be a book in itself. It is the intention here to give an
+overview (Refer to Figure 5.2 throughout this discussion).
+
+There are many MCM mutilayer **(sic)** assemblies that provide the structure to hold
+the dice. An assembly consists of insulating levels containing conductive
+interconnections and a substrate used to support the levels. A package is
+used to hold the substrate, providing the pins and a heat sink
+[[JoTB91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#jotb91).
+
+The first MCM assembly used a cofired multilayer ceramic technology referred to
+as MCM-C. The assembly is built up with alumina ceramic tape and cofired with
+metal to produce the interconnections. The assembly provided enough structural
+support to hold the dice. A drawback is that the high dielectric constant of
+ceramic alumina limits the interconnection density per layer. A lower
+dielectric material will increase the interconnection density because the
+layers can be made thinner. Decreasing the dielectric thickness per layer
+brings the ground planes closer to the layers which reduces the cross­talk
+around the interconnections. Reduced cross-talk allows the interconnections
+to be closer, hence increased interconnection density per layer.
+
+Another MCM multilayer assembly uses the familiar silicon integrated circuit
+processing technology ref erred to as MCM-Si. This silicon-on-silicon process
+starts with a silicon substrate and deposits layers of a silicon dioxide
+dielectric on the silicon sub,strate with aluminum metallization for the
+interconnects. This is called thin-film multilayer modules on. silicon.
+The name thin-film is used because the silicon dielectric layers are thin
+due to their low dielectric constant whereas MCM-C is referred to as a
+thick-film because the dielectric layers are much thicker.
+
+A silicon-on-silicon process has many advantages. The widths of the
+interconnects can be reduced to 1O-microns because of the lower dielectric
+constant. Silicon processing technology is widely known and is highly available
+because of the many silicon fabrication plants. The thermal coefficient of
+expansion (TCE) between the die and substrate is the same since it is the
+same material. A matched TCE is extremely important for structural integrity.
+An unmatched TCE can rip apart the assembly when heat is introduced, because
+the materials will expand differently, creating stress on the assembly.
+The main problems with silicon-on-silicon are that multiple layers of silicon
+dioxide are difficult to produce and the high resistance of aluminum limits
+speed. Moreover, silicon as a substrate is not mechanically strong enough to
+hold the dice, reinforcements such as alumina ceramics must be used to provide
+support and protection (package). This is a problem because the adhesives
+(used between the substrate and package) such as aluminum nitride or silicon
+carbide provide inefficient heat transfer; although on the positive side
+they do adhere the ceramic to the silicon and provide a resilience which
+makes up for unmatched TCE.
+
+A variation of the above technology called MCM-D uses an organic polymer
+dielectric instead of silicon dioxide for the insulating layers.
+A silicon substrate is still used to hold up the layers, as well as the
+ceramic package utilized to reinforce the silicon. The polymer layer process
+is easier to produce and allows the use of a lower resistance interconnection
+metal such as copper rather than aluminum. Polymide is a popular dielectric
+polymer because of its low dielectric constant, which. as explained above,
+can increase increase interconnection density. A disadvantage is that some
+polymers, during the layering process can leave bumps where the metal
+lines are located. New levels added, using the standard photolithogmphic
+process, will be unevenly focused and produce poor interconnections.
+The solution is to use a costly polishing process before each polymer
+layer is added.
+
+It became evident that the silicon substrate in a MCM-D assembly can be
+removed because it is not needed to hold up the organic polymer dielectric
+layers. A new substrate that can still match the TCE of the dice can be used,
+such as certain metals and ceramics. The dice are directly attached to the new
+substrate through holes in the dielectric. The result is called thin-film
+multilayer modules on metal or ceramic substrates. In summary, for an
+enhanced MCM-D, the layers use a low dielectric organic polymer such as
+polymide, the interconnections use a low resistance metal such as copper and
+the substrate has a matched TCE to silicon such as metal or ceramics.
+
+Lastly, MCM-L is a technology that is a variation of the epoxy PC-board process.
+It uses a high-density laminate printed-circuit board technique.
+
+The die attachment methods are as varied as the assembly technologies.
+They include tape-automated bonding (TAB), solder bump, wirebond
+and direct on chip metallization. Figure 5.2 illustrates a solder bump.
 
 ## 5.6 Selecting a Technological Device
 
+Technology is chosen from a marriage between the designer's objectives
+and the device's technological characteristics. Choosing an appropriate
+technology based on the design objectives is not an easy task because of
+the tremendous amount of information the designer must consider.
+Evaluating the trade-offs between all the available devices
+(microsystem technologies) is extremely time consuming and tedious.
+
+Technology selection is traditionally done at the beginning of the design
+process because the implementation tools are available, the designer is
+familiar with them or some sort of quick analysis justified the decision.
+This early selection locks the designer into the device's constraints such
+as power consumption, pin count or size.
+
+Selecting a technology later in the design process, after the system has
+been somewhat modeled, provides a better way for the designer to focus on
+the right technology. This process works best with high-level models as
+they are not yet technology-dependent. In contrast, low-level models are
+too dependent on the technology and could force the selection of an inefficient
+device.
+
+Using a software aided selection tool is invaluable in this process.
+It does all the calculations, recommending a specific technology based on
+the system model and the design objectives. It can reduce the tedium and
+time spent in determining which logic device best meets the design objectives.
+It is a powerful tool in the design framework as illustrated in Figure 5.3.
+
+![Figure-5.3-Design-Framework-Illustrating-Software-Aided-Device-Selection.jpg](figures/image-coming-soon.png)
+
+**Figure 5.3** *Design Framework Illustrating Software Aided Device Selection*
+
 ### 5.6.1 The Logic Integration Tool (LIT)
 
+Laboratory 1 introduces the Logic Integration Tool (LIT) from TI (Refer to
+[Appendix C](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-c/appendix-c.md#appendix-c)).
+The LIT aids the designer in choosing the most appropriate technology based on
+the design objectives and the system model. It takes the tedious work out
+of mulling over design objectives. The LIT can be used to analyze a new or
+old models
+[[Texa93a,d]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#texa93a)
+[[Texa92a]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#texa92a).
+
+The program allows the designer to graphically experiment, in real-time, with
+the effects of varying the design objectives. A detailed explanation of why a
+particular technology was chosen is also given. The seven basic design
+objectives considered are cost, NRE, power, area, lead time (time-to-market),
+design flexibility and volume. Each one has a trade off with the other.
+For example, reduced power can increase cost, while reduced area can affect
+lead time.
+
+Although the LIT is limited only to TI parts, this tool demonstrates a step in
+the right direction. Eventually a comprehensive database which evaluates all
+available microsystem technologies will be developed.
+
 ### 5.6.2 Software Aided Selection Issues
+
+There are some basic issues that the designer must be aware of when using
+software aided device selection tools. For instance, designers must not
+rely solely upon the selection program to think for them. They must not
+be satisfied with the program's chosen technological device as the only
+possible choice. Therefore, it is necessary that the designer fully
+understand how the program works and how it reaches its conclusions.
+This will provide the designer with the ability to understand and prove
+that the chosen device is able to meet the system's objectives.
+
+Another important point is that some programs, such as the LIT, are
+vendor specific. That is, the programs are geared only towards particular
+technologies. This is limiting in that the programs will not consider
+devices from other vendors that could be better choices.
+
+Lastly, the choice derived from the program can only be as good as the
+information supplied. Therefor, the programs must provide the designer
+with the ability to enter relevant system objectives.
