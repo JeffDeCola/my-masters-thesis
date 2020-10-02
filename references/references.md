@@ -90,7 +90,8 @@
 * Department of Electrical and Computer Engineering
 * EE796 - VLSI Systems Course
 * University of New Hampshire, Durham, New Hampshire. May, 1991.
-* [Preface](https://github.com/JeffDeCola/my-masters-thesis/blob/master/preface/preface.md#preface)
+* [Preface](https://github.com/JeffDeCola/my-masters-thesis/blob/master/preface/preface.md#preface),
+  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
 
 ### [Deco91b]
 
@@ -112,7 +113,8 @@
 * University of New Hampshire, Durham, New Hampshire. May, 1991.
 * [Preface](https://github.com/JeffDeCola/my-masters-thesis/blob/master/preface/preface.md#preface),
   [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
-  [3.6.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#361-benefits-and-limitations-of-vhdl)
+  [3.6.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#361-benefits-and-limitations-of-vhdl),
+  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
 
 ### [DeSB86]
 
@@ -121,7 +123,8 @@
 * Satoshi Goto, Editor
 * *Advances in CAD for VLSI, Volume 6: Design Methodologies*
 * Elsevier Science Publishing Company, Inc., New York, New  York. 1986. pp. 43-82.
-* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction)
+* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
+  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
 
 ### [DGLW92]
 
@@ -185,7 +188,8 @@
   [3.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#34-hardware-description-languages-and-simulation),
   [3.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#341-high-level-hdl-applications-and-benefits),
   [3.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#342-limitations---industry-view-of-an-hdl),
-  [3.5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#35-multi-level-description-environment-and-multi-level-simulation)
+  [3.5](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#35-multi-level-description-environment-and-multi-level-simulation),
+  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
 
 ### [Hart87b]
 
@@ -263,7 +267,8 @@
 * Robert B. Seidensticker
 * *The Well-Tempered Digital Design*
 * Addison-Wesley Publishing Company, Inc., Reading, Massachusetts. 1988.
-* [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
+* [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds),
+  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
 
 ### [SeFi91]
 
@@ -279,7 +284,8 @@
 * Prentice Hall, Englewood Cliffs, New Jersey. 1990.
 * [3.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#33-schematic-capture-and-simulation),
   [3.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#34-hardware-description-languages-and-simulation),
-  [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
+  [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds),
+  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
 
 ## II. Alternative System Concepts and CAD Language Systems, Inc. Related Documentation
 
