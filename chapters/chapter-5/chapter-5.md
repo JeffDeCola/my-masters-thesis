@@ -177,9 +177,126 @@ the flexibility to make changes later on
 
 ## 5.4 Gate Arrays and FPGAs
 
+Gate arrays and FPGAs are semi-custom ASIC devices that are popular with industry
+since they provide reduced design time and lower NRE costs than all-mask ASIC
+development.
+
 ### 5.4.1 Gate Arrays
 
+Gate arrays use a large number of_identical transistors arranged in a
+pre-designed pattern with the interconnections left unspecified. Customization
+is accomplished at the metal mask layers only. First, the designer uses an
+EDA tool to specify the logic functions. Then, an automated process creates
+a metal interconnect file that determines the interconnect configuration of
+the metal mask layers, creating the desired functions. The metal layer file
+is then sent to a foundry (along with test vectors) where it is combined with
+the lower pre-designed mask layers for fabrication. It usually takes a few
+weeks before the chip is returned
+[[Texa88]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#texa88)
+[[RuHl92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#ruhl92).
+
+The benefits and limitations of gate arrays can be understood more clearly when
+compared to the standard-cell process. Both send mask layers to a foundry, but gate
+arrays cost less since most of the mask layers are pre-designed.
+This factor alone reduces NRE costs.  To further reduce NRE costs, higher volume
+is necessary.
+
+A disadvantage of gate arrays is that their internal transistors are the same,
+arranged in an organized architecture.  This can take up more space than the standard-cell
+approach - as much as 25% more
+[[DeSB86]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#desb86)
+[[Wake90]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#wake90).
+The larger size uses more power and has slower performance because of the
+longer wire lengths. Also, the designer can not incorporate full-custom logic
+using gate arrays, eliminating the option of customizing an area of a chip
+for high performance.
+
 ### 5.4.2 FPGA Architectures and Programming
+
+FPGAs are similar to gate arrays, but they do not have to be sent to a foundry
+for fabrication. The interconnections can be programmed in-house.
+FPGAs combine the highly structured architecture of gate arrays and the
+programmability of PLDs to produce a very high density user programmable logic
+device. FPGAs contain a large array of macrocells embedded in a matrix of
+programmable interconnect segments. They also can have resistors for datapath
+applications. The drawback is, as with gate arrays, they take up a large amount
+of silicon because of their highly organized structure, thus reducing speed,
+increasing power consumption and increasing cost. Furthermore, like gate arrays,
+they cannot have full customization for performance requirements.
+
+FPGAs are becoming extremely popular because of the reduced design time over
+other ASIC processes. Also, FPGAs can be programmed and verified in a few
+days as opposed to several weeks in the standard-cell and gate-array approaches.
+
+FPGAs come in a variety of packages, 1/0 pin counts, speeds and densities.
+FPGA device architecture differs from vendor to vendor, each having their
+own niche in the marketplace.
+
+In the TI laboratory experiments
+(Appendices C-K),
+TI/Actel FPGAs were implemented. They come in three series - TPCl0, TPC12 and
+TPC14, each with their own family of devices and with their own characteristics
+such as gate densities, logic modules, pin counts, power requirements and
+packaging. The equivalent gate density ranges from 1,000 to 10,000 gates
+and all TI/Actel FPGAs are one-time programmable. For more information
+about the particular characteristics of the devices refer to
+[[Texa93f]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#texa93f)
+[[Acte92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#acte92).
+
+The architectural elements of the TPC series consists of logic modules, routing
+channels and a clock distribution network. The logic modules are set up in rows
+that are separated by routing tracks. An antifuse method is used to program
+the logic modules to perform a particular function and set up the required
+routing track connections. The clock distribution network can supply a clock
+signal to any sequential logic module. The TPC12 and TPC14 series devices have
+combinational and sequential logic modules while the TPCl0 has only
+combinational logic modules
+[[Texa93f]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#texa93f)
+[[RuH193]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#ruhl93).
+
+The TPC1225A was used in the laboratories (Refer to Appendix G), mainly because
+it was available for use. It has 84-pins with 2,500 gates available for
+programming. It uses two-metal CMOS, and employs the antifuse technology.
+
+Xilinx is another manufacturer of FPGAs. Their products have configurable
+logic blocks (CLBs) that control the functionality, input output blocks
+(IOBs) for the external interface and internal interconnections that connect
+the CLBs and IOBs together. Common families are the XC3l00 and XC4000,
+all of which are reprogrammable
+[[Xili91c-d]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#xili91c)
+[[Xili92c-d]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#xili92c).
+
+Reprogrammable FPGAs (RAM based FPGAs) have the advantage of changing the
+internal architecture. They come in two forms; volatile and non-volatile.
+Non-volatile FPGAs, like EPLDs, keep their customized structure until a
+process, such as ultra-violet light, erases it. Volatile FPGAs lose all
+customized structure when power is turned off. Volatile FPGA are programmed
+upon startup by receiving information from a memory chip
+(usually the configuration information is contained in a ROM).
+Reprogrammability is advantageous since multiple hardware configurations
+can be obtained from the same FPGA, conserving space in space limited systems
+[[Tall90]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#tall90).
+Some drawbacks are the amount of time it takes to program upon startup and the
+susceptibility to faults caused by radiation.
+
+For an example of programming a typical FPGA, refer to Laboratory 5A
+([Appendix G](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-g/appendix-g.md)).
+For reference, the main steps are listed in Table 5.1.
+
+|       |                                           |  
+|------:|:------------------------------------------|
+| 1)    | Front-End Preparation                     |
+| 2)    | Wirelist Optimization (Optional)          |
+| 3)    | Enter Programming Environment             |
+| 4)    | Select Package and Device                 |
+| 5)    | Manual I/0 Pin Assignments (Optional)     |
+| 6)    | Validate, Place, Route and Extract        |
+| 7)    | Static Timing Verification (Optional)     |
+| 8)    | Back Annotation (Optional)                |
+| 9)    | Device Programming                        |
+| 1O)   | Verification                              |
+
+**Table 5.1** *TI-ALS FPGA Programming Flowchart*
 
 ## 5.5 Multichip Modules (MCMs)
 

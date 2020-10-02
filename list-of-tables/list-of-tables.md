@@ -3,7 +3,7 @@
 # LIST OF TABLES
 
 * **2.1** [Low and High-Level Design Framework Capabilities](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-2/chapter-2.md#22-design-framework)
-* **5.1** []()
+* **5.1** [TI-ALS FPGA Programming Flowchart](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
 * **6.1** []()
 * **6.2** []()
 * **7.1** []()

@@ -124,7 +124,8 @@
 * *Advances in CAD for VLSI, Volume 6: Design Methodologies*
 * Elsevier Science Publishing Company, Inc., New York, New  York. 1986. pp. 43-82.
 * [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
-  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
+  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics),
+  [5.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#541-gate-arrays)
 
 ### [DGLW92]
 
@@ -285,7 +286,8 @@
 * [3.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#33-schematic-capture-and-simulation),
   [3.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#34-hardware-description-languages-and-simulation),
   [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds),
-  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
+  [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics),
+  [5.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#541-gate-arrays)
 
 ## II. Alternative System Concepts and CAD Language Systems, Inc. Related Documentation
 
@@ -421,6 +423,7 @@
 * Department of Electrical and Computer Engineering
 * Intelligent Structures Group
 * University of New Hampshire, Durham, New Hampshire. 1992.
+* [5.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#541-gate-arrays)
 
 ### [Texa93a]
 
@@ -527,6 +530,7 @@
 
 * *CMOS Gate Array Design Manual*
 * Texas Instruments, Inc., Dallas, Texas. 198
+* [5.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#541-gate-arrays)
 
 ### [Texa85]
 
