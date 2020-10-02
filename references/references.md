@@ -156,6 +156,7 @@
 * Satoshi Goto, Editor
 * *Advances in CAD for VLSI, Volume 6: Design Methodologies*
 * Elsevier Science Publishing Company, Inc., New York, New York. 1986. pp. 3-41.
+* [5.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#51-technology-breakdown)
 
 ### [Gajs91]
 
@@ -171,7 +172,7 @@
   [4.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system),
   [4.4.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#442-benefits-of-high-level-synthesis-systems),
   [4.5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#452-modeling-for-the-target-technology-using-vhdl)
-  
+
 ### [Hart87a]
 
 * R. W. Hartenstein
@@ -248,6 +249,7 @@
 * Satoshi Goto, Editor
 * *Advances in CAD for VLSI, Volume 6: Design Methodologies*
 * Elsevier Science Publishing Company, Inc., New York, New York. 1986. pp. 83-122.
+* [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
 
 ### [PoGa92]
 
@@ -261,6 +263,7 @@
 * Robert B. Seidensticker
 * *The Well-Tempered Digital Design*
 * Addison-Wesley Publishing Company, Inc., Reading, Massachusetts. 1988.
+* [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
 
 ### [SeFi91]
 
@@ -275,7 +278,8 @@
 * *Digital Design Principles and Practices*
 * Prentice Hall, Englewood Cliffs, New Jersey. 1990.
 * [3.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#33-schematic-capture-and-simulation),
-  [3.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#34-hardware-description-languages-and-simulation)
+  [3.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#34-hardware-description-languages-and-simulation),
+  [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
 
 ## II. Alternative System Concepts and CAD Language Systems, Inc. Related Documentation
 
@@ -454,6 +458,7 @@
 
 * *The Programmable Logic Data Book*
 * Texas Instruments, Inc., Dallas, Texas. 1993.
+* [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
 
 ### [Texa92a]
 
@@ -521,6 +526,7 @@
 
 * *TTL Data Book, Volume 2*
 * Texas Instruments, Inc., Dallas, Texas. 1985
+* [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
 
 ## V. Viewlogic Related Documentation
 
@@ -784,6 +790,7 @@
 
 * *The EPLD Databook*
 * Xilinx, Inc., San Jose, California. 1992.
+* [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
 
 ### [Xili91a] *(sic)*
 
