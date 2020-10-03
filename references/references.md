@@ -237,7 +237,7 @@
 * [6.1.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#613-general-low-level-steps),
   [6.2.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#621-goals-of-a-design-methodology),
   [7.1.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#711-top-down-modeling)
-  
+
 ### [Nava91]
 
 * Zainalabedin Navabi
@@ -897,7 +897,7 @@
 * *Computer Engineering, Hardware Design*
 * Prentice Hall, Englewood Cliffs, New Jersey. 1988.
 
-#### [Mass88]
+### [Mass88]
 
 * *Massachusetts Microelectronics Center:
   A University-Industry-State Partnership in Technology Education*
