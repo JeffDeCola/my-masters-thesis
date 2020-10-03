@@ -26,7 +26,7 @@ entire thesis, are the key to technology migration. Figure 7.1 illustrates
 technology migration in the high-level design framework, showing the horizontal
 flow and the multiplicity of the model/technology pairs.
 
-![Figure-7.1-High-Level-Design-Framework.jpg](figures/image-coming-soon.png)
+![Figure-7.1-High-Level-Design-Framework.jpg](figures/Figure-7.1-High-Level-Design-Framework.jpg)
 
 **Figure 7.1** *High-Level Design Framework*
 
