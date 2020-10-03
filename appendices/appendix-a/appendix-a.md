@@ -20,30 +20,20 @@
   * Viewlogic Workview EDA tools.
   * WordPerfect 5.1.
   * Xilinx automatic CAE tools.
-
   * **Activator 1 FPGA Programmer (With PC Card)**
-
     * Works in conjunction with the TI-ALS environment to program TI/Actel
       FPGAs. Can program TI/Actel ACT l FPGA family (A1O1O, A1020, A1O1OA, Al020A).
-
     * **Activator 1 68 PLCC Actionprobe**
-
       * The Actionprobe is used for 100% real-time observability of internal
         nodes while a FPGA is running on the target system.
-
   * **Activator 2 FPGA Programmer (With PC Card)**
-  
     * Works in conjunction with the TI-ALS environment to program TI/Actel
       FPGAs. Can program TI/Actel ACT I and TI/Actel ACT 2 FPGA family
       depending on the programming modules.
-
     * **Activator 2 84 PLCC Programming Module**
-
       * For use with the Activator 2 for programming the ACT 1 and ACT 2 84
         PLCC.
-
     * **Actionprobe**
-
       * A hardware diagnostic device that is used to observe internal circuit
         nodes from the external device pin.
 
