@@ -37,7 +37,7 @@ The digital design domain represents a designer's view of a digital system
 It is important because it formulates the foundation of the
 design framework.
 
-![Figure-2.1-The-Digital-Design-Domain.jpg](figures/image-coming-soon.png)
+![Figure-2.1-The-Digital-Design-Domain.jpg](figures/Figure-2.1-The-Digital-Design-Domain.jpg)
 
 **Figure 2.1** *The Digital Design Domain*
 
