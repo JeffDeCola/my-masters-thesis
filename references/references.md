@@ -234,6 +234,8 @@
 * Satoshi Goto, Editor
 * *Advances in CAD for VLSI, Volume 6: Design Methodologies*
 * Elsevier Science Publishing Company, Inc., New York, New York. 1986. pp. 123-149.
+* [6.1.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#613-general-low-level-steps),
+  [6.2.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#621-goals-of-a-design-methodology)
 
 ### [Nava91]
 
@@ -253,6 +255,7 @@
 * Satoshi Goto, Editor
 * *Advances in CAD for VLSI, Volume 6: Design Methodologies*
 * Elsevier Science Publishing Company, Inc., New York, New York. 1986. pp. 151-182.
+* [6.1.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#613-general-low-level-steps)
 
 ### [ObCD86]
 
@@ -295,7 +298,8 @@
   [3.4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#34-hardware-description-languages-and-simulation),
   [5.2](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds),
   [5.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics),
-  [5.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#541-gate-arrays)
+  [5.4.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#541-gate-arrays),
+  [6.1.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#613-general-low-level-steps)
 
 ## II. Alternative System Concepts and CAD Language Systems, Inc. Related Documentation
 
