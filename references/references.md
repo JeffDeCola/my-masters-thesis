@@ -235,8 +235,9 @@
 * *Advances in CAD for VLSI, Volume 6: Design Methodologies*
 * Elsevier Science Publishing Company, Inc., New York, New York. 1986. pp. 123-149.
 * [6.1.3](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#613-general-low-level-steps),
-  [6.2.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#621-goals-of-a-design-methodology)
-
+  [6.2.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#621-goals-of-a-design-methodology),
+  [7.1.1](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#711-top-down-modeling)
+  
 ### [Nava91]
 
 * Zainalabedin Navabi
