@@ -1,6 +1,9 @@
+# GLOSSARY
+
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
-# GLOSSARY
+* [I. General Acronyms and Technical Terms](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#i-general-acronyms-and-technical-terms)
+* [II. CAE Environment Acronyms and Technical Terms](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ii-cae-environment-acronyms-and-technical-terms)
 
 ## I. General Acronyms and Technical Terms
 

@@ -1,6 +1,20 @@
+# CHAPTER 5
+
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
-# CHAPTER 5
+* 5.1 [Technology Breakdown](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#51-technology-breakdown)
+* 5.2 [Standard Parts and PLDs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#52-standard-parts-and-plds)
+* 5.3 [All-Mask ASICs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#53-all-mask-asics)
+* 5.4 [Gate Arrays and FPGAs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#54-gate-arrays-and-fpgas)
+  * 5.4.1 [Gate Arrays](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#541-gate-arrays)
+  * 5.4.2 [FPGA Architectures and Programming](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#542-fpga-architectures-and-programming)
+* 5.5 [Multichip Modules (MCMs)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#55-multichip-modules-mcms)
+  * 5.5.1 [A New Technology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#551-a-new-technology)
+  * 5.5.2 [Design Issues](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#552-design-issues)
+  * 5.5.3 [Multichip Module Assemblies](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#553-multichip-module-assemblies)
+* 5.6 [Selecting a Technological Device](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#56-selecting-a-technological-device)
+  * 5.6.1 [The Logic Integration Tool (LIT)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#561-the-logic-integration-tool-lit)
+  * 5.6.2 [Software Aided Selection Issues](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-5/chapter-5.md#562-software-aided-selection-issues)
 
 ## OVERVIEW OF MICROSYSTEM TECHNOLOGIES
 
