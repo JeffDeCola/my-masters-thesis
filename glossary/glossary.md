@@ -12,7 +12,8 @@
 
 ### Abstraction
 
-* A way to tangibly describe a digital system. Refer to abstraction level.
+* A way to tangibly describe a digital system. Refer to
+  [abstraction level]().
 
 ### Abstraction level
 
@@ -22,7 +23,11 @@
 
 ### Actel
 
-* A manufacturer of FPGAs. Refer to TPClO, TPC12 and TPC14.
+* A manufacturer of FPGAs. Refer to
+  [TPClO](),
+  [TPC12]()
+  and
+  [TPC14]().
 
 ### Algorithmic level
 
@@ -52,7 +57,8 @@
 
 ### ALS
 
-* Action Logic System - Refer to TI-ALS.
+* Action Logic System - Refer to
+  [TI-ALS]().
 
 ### Analog/Digital
 
@@ -67,7 +73,8 @@
 
 * A term for the type of programming element used in TPC arrays (TI/Actel
   FPGA family). An antifuse is an element which is normally open. but converts
-  to a resistive connection when programmed. Refer to TI-ALS.
+  to a resistive connection when programmed. Refer to
+  [TI-ALS]().
 
 ### Architecture style
 
@@ -122,7 +129,8 @@
 
 ### Boolean function
 
-* Refer to Boolean equation.
+* Refer to
+  [Boolean equation]().
 
 ### Bottom-up modeling
 
@@ -158,7 +166,8 @@
 
 ### Cell
 
-* Refer to standard-cell.
+* Refer to
+  [standard-cell]().
 
 ### CFI
 
@@ -178,7 +187,8 @@
 
 ### CHL
 
-* Computer Hardware Language -Refer to CHDL.
+* Computer Hardware Language - Refer to
+  [CHDL]().
 
 ### CIF
 
@@ -230,7 +240,8 @@
 
 ### Combinational logic
 
-* Outputs depends only on its current inputs. Refer to sequential logic.
+* Outputs depends only on its current inputs. Refer to
+  [sequential logic]().
 
 ### Compile
 
@@ -258,7 +269,10 @@
 
 ### Constructs
 
-* The building block of a language. Refer to syntax and semantics.
+* The building block of a language. Refer to
+  [syntax]()
+  and
+  [semantics]().
 
 ### Correlation
 
@@ -283,7 +297,8 @@
 
 ### Dataflow
 
-* Refer to RTL.
+* Refer to
+  [RTL]().
 
 ### Debugger
 
@@ -305,7 +320,8 @@
 
 ### Description
 
-* Refer to system model.
+* Refer to
+  [system model]().
 
 ### Description tool
 
@@ -339,10 +355,1129 @@
 ### Design methodology
 
 * The process used to develop a system from concept-to-silicon. Refer to
-  vertical and horizontal design methodology.
+  [vertical]()
+  and
+  [horizontal design methodology]().
 
 ### DFT
 
 * Design for Test - A system model with the capability for testing.
 
+### DHDL
+
+* Digital Hardware Description Language - A subset of HDL for designing digital
+  systems.
+
+### DHL
+
+* Digital Hardware Language - A subset of HL for designing digital hardware.
+
+### DHSL
+
+* Digital Hardware/Software Language - A Subset of HSL. Merger of PL and DHL.
+
+### Dice
+
+* Plural of die.
+
+### Dichotomy
+
+* To mutually exclusive areas such as the control and process sections of
+  a microprocessor.
+
+### Die
+
+* A system on a single silicon substrate before before being placed into a package.
+  Usually cut from a silicon wafer.
+
+### DIP
+
+* Dual Inline Package - A standard rectangular IC package with pins extending
+  from two larger edges.
+
+### DL
+
+* Design Language - A multi-abstraction level language with refinement
+  capabilities.
+
+### DOD
+
+* Department of Defense - A United States government defense agency.
+
+### DRC
+
+* Design Rule Checker - An EDA tool that detects errors in a system
+  model.
+
+### DSP
+
+* Digital/Discrete Signal Processing - Processing of discrete signals.
+
+### ECL
+
+* Emitter-Coupled Logic - A digital logic family used for very high speed
+  designs where heat and power consumption can be tolerated.
+
+### EDA
+
+* Electronic/Engineering Design Automation - An automated process for use
+  in the design of electronic circuits.
+
+### EDA tool
+
+* A CAD program that assists a designer during system development usually with
+  part or all of the process automated (e.g. simulators, compilers, synthesizers
+  and design entry tools).
+
+### Emulate
+
+* Refer to [emulation]().
+
+### Emulation
+
+* A process in which a system model, containing functional and structural information
+  is used to predict it's overall behavior for any given sequence of inputs.
+  Different from simulation.
+
+### Emulator
+
+* An emulator, tool.
+
+### EPLD
+
+* Erasable PLD.
+
+### Fabrication
+
+* The process of fabricating an IC.
+
+### Falcon Framework
+
+* Mentor Graphics software framework.
+
+### Fan-in
+
+* The number of output signals driven by a single output.
+
+### Fan-out
+
+* The number of input si gn al s dri ven by a single input.
+
+### Fault
+
+* A failure.
+
+### Firmware
+
+* Software on a machine which is n ot changeable by the end user (i.e. microprogram).
+
+### First-silicon
+
+* The system models were prototyped and verified to work correctly the first time.
+
+### Flip-flop
+
+* A sequential device that samples its input and changes its output only at
+  times determined by a clocking signal. Refer to
+  [latch]().
+
+### Floor plans
+
+* In reference to the basic sections of a chip.
+
+### Flowchart
+
+* A graphical representation of an algorithm.
+
+### Formalism
+
+* Strict adherence to set forms.
+
+### Foundry
+
+* A manufacturer of silicon chips.
+
+### FPLA
+
+* Field Programmable Logic Array - A type of programmable logic that has both a
+  programmable AND array whose output feeds a programmable OR array.
+
+### FPLD
+
+* Field Programmable Logic Array **(sic)** - A PLD technology, different
+  from an FPGA.
+
+### FPGA
+
+* Field Programmable Gate Array - A semi-custom device with highly structured
+  gates that is programmed by the designer instead of a foundry. Some are
+  reprogrammable.
+
+### Framework
+
+* A basic structure of ideas. Refer to
+  [design framework]().
+
+### FRITS
+
+* FRamework Including Test Systems - Alternative System Concepts framework
+  that is part of VBIT.
+
+### Full-custom VLSI
+
+* All masks in a VLSI process are designed by a user.
+
+### Functional-block level
+
+* One of five basic abstraction levels using  such model styles as state
+ equations, registers and floor plans to represent a system.
+
+### Functional synthesis
+
+* Also called RTL synthesis. It starts with a set of states and a set of
+  register-transfers for each state which follows a clock cycle.
+  The synthesis process allocates a datapath and schedules a control unit.
+  The datapath contains the storage elements and functional units that
+  perform the given register-transfer. The control unit commands the sequence
+  of states for the register-transfer.
+  
+### Fusemap
+
+* Design file containing a list of antifuse addresses used to program a
+  device such as an FPGA.
+
+### Gate
+
+* Refer to
+  [logic gate]().
+
+### Gate array
+
+* A semi-custom device with highly structured gates in which the metal layers are
+  fabricated at a foundry.
+
+### Glue logic
+
+* tbd
+
+### HDL
+
+* tbd
+
+### High-level
+
+* tbd
+
+### High-level design framework
+
+* tbd
+
+### High-level synthesis
+
+* tbd
+
+### HISC
+
+* tbd
+
+### HL
+
+* tbd
+
+### HLS
+
+* tbd
+
+### Horizontal design methodology
+
+* tbd
+
+### HSL
+
+* tbd
+
+### IEEE
+
+* tbd
+
+### In-house
+
+* tbd
+
+### Instruction set
+
+* tbd
+
+### Integrated-engineering
+
+* tbd
+
+### Intel
+
+* tbd
+
+### I/O
+
+* tbd
+
+### IOB
+
+* tbd
+
+### JEDEC
+
+* tbd
+
+### Karnaugh map
+
+* tbd
+
+### KGD
+
+* tbd
+
+### Language
+
+* tbd
+
+### Latch
+
+* tbd
+
+### LCA
+
+* tbd
+
+### LCC
+
+* tbd
+
+### Lead
+
+* tbd
+
+### LIT
+
+* tbd
+
+### Logic gates
+
+* tbd
+
+### Logic level
+
+* tbd
+
+### Logic module
+
+* tbd
+
+### Logic synthesis
+
+* tbd
+
+### Low-level
+
+* tbd
+
+### Low-level design framework
+
+* tbd
+
+### Low-level synthesis
+
+* tbd
+
+### LSI
+
+* tbd
+
+### Magic
+
+* tbd
+
+### Mask
+
+* tbd
+
+### MCM
+
+* tbd
+
+### MCM-C
+
+* tbd
+
+### MCM-D
+
+* tbd
+
+### MCM-L
+
+* tbd
+
+### MCM-Si
+
+* tbd
+
+### MCM Station
+
+* tbd
+
+### Mentor Graphics
+
+* tbd
+
+### Methodology
+
+* tbd
+
+### Microcode
+
+* tbd
+
+### Microprogram
+
+* tbd
+
+### Micro­ programming
+
+* tbd
+
+### Microsystem technologies
+
+* tbd
+
+### MMC
+
+* tbd
+
+### Model
+
+* tbd
+
+### Model enhancement
+
+* tbd
+
+### Model style
+
+* tbd
+
+### Model Technology
+
+* tbd
+
+### Modeling
+
+* tbd
+
+### Moore's Law
+
+* tbd
+
+### Morphology
+
+* tbd
+
+### Mosis
+
+* tbd
+
+### Multi-level description environment
+
+* tbd
+
+### Multi-level HDL
+
+* tbd
+
+### Multi-level simulation
+
+* tbd
+
+### Multiplexer
+
+* tbd
+
+### MUX
+
+* tbd
+
+### MS-DOS
+
+* tbd
+
+### MSI
+
+* tbd
+
+### MSU
+
+* tbd
+
+### NASA
+
+* tbd
+
+### Netlist synthesis
+
+* tbd
+
+### Non-procedural class
+
+* tbd
+
+### NRE
+
+* tbd
+
+### OEM
+
+* tbd
+
+### Open Windows
+
+* tbd
+
+### Optimization
+
+* tbd
+
+### PAL
+
+* tbd
+
+### Paradigm
+
+* tbd
+
+### PC
+
+* tbd
+
+### PC-Board
+
+* tbd
+
+### PCW
+
+* tbd
+
+### Pentium
+
+* tbd
+
+### PGA
+
+* tbd
+
+### Physical domain
+
+* tbd
+
+### Physical synthesis
+
+* tbd
+
+### PL
+
+* tbd
+
+### PLA
+
+* tbd
+
+### PLA_Table
+
+* tbd
+
+### PLCC
+
+* tbd
+
+### PLD
+
+* tbd
+
+### Powerview
+
+* tbd
+
+### Procedural class
+
+* tbd
+
+### Propagation delay
+
+* tbd
+
+### Prototyping
+
+* tbd
+
+### RAM
+
+* tbd
+
+### Random logic
+
+* tbd
+
+### Real-time
+
+* tbd
+
+### Register
+
+* tbd
+
+### Reverse engineering
+
+* tbd
+
+### Reverse synthesis
+
+* tbd
+
+### ROM
+
+* tbd
+
+### RPST
+
+* tbd
+
+### RT
+
+* tbd
+
+### RTL
+
+* tbd
+
+### RTL
+
+* tbd
+
+### RTL synthesis
+
+* tbd
+
+### Semantics
+
+* tbd
+
+### Semi-conductor
+
+* tbd
+
+### Semi-custom VLSI
+
+* tbd
+
+### Semi-procedural class
+
+* tbd
+
+### Sequential logic
+
+* tbd
+
+### Simulate
+
+* tbd
+
+### Simulation
+
+* tbd
+
+### Simulator
+
+* tbd
+
+### SMD
+
+* tbd
+
+### Solder bump
+
+* tbd
+
+### SPARCstation
+
+* tbd
+
+### SSI
+
+* tbd
+
+### Standard-cell
+
+* tbd
+
+### Standard part
+
+* tbd
+
+### State diagram
+
+* tbd
+
+### State equations
+
+* tbd
+
+### State machine
+
+* tbd
+
+### State table
+
+* tbd
+
+### State transitions
+
+* tbd
+
+### Structural Domain
+
+* tbd
+
+### Sum-of-products
+
+* tbd
+
+### Sun Microsystems
+
+* tbd
+
+### SunOS
+
+* tbd
+
+### Syntax
+
+* tbd
+
+### Synthesis
+
+* tbd
+
+### Synthesis process
+
+* tbd
+
+### Synthesis system
+
+* tbd
+
+### System
+
+* tbd
+
+### System level
+
+* tbd
+
+### System model
+
+* tbd
+
+### System representation
+
+* tbd
+
+### System synthesis
+
+* tbd
+
+### TAB
+
+* tbd
+
+### Taxonomy
+
+* tbd
+
+### TCE
+
+* tbd
+
+### Technology
+
+* tbd
+
+### Technology­-dependent
+
+* tbd
+
+### Technology­-independent
+
+* tbd
+
+### Technology migration
+
+* tbd
+
+### Testability
+
+* tbd
+
+### Thick-film
+
+* tbd
+
+### Thin-film
+
+* tbd
+
+### TI
+
+* tbd
+
+### TI-ALS
+
+* tbd
+
+### TI/Actel
+
+* tbd
+
+### Time-dependent
+
+* tbd
+
+### Time-independent
+
+* tbd
+
+### Time-to-market
+
+* tbd
+
+### TMS320
+
+* tbd
+
+### Tool-dependent
+
+* tbd
+
+### Tool-independent
+
+* tbd
+
+### Top-down methodology
+
+* tbd
+
+### Topology
+
+* tbd
+
+### TPClO
+
+* tbd
+
+### TPCl2
+
+* tbd
+
+### TPCl4
+
+* tbd
+
+### Transactional class
+
+* tbd
+
+### Translation
+
+* tbd
+
+### Transition table
+
+* tbd
+
+### Transistor functions
+
+* tbd
+
+### Truth table
+
+* tbd
+
+### TTL
+
+* tbd
+
+### ULSI
+
+* tbd
+
+### ULTRIX
+
+* tbd
+
+### UNH
+
+* tbd
+
+### UNIX
+
+* tbd
+
+### VBIT
+
+* tbd
+
+### Verilog
+
+* tbd
+
+### Vertical design methodology
+
+* tbd
+
+### VHDL
+
+* tbd
+
+### VHSIC
+
+* tbd
+
+### Viewlogic
+
+* tbd
+
+### Virtual
+
+* tbd
+
+### Virtual time
+
+* tbd
+
+### VLSI
+
+* tbd
+
+### Wave/Particle Correlator
+
+* tbd
+
+### Wire bond
+
+* tbd
+
+### Workview
+
+* tbd
+
+### WSI
+
+* tbd
+
+### XC3000
+
+* tbd
+
+### XC4000
+
+* tbd
+
+### Xilinx
+
+* tbd
+
 ## II. CAE Environment Acronyms and Technical Terms
+
+### Attribute
+
+* tbd
+
+### Back annotation
+
+* tbd
+
+### Block
+
+* tbd
+
+### Bus
+
+* tbd
+
+### Critical net
+
+* tbd
+
+### Critical path
+
+* tbd
+
+### Component
+
+* tbd
+
+### CUI
+
+* tbd
+
+### Delay simulation
+
+* tbd
+
+### Design file
+
+* tbd
+
+### Design manager
+
+* tbd
+
+### EDIF
+
+* tbd
+
+### Fixed macro
+
+* tbd
+
+### Functional simulation
+
+* tbd
+
+### GUI
+
+* tbd
+
+### Hard macro
+
+* tbd
+
+### Hierarchy
+
+* tbd
+
+### IGES
+
+* tbd
+
+### Instance
+
+* tbd
+
+### Instantiate
+
+* tbd
+
+### IPC
+
+* tbd
+
+### Label
+
+* tbd
+
+### Level
+
+* tbd
+
+### Library
+
+* tbd
+
+### Module
+
+* tbd
+
+### Net
+
+* tbd
+
+### Netlist
+
+* tbd
+
+### Parts list
+
+* tbd
+
+### Path
+
+* tbd
+
+### Pin
+
+* tbd
+
+### Primitive
+
+* tbd
+
+### Schematic
+
+* tbd
+
+### Schematic capture
+
+* tbd
+
+### Schematic capture description tool
+
+* tbd
+
+### Schematic editor
+
+* tbd
+
+### Sheet
+
+* tbd
+
+### Soft macro
+
+* tbd
+
+### Symbol
+
+* tbd
+
+### System level
+
+* tbd
+
+### System hierarchy
+
+* tbd
+
+### Test vectors
+
+* tbd
+
+### Text
+
+* tbd
+
+### Timing simulation
+
+* tbd
+
+### Tool framework
+
+* tbd
+
+### Tools
+
+* tbd
+
+### Verification
+
+* tbd
+
+### Wirelist
+
+* tbd
