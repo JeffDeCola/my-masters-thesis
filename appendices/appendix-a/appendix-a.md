@@ -53,7 +53,7 @@
   * CAD Logic Systems, Inc. EDA tools.
   * Mentor Graphics EDA tools.
 
-#### DIGITAL EQUIPMENT DECSTATION S000
+#### DIGITAL EQUIPMENT DECSTATION 5000
 
 * Digital Equipment Corporation, Maynard, Massachusetts. 1990.
 * Operating System:

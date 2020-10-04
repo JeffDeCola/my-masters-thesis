@@ -157,7 +157,7 @@ FPGA technology.
 * [APPENDIX C](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-c/appendix-c.md)
   * [LABORATORY 1: SOFTWARE AIDED DEVICE SELECTION WITH THE TI LOGIC INTEGRATION TOOL (LIT)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-c/appendix-c.md#laboratory-1-software-aided-device-selection-with-the-ti-logic-integration-tool-lit)
 * [APPENDIX D](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-d/appendix-d.md)
-  * [LABORATORY 2A: SCHEMATIC CAPTURE WITH VIEWLOGIC'S VlEWDRAW](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-d/appendix-d.md#laboratory-2a-schematic-capture-with-viewlogics-vlewdraw)
+  * [LABORATORY 2A: SCHEMATIC CAPTURE WITH VIEWLOGIC'S VIEWDRAW](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-d/appendix-d.md#laboratory-2a-schematic-capture-with-viewlogics-viewdraw)
 * [APPENDIX E](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-e/appendix-e.md)
   * [LABORATORY 3A: SCHEMATIC CAPTURE HIERARCHICAL DESIGN WITH VIEWLOGIC'S VIEWDRAW](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-e/appendix-e.md#laboratory-3a-schematic-capture-hierarchical-design-with-viewlogics-viewdraw)
 * [APPENDIX F](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-f/appendix-f.md)
