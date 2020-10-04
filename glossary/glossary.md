@@ -4,31 +4,36 @@
 
 ## I. General Acronyms and Technical Terms
 
+### ABEL
 
+* Advanced Boolean Expression Language - a structured language that generates
+a fuse map (JEDEC Expression load Language file) for PLDs from Boolean
+equations, truth tables or state diagrams.
 
+### Abstraction
 
+* A way to tangibly describe a digital system. Refer to abstraction level.
 
+### Abstraction level
 
+* A classification of the system model determined from the model style. As of today,
+  system algorithmic models or can system. be at one of five basic levels:
+  circuit, logic, functional-block, algorithmic or system.
 
+### Actel
 
-* **ABEL**
-  * Advanced Boolean Expression Language - a structured language that generates
-    a fuse map (JEDEC Expression load Language file) for PLDs from Boolean
-    equations, truth tables or state diagrams.
-* **Abstraction**
-  * A way to tangibly describe a digital system. Refer to abstraction level.
-* **Abstraction level**
-  * A classification of the system model determined from the model style. As of today,
-    system algorithmic models or can system. be at one of five basic levels:
-    circuit, logic, functional-block, algorithmic or system.
-* **Actel**
-  * A manufacturer of FPGAs. Refer to TPClO, TPC12 and TPC14.
-* **Algorithmic level**
-  * One of five basic abstraction levels using procedural concepts to model
-    a system using such model styles as algorithms, data structures and FPGA
-    architectures.
-* **Algorithmic synthesis**
-  * Transfers the algorithms to structural hardware modules or data structures.
+* A manufacturer of FPGAs. Refer to TPClO, TPC12 and TPC14.
+
+### Algorithmic level
+
+* One of five basic abstraction levels using procedural concepts to model
+  a system using such model styles as algorithms, data structures and FPGA
+  architectures.
+
+### Algorithmic synthesis
+  
+* Transfers the algorithms to structural hardware modules or data structures.
+
 * **Algorithms**
   * An unambiguous, clear procedure.
 * **All-masks**
