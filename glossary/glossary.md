@@ -40,7 +40,9 @@
 
 ### Actel
 
-* A manufacturer of FPGAs. Refer to
+* A manufacturer of
+  [FPGAs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga).
+  Refer to
   [TPCl0](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#tpc10),
   [TPC12](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#tpc12)
   and
@@ -48,7 +50,9 @@
 
 ### Algorithmic level
 
-* One of five basic abstraction levels using procedural concepts to model
+* One of five basic
+  [abstraction levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level)
+  using procedural concepts to model
   a system using such model styles as algorithms, data structures and
   [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
   architectures.
@@ -65,14 +69,18 @@
 
 * The designer has complete control over all the mask layers in the
   [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi)
-  process. The term refers to both full-custom ASICs such as MCMs
+  process. The term refers to both full-custom
+  [ASIC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#asic)s
+  such as
+  [MCMs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm)
   and analog/digital technologies as well as semi-custom standard-cells
   technologies.
 
 ### ALU
 
-* Arithmetic and Logic Unit - Part of the CPUs processing section that
-  performs arithmetic and logic functions.
+* Arithmetic and Logic Unit - Part of the
+  [CPUs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cpu)
+  processing section that performs arithmetic and logic functions.
 
 ### ALS
 
@@ -92,7 +100,8 @@
 
 ### Antifuse
 
-* A term for the type of programming element used in TPC arrays (TI/Actel
+* A term for the type of programming element used in TPC arrays
+  ([TI/Actel](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#tiactel)
   [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
   family). An antifuse is an element which is normally open. but converts
   to a resistive connection when programmed. Refer to
@@ -100,8 +109,10 @@
 
 ### Architecture style
 
-* A particular configuration of the microsystem  hardware. Some examples are
-  pipelining, sequential, parallel and combinational.
+* A particular configuration of the microsystem  hardware. Some examples are pipelining,
+  [sequential](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#sequential-logic),
+  parallel and
+  [combinational](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#combinational-logic).
 
 ### ASCII
 
@@ -147,8 +158,10 @@
 
 ### Board Station
 
-* A set of Mentor Graphics EDA tools used for the design of simple to complex
-  printed circuit designs.
+* A set of
+  [Mentor Graphics](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mentor-graphics)
+  [EDA tools](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool)
+  used for the design of simple to complex printed circuit designs.
 
 ### Boolean equation
 
@@ -213,7 +226,8 @@
 
 ### Chip
 
-* Slang for an integrated circuit. Refer to IC.
+* Slang for an integrated circuit. Refer to
+  [IC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ic).
 
 ### CHL
 
@@ -227,7 +241,9 @@
 
 ### Circuit level
 
-* The lowest of five basic abstraction levels using such model styles as
+* The lowest of five basic
+  [abstraction levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level)
+  using such model styles as
   differential equations, transistors and cell details to represent a system.
   Systems modeled at this level are closest to and contain the most detail
   of the underlying technology.
@@ -363,15 +379,20 @@
 ### Description tool
 
 * A software tool used to help a designer create, at a certain abstraction
-  layer, a model of a system. Schematic capture and
+  layer, a model of a system.
+  [Schematic capture](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#schematic-capture)
+  and
   [HDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hdl)
   are two popular tools.
 
 ### Design automation
 
-* Stays at the same abstraction level and domain whereas a synthesis process
-  changes levels or domains. In effect, synthesis is a superset of design
-  automation.
+* Stays at the same
+  [abstraction level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level)
+  and domain whereas a
+  [synthesis process](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#synthesis-process)
+  changes levels or domains. In effect, synthesis is a superset of
+  [design automation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#design-automation).
 
 ### Design domain
 
@@ -386,20 +407,32 @@
 ### Design framework
 
 * A basic structure used to view and analyze the four basic elements of system
-  development: system models, EDA tools, microsystem technologies and design
-  methodologies. Refer to low-level and high-level design framework.
+  development: system models,
+  [EDA tools](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool),
+  microsystem technologies and
+  [design methodologies](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#design-methodology).
+  Refer to
+  [low-level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#low-level-design-framework)
+  and
+  [high-level design framework](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#high-level-design-framework).
 
 ### Design-house
 
 * An
   [ASIC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#asic)
   design facility which provides expertise and assistance in
-  the ASIC design process, may be either part of an ASIC supplier or
+  the
+  [ASIC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#asic)
+  design process, may be either part of an
+  [ASIC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#asic)
+  supplier or
   run independently.
 
 ### Design methodology
 
-* The process used to develop a system from concept-to-silicon. Refer to
+* The process used to develop a system from
+  [concept-to-silicon](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#concept-to-silicon).
+  Refer to
   [vertical](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vertical-design-methodology)
   and
   [horizontal design methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#horizontal-design-methodology).
@@ -412,8 +445,7 @@
 
 * Digital Hardware Description Language - A subset of
   [HDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hdl)
-  for designing digital
-  systems.
+  for designing digital systems.
 
 ### DHL
 
@@ -447,7 +479,9 @@
 
 ### DIP
 
-* Dual Inline Package - A standard rectangular IC package with pins extending
+* Dual Inline Package - A standard rectangular
+  [IC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ic)
+  package with pins extending
   from two larger edges.
 
 ### DL
@@ -461,8 +495,9 @@
 
 ### DRC
 
-* Design Rule Checker - An EDA tool that detects errors in a system
-  model.
+* Design Rule Checker - An
+  [EDA tool](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool)
+  that detects errors in a system model.
 
 ### DSP
 
@@ -496,7 +531,8 @@
 
 * A process in which a system model, containing functional and structural information
   is used to predict it's overall behavior for any given sequence of inputs.
-  Different from simulation.
+  Different from
+  [simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#simulation).
 
 ### Emulator
 
@@ -509,11 +545,13 @@
 
 ### Fabrication
 
-* The process of fabricating an IC.
+* The process of fabricating an
+  [IC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ic).
 
 ### Falcon Framework
 
-* Mentor Graphics software framework.
+* [Mentor Graphics](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mentor-graphics)
+  software framework.
 
 ### Fan-in
 
@@ -633,24 +671,37 @@
 
 ### HDL
 
-* Hardware Descriptive Language - Merger of DL and HSL. A multi-abstraction level
+* Hardware Descriptive Language - Merger of
+  [DL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#dl)
+  and
+  [HSL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hsl).
+  A multi-abstraction level
   language with refinement capabilities for designing circuitry.
 
 ### High-level
 
-* Refers to abstractions **(sic)** levels above the logic level.
+* Refers to abstractions **(sic)** levels above the
+  [logic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level).
 
 ### High-level design framework
 
-* Contains system models, EDA tools and design methodologies that are above the
-  logic level of abstraction.  This framework has all the capabilities of the
-  low-level framework plus the ability to use both a vertical and horizontal
-  design methodology.
+* Contains system models,
+  [EDA tools](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool)
+  and design methodologies that are above the
+  [logic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level)
+  of abstraction. This framework has all the capabilities of the
+  [low-level framework](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#low-level-design-framework)
+  plus the ability to use both a
+  [vertical](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vertical-design-methodology)
+  and
+  [horizontal design methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#horizontal-design-methodology).
 
 ### High-level synthesis
 
-* A synthesis process above the logic level of abstraction, inherent to the
-  high-level design framework.
+* A synthesis process above the
+  [logic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level)
+  of abstraction, inherent to the
+  [high-level design framework](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#high-level-design-framework).
 
 ### HISC
 
@@ -661,12 +712,19 @@
 ### HL
 
 * Hardware Language - Are graphic/textual notations which may be used for
-  the description of the structural, behavioral and the physical domains of
-  hardware at one or more abstraction levels.
+  the description of the
+  [structural](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#structural-domain),
+  [behavioral](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#behavioral-domain)
+  and the
+  [physical domains](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#physical-domain)
+  of hardware at one or more
+  [abstraction levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level).
 
 ### HLS
 
-* High-Level Synthesis - A synthesis process above the logic level of abstraction.
+* High-Level Synthesis - A synthesis process above the
+  [logic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level)
+  of abstraction.
 
 ### Horizontal design methodology
 
@@ -704,13 +762,15 @@
 
 ### Instruction set
 
-* The list of all available operations a CPU can perform, written as
+* The list of all available operations a
+  [CPU](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cpu)
+  can perform, written as
   pneumonics to use with a low-level assembly language (i.e. add, sub and AND).
 
 ### Integrated-engineering
 
 * Extension of concurrent engineering which includes such issues like human
-  factors, total quality and management
+  factors, total quality and management.
 
 ### Intel
 
@@ -741,7 +801,8 @@ From
 
 * Known-Good
   [Dice](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#dice) -
-  Fully tested and working bare dice.
+  Fully tested and working bare
+  [dice](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#dice).
 
 ### Language
 
@@ -780,37 +841,58 @@ From
 
 ### Logic level
 
-* The most widely used of five basic abstraction levels describing the logical
+* The most widely used of five basic
+  [abstraction levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level)
+  describing the logical
   function of digital systems using such models styles as AND/OR gates,
-  Boolean equations and standard-cells.
+  [Boolean equations](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#boolean-equation)
+  and standard-cells.
 
 ### Logic module
 
-* The basic logic building block of a TI/Actel FPGA from which all logical functions
-  are built. Can be combinatorial or sequential.  Refer to
+* The basic logic building block of a
+  [TI/Actel](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#tiactel)
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
+  from which all logical functions are built. Can be
+  [combinatorial](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#combinational-logic)
+  or
+  [sequential](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#sequential-logic).
+  Refer to
   [TI-ALS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ti-als).
 
 ### Logic synthesis
 
-* Very well documented. It starts with Boolean equations that are translated
+* Very well documented. It starts with
+  [Boolean equations](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#boolean-equation)
+  that are translated
   into a wirelist of components from a given part library. Usually, vendors
   use the term 'logic synthesis' to represent the end result of any synthesis
-  process used to reach the logic level. In reality, many distinctive types
-  of synthesis are used.
+  process used to reach the
+  [logic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level).
+  In reality, many distinctive types of synthesis are used.
 
 ### Low-level
 
-* Refers to abstractions levels including and below the logic level.
+* Refers to abstractions levels including and below the
+  [logic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level).
 
 ### Low-level design framework
 
-* It contains system models, EDA tools and design methodologies that are below and
-  include the logic level of abstraction. It uses only a vertical design methodology.
+* It contains
+  [system models](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-model),
+  [EDA tools](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool)
+  and
+  [design methodologies](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#design-methodology)
+  that are below and include the
+  [logic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level)
+  of abstraction. It uses only a
+  [vertical design methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vertical-design-methodology).
 
 ### Low-level synthesis
 
-* A synthesis process below and including the logic level of abstraction,
-  inherent to the
+* A synthesis process below and including the
+  [logic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level)
+  of abstraction, inherent to the
   [low-level design framework](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#low-level-design-framework).
 
 ### LSI
@@ -826,7 +908,9 @@ From
 
 ### Mask
 
-* One of the glass lithographs used in an IC fabrication process.
+* One of the glass lithographs used in a
+  [IC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ic)
+  fabrication process.
 
 ### MCM
 
@@ -839,119 +923,179 @@ From
 
 ### MCM-D
 
-* tbd
+* MCM assembly consisting of a thin-film multilayer deposited organic on
+  silicon, metal or ceramic substrate.
 
 ### MCM-L
 
-* tbd
+* MCM assembly consisting using a high-density laminated printed-circuit board
+  technology.
 
 ### MCM-Si
 
-* tbd
+* MCM assembly consisting of a thin-film multilayer silicon dioxide on a
+  silicon substrate.
 
 ### MCM Station
 
-* tbd
+* A set of
+  [Mentor Graphics](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mentor-graphics)
+  [EDA tools](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool)
+  used for the design of
+  [MCMs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm).
 
 ### Mentor Graphics
 
-* tbd
+* A
+  [CAE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cae)
+  company.
 
 ### Methodology
 
-* tbd
+* A process used to accomplish a goal.
 
 ### Microcode
 
-* tbd
+* Refer to
+  [microprogram](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#microprogram).
 
 ### Microprogram
 
-* tbd
+* An extremely low-level form of software that executes an instruction from the
+  [instruction set](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#instruction-set).
+  Can be considered on-silicon firmware.
 
-### Micro­ programming
+### Micro­-programming
 
-* tbd
+* The process of creating a
+  [microprogram](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#microprogram).
 
 ### Microsystem technologies
 
-* tbd
+* The available physical means to implement a system
+  (e.g.
+  [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi),
+  [MCMs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm),
+  [standard parts](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#standard-part)
+  and
+  [FPGAs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)).
 
 ### MMC
 
-* tbd
+* Massachusetts Microelectronics Center - A fabrication plant for the purpose of
+  education.
 
 ### Model
 
-* tbd
+* Refer to
+  [system model](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-model).
 
 ### Model enhancement
 
-* tbd
+* Adds a capability to a
+  [system model](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-model),
+  usually through a
+  [design automation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#design-automation)
+  process.
 
 ### Model style
 
-* tbd
+* A particular classification of a
+  [system model](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-model)
+  that is at a certain
+  [abstraction level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level)
+  ( e.g.
+  [Boolean equations](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#boolean-equation),
+  [flowcharts](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#flowchart)
+  and
+  [logic gates](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-gates)).
 
 ### Model Technology
 
-* tbd
+* A
+  [CAE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cae)
+  company.
 
 ### Modeling
 
-* tbd
+* The process of creating a
+  [system model](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-model)
+  using a
+  [description tool](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#description-tool).
 
 ### Moore's Law
 
-* tbd
+* A law that predicts the doubling in transistor density every two years.
 
 ### Morphology
 
-* tbd
+* Geometrical and topological information.
 
 ### Mosis
 
-* tbd
+* An organization which provides low volume, low cost
+  [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi)
+  services managed by DARPA and NSF.
 
 ### Multi-level description environment
 
-* tbd
+* A collection of more than one
+  [description tool](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#description-tool)
+  covering different as well as overlapping
+  [abstraction levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level).
 
 ### Multi-level HDL
 
-* tbd
+* A
+  [description tool](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#description-tool)
+  that can model a system at more then one
+  [abstraction levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level),
+  usually above and including the
+  [logic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level)
+  of abstraction.
 
 ### Multi-level simulation
 
-* tbd
+* The ability to simulate system models that contain integrated models of various
+  [abstraction levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level)
+  developed from one or more
+  [description tools](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#description-tool).
 
 ### Multiplexer
 
-* tbd
+* A digital switch connecting data from one of n sources (chosen from a
+  select input) to its output.
 
 ### MUX
 
-* tbd
+* Another term for
+  [multiplexer](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#multiplexer).
 
 ### MS-DOS
 
-* tbd
+* Microsoft Disk Operating System - A PC-based operating system.
 
 ### MSI
 
-* tbd
+* Medium Scale Integration - The density of devices having between 12 and 100
+  equivalent gates.
 
 ### MSU
 
-* tbd
+* Mississippi State University - In reference to a library of standard-cells
+  used for a
+  [CMOS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cmos)
+  [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi)
+  process.
 
 ### NASA
 
-* tbd
+* National Aeronautics and Space Agency - The United States government's space agency.
 
 ### Netlist synthesis
 
-* tbd
+* Refer to
+  [physical synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#physical-synthesis).
 
 ### Non-procedural class
 
