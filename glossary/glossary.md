@@ -7,32 +7,47 @@
 ### ABEL
 
 * Advanced Boolean Expression Language - a structured language that generates
-  a fuse map (JEDEC Expression load Language file) for PLDs from Boolean
-  equations, truth tables or state diagrams.
+  a
+  [fuse map](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fusemap)
+  **(sic)**
+  ([JEDEC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#jedec)
+  Expression load Language file) for
+  [PLDs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#pld)
+  from
+  [Boolean equations](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#boolean-equation),
+  [truth tables](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#truth-table)
+  or
+  [state diagrams](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#state-diagram).
 
 ### Abstraction
 
 * A way to tangibly describe a digital system. Refer to
-  [abstraction level]().
+  [abstraction level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level).
 
 ### Abstraction level
 
 * A classification of the system model determined from the model style. As of today,
-  system algorithmic models or can system. be at one of five basic levels:
-  circuit, logic, functional-block, algorithmic or system.
+  system models can be at one of five basic levels:
+  [circuit](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#circuit-level),
+  [logic](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-level),
+  [functional-block](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#functional-block-level),
+  [algorithmic](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#algorithmic-level)
+  or
+  [system](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-level).
 
 ### Actel
 
 * A manufacturer of FPGAs. Refer to
-  [TPClO](),
-  [TPC12]()
+  [TPCl0](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#tpc10),
+  [TPC12](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#tpc12)
   and
-  [TPC14]().
+  [TPC14](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#tpc14).
 
 ### Algorithmic level
 
 * One of five basic abstraction levels using procedural concepts to model
-  a system using such model styles as algorithms, data structures and FPGA
+  a system using such model styles as algorithms, data structures and
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
   architectures.
 
 ### Algorithmic synthesis
@@ -46,7 +61,8 @@
 ### All-masks
 
 * The designer has complete control over all the mask layers in the
-  VLSI process. The term refers to both full-custom ASICs such as MCMs
+  [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi)
+  process. The term refers to both full-custom ASICs such as MCMs
   and analog/digital technologies as well as semi-custom standard-cells
   technologies.
 
@@ -58,12 +74,14 @@
 ### ALS
 
 * Action Logic System - Refer to
-  [TI-ALS]().
+  [TI-ALS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ti-als).
 
 ### Analog/Digital
 
 * Referring to creating analog and/or digital components
-  using a VLSI process with all masks available for use.
+  using a
+  [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi)
+  process with all masks available for use.
 
 ### ANSI
 
@@ -72,9 +90,10 @@
 ### Antifuse
 
 * A term for the type of programming element used in TPC arrays (TI/Actel
-  FPGA family). An antifuse is an element which is normally open. but converts
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
+  family). An antifuse is an element which is normally open. but converts
   to a resistive connection when programmed. Refer to
-  [TI-ALS]().
+  [TI-ALS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ti-als).
 
 ### Architecture style
 
@@ -86,7 +105,9 @@
 * American Standard Code for Information Interchange - A standard protocol
   that uses code values ranging from 0 to 127 to represent the alphabet
   (lower and upper case), numbers, punctuation and various non-printing
-  control information (ANSI standard No. X3.4-1968).
+  control information
+  ([ANSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ansi)
+  standard No. X3.4-1968).
 
 ### ASIC
 
@@ -95,17 +116,20 @@
 
 ### ATG
 
-* Automatic Test Generation -Software used to help generale test vectors.
+* Automatic Test Generation - Software used to help generale test vectors.
 
 ### AVSPI
 
-* Aydin Vector Serial/Parallel Interface - Part of a larger NASA system used
+* Aydin Vector Serial/Parallel Interface - Part of a larger
+  [NASA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#nasa)
+  system used
   to gather gamma ray information in the upper atmosphere.
 
 ### Behavioral domain
 
 * The highest of the three domains. It provides the description of the
-  I/O relationships of the system model using such model styles as RTL,
+  I/O relationships of the system model using such model styles as
+  [RTL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#rtl),
   state equation, Boolean function and differential equations. In this
   domain, the focus is on what the design does, not how it is built.
   It is very much removed from the underlying technology. The behavioral
@@ -115,7 +139,8 @@
 
 ### Behavioral synthesis
 
-* Refer to algorithmic synthesis.
+* Refer to
+  [algorithmic synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#algorithmic-synthesis).
 
 ### Board Station
 
@@ -157,7 +182,8 @@
 
 ### CC
 
-* Correlator Controller - Refer to HISC.
+* Correlator Controller - Refer to
+  [HISC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hisc).
 
 ### CE
 
@@ -167,7 +193,7 @@
 ### Cell
 
 * Refer to
-  [standard-cell]().
+  [standard-cell](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#standard-cell).
 
 ### CFI
 
@@ -178,8 +204,9 @@
 
 ### CHDL
 
-* Computer Hardware Description Language - A subset of DHSL with dichotomy
-  capabilities for designing digital computers.
+* Computer Hardware Description Language - A subset of
+  [DHSL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#dhsl)
+  with dichotomy capabilities for designing digital computers.
 
 ### Chip
 
@@ -188,7 +215,7 @@
 ### CHL
 
 * Computer Hardware Language - Refer to
-  [CHDL]().
+  [CHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#chdl).
 
 ### CIF
 
@@ -209,7 +236,10 @@
 
 ### CLB
 
-* Configurable Logic Block-Within LCA. From Xilinx.
+* Configurable Logic Block-Within
+  [LCA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#lca).
+  From
+  [Xilinx](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#xilinx).
 
 ### Clock skew
 
@@ -218,7 +248,9 @@
 
 ### CLSI
 
-* CAD Language Systems, Inc. -A CAE company.
+* CAD Language Systems, Inc. - A
+  [CAE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cae)
+  company.
 
 ### Cluster
 
@@ -241,12 +273,12 @@
 ### Combinational logic
 
 * Outputs depends only on its current inputs. Refer to
-  [sequential logic]().
+  [sequential logic](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#sequential-logic).
 
 ### Compile
 
 * The means to translate source code into object code, checking for errors
-  along the way.  May or may not include a linker.
+  along the way. May or may not include a linker.
 
 ### Compiler
 
@@ -265,14 +297,15 @@
 
 ### Concurrent
 
-* Happening or operating at the same time. Refer to CE.
+* Happening or operating at the same time. Refer to
+  [CE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ce).
 
 ### Constructs
 
 * The building block of a language. Refer to
-  [syntax]()
+  [syntax](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#syntax)
   and
-  [semantics]().
+  [semantics](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#semantics).
 
 ### Correlation
 
@@ -298,7 +331,7 @@
 ### Dataflow
 
 * Refer to
-  [RTL]().
+  [RTL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#rtl).
 
 ### Debugger
 
@@ -306,12 +339,13 @@
 
 ### DEC
 
-* Digital Equipment Corporation -A company that designs and manufactures
+* Digital Equipment Corporation - A company that designs and manufactures
   computers and other digital systems.
 
 ### DECstation
 
-* Digital Equipment Corporation's workstation family that runs ULTRIX.
+* Digital Equipment Corporation's workstation family that runs
+  [ULTRIX](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ultrix).
 
 ### DECwindows
 
@@ -321,12 +355,14 @@
 ### Description
 
 * Refer to
-  [system model]().
+  [system model](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-model).
 
 ### Description tool
 
 * A software tool used to help a designer create, at a certain abstraction
-  layer, a model of a system. Schematic capture and HDL are two popular tools.
+  layer, a model of a system. Schematic capture and
+  [HDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hdl)
+  are two popular tools.
 
 ### Design automation
 
@@ -337,8 +373,12 @@
 ### Design domain
 
 * A time-independent (static) graphical representation of three basic
-  interrelated elements: microsystem technologies, description tools and
-  conceptual-system; used for viewing a digital system.
+  interrelated elements:
+  [microsystem technologies](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#microsystem-technologies),
+  [description tools](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#description-tool)
+  and
+  [conceptual-system](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#conceptual-system);
+  used for viewing a digital system.
 
 ### Design framework
 
@@ -348,16 +388,18 @@
 
 ### Design-house
 
-* An ASIC design facility which provides expertise and assistance in
+* An
+  [ASIC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#asic)
+  design facility which provides expertise and assistance in
   the ASIC design process, may be either part of an ASIC supplier or
   run independently.
 
 ### Design methodology
 
 * The process used to develop a system from concept-to-silicon. Refer to
-  [vertical]()
+  [vertical](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vertical-design-methodology)
   and
-  [horizontal design methodology]().
+  [horizontal design methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#horizontal-design-methodology).
 
 ### DFT
 
@@ -365,29 +407,39 @@
 
 ### DHDL
 
-* Digital Hardware Description Language - A subset of HDL for designing digital
+* Digital Hardware Description Language - A subset of
+  [HDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hdl)
+  for designing digital
   systems.
 
 ### DHL
 
-* Digital Hardware Language - A subset of HL for designing digital hardware.
+* Digital Hardware Language - A subset of
+  [HL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hl)
+  for designing digital hardware.
 
 ### DHSL
 
-* Digital Hardware/Software Language - A Subset of HSL. Merger of PL and DHL.
+* Digital Hardware/Software Language - A Subset of
+  [HSL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hsl).
+  Merger of
+  [PL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#pl)
+  and
+  [DHL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#dhl).
 
 ### Dice
 
-* Plural of die.
+* Plural of
+  [die](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#die).
 
 ### Dichotomy
 
-* To mutually exclusive areas such as the control and process sections of
+* Two mutually exclusive areas such as the control and process sections of
   a microprocessor.
 
 ### Die
 
-* A system on a single silicon substrate before before being placed into a package.
+* A system on a single silicon substrate before being placed into a package.
   Usually cut from a silicon wafer.
 
 ### DIP
@@ -425,13 +477,17 @@
 
 ### EDA tool
 
-* A CAD program that assists a designer during system development usually with
-  part or all of the process automated (e.g. simulators, compilers, synthesizers
-  and design entry tools).
+* A
+  [CAD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cad)
+  program that assists a designer during system development usually with
+  part or all of the process automated (e.g.
+  [simulators](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#simulator),
+  [compilers](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#compiler),
+  synthesizers and design entry tools).
 
 ### Emulate
 
-* Refer to [emulation]().
+* Refer to [emulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#emulation).
 
 ### Emulation
 
@@ -441,11 +497,12 @@
 
 ### Emulator
 
-* An emulator, tool.
+* An emulator tool.
 
 ### EPLD
 
-* Erasable PLD.
+* Erasable
+  [PLD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#pld).
 
 ### Fabrication
 
@@ -461,7 +518,7 @@
 
 ### Fan-out
 
-* The number of input si gn al s dri ven by a single input.
+* The number of input signals driven by a single input.
 
 ### Fault
 
@@ -469,7 +526,9 @@
 
 ### Firmware
 
-* Software on a machine which is n ot changeable by the end user (i.e. microprogram).
+* Software on a machine which is not changeable by the end user
+  (i.e.
+  [microprogram](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#microprogram)).
 
 ### First-silicon
 
@@ -479,7 +538,7 @@
 
 * A sequential device that samples its input and changes its output only at
   times determined by a clocking signal. Refer to
-  [latch]().
+  [latch](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#latch).
 
 ### Floor plans
 
@@ -505,7 +564,8 @@
 ### FPLD
 
 * Field Programmable Logic Array **(sic)** - A PLD technology, different
-  from an FPGA.
+  from an
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga).
 
 ### FPGA
 
@@ -516,25 +576,30 @@
 ### Framework
 
 * A basic structure of ideas. Refer to
-  [design framework]().
+  [design framework](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#design-framework).
 
 ### FRITS
 
 * FRamework Including Test Systems - Alternative System Concepts framework
-  that is part of VBIT.
+  that is part of
+  [VBIT](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vbit).
 
 ### Full-custom VLSI
 
-* All masks in a VLSI process are designed by a user.
+* All masks in a
+  [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi)
+  process are designed by a user.
 
 ### Functional-block level
 
-* One of five basic abstraction levels using  such model styles as state
- equations, registers and floor plans to represent a system.
+* One of five basic abstraction levels using such model styles as state
+  equations, registers and floor plans to represent a system.
 
 ### Functional synthesis
 
-* Also called RTL synthesis. It starts with a set of states and a set of
+* Also called
+  [RTL synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#rtl-synthesis).
+  It starts with a set of states and a set of
   register-transfers for each state which follows a clock cycle.
   The synthesis process allocates a datapath and schedules a control unit.
   The datapath contains the storage elements and functional units that
@@ -543,13 +608,15 @@
   
 ### Fusemap
 
-* Design file containing a list of antifuse addresses used to program a
-  device such as an FPGA.
+* Design file containing a list of
+  [antifuse](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#antifuse)
+  addresses used to program a device such as an
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga).
 
 ### Gate
 
 * Refer to
-  [logic gate]().
+  [logic gate](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-gates).
 
 ### Gate array
 
@@ -1176,15 +1243,15 @@
 
 * tbd
 
-### TPClO
+### TPC10
 
 * tbd
 
-### TPCl2
+### TPC12
 
 * tbd
 
-### TPCl4
+### TPC14
 
 * tbd
 
