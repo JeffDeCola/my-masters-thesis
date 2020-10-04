@@ -1,6 +1,14 @@
+# CHAPTER 6
+
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
-# CHAPTER 6
+* 6.1 [Low-Level Design Methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#61-low-level-design-methodology)
+  * 6.1.1 [Bottom-Up Modeling](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#611-bottom-up-modeling)
+  * 6.1.2 [General Low-Level EDA Environment](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#612-general-low-level-eda-environment)
+  * 6.1.3 [General Low-Level Steps](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#613-general-low-level-steps)
+* 6.2 [Evaluation of Low-Level Vertical Design Methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#62-evaluation-of-low-level-vertical-design-methodology)
+  * 6.2.1 [Goals of a Design Methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#621-goals-of-a-design-methodology)
+  * 6.2.1 [Evaluation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-6/chapter-6.md#621-evaluation)
 
 ## LOW-LEVEL VERTICAL DESIGN METHODOLOGY
 

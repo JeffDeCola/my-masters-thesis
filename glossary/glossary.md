@@ -155,7 +155,7 @@
 ### Boolean function
 
 * Refer to
-  [Boolean equation]().
+  [Boolean equation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#boolean-equation).
 
 ### Bottom-up modeling
 
@@ -625,155 +625,214 @@
 
 ### Glue logic
 
-* tbd
+* Simple SSI and MSI logic used to get more complex LSI or VLSI components to
+  work together.
 
 ### HDL
 
-* tbd
+* Hardware Descriptive Language - Merger of DL and HSL. A multi-abstraction level
+  language with refinement capabilities for designing circuitry.
 
 ### High-level
 
-* tbd
+* Refers to abstractions **(sic)** levels above the logic level.
 
 ### High-level design framework
 
-* tbd
+* Contains system models, EDA tools and design methodologies that are above the
+  logic level of abstraction.  This framework has all the capabilities of the
+  low-level framework plus the ability to use both a vertical and horizontal
+  design methodology.
 
 ### High-level synthesis
 
-* tbd
+* A synthesis process above the logic level of abstraction, inherent to the
+  high-level design framework.
 
 ### HISC
 
-* tbd
+* Host Interface Serial Controller - A digital system used to control up to seven
+  correlator processors. Refer to
+  [Appendix B](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-b/appendix-b.md#appendix-b).
 
 ### HL
 
-* tbd
+* Hardware Language - Are graphic/textual notations which may be used for
+  the description of the structural, behavioral and the physical domains of
+  hardware at one or more abstraction levels.
 
 ### HLS
 
-* tbd
+* High-Level Synthesis - A synthesis process above the logic level of abstraction.
 
 ### Horizontal design methodology
 
-* tbd
+* Refer to
+  [technology migration](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#technology-migration).
 
 ### HSL
 
-* tbd
+* Hardware/Software Language - Merger of
+  [PL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#pl)
+  and
+  [HL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hl).
+
+### IBM
+
+* International Business Machines - A designer and manufacturer of computer
+  systems.
+
+### IC
+
+* Integrated Circuit - A system on a silicon substrate.
 
 ### IEEE
 
-* tbd
+* Institute of Electrical and Electronics Engineers - An international
+  organization of professional engineers known for its publications.
 
 ### In-house
 
-* tbd
+* System development that can be accomplished at one place.
+
+### Insertion
+
+* The process of adding a subsystem to a model (e.g. test insertion).
 
 ### Instruction set
 
-* tbd
+* The list of all available operations a CPU can perform, written as
+  pneumonics to use with a low-level assembly language (i.e. add, sub and AND).
 
 ### Integrated-engineering
 
-* tbd
+* Extension of concurrent engineering which includes such issues like human
+  factors, total quality and management
 
 ### Intel
 
-* tbd
+* A manufacturer of microprocessors.
 
 ### I/O
 
-* tbd
+* Input/Output.
 
 ### IOB
 
-* tbd
+* Input Output Block - Within
+[LCA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#lca).
+From
+[Xilinx](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#xilinx).
 
 ### JEDEC
 
-* tbd
+* Joint Electron Device Engineering Council - A standard making body for
+  integrated circuit packages.
 
 ### Karnaugh map
 
-* tbd
+* Graphical representation of a logic functions
+  [truth table](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#truth-table).
 
 ### KGD
 
-* tbd
+* Known-Good
+  [Dice](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#dice) -
+  Fully tested and working bare dice.
 
 ### Language
 
-* tbd
+* A textual form of abstraction used for the representation of a digital system.
 
 ### Latch
 
-* tbd
+* A sequential device that watches its inputs and changes its outputs at any time,
+  independent of a clocking signal. Refer to
+  [flip-flop](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#flip-flop).
 
 ### LCA
 
-* tbd
+* Logic Cell Array - Another name for a
+  Xilinx
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga),
+  From
+  [Xilinx](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#xilinx).
 
 ### LCC
 
-* tbd
+* Leadless Chip Carrier - A small type of chip package suitable for surface mounting.
 
 ### Lead
 
-* tbd
+* A pin on a chip package.
 
 ### LIT
 
-* tbd
+* Logic Integration Tool - A software tool used to select the appropriate technology
+  based on the design model and design objectives. From Texas Instruments.
 
 ### Logic gates
 
-* tbd
+* The primitive components used to perform the logic functions.
 
 ### Logic level
 
-* tbd
+* The most widely used of five basic abstraction levels describing the logical
+  function of digital systems using such models styles as AND/OR gates,
+  Boolean equations and standard-cells.
 
 ### Logic module
 
-* tbd
+* The basic logic building block of a TI/Actel FPGA from which all logical functions
+  are built. Can be combinatorial or sequential.  Refer to
+  [TI-ALS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ti-als).
 
 ### Logic synthesis
 
-* tbd
+* Very well documented. It starts with Boolean equations that are translated
+  into a wirelist of components from a given part library. Usually, vendors
+  use the term 'logic synthesis' to represent the end result of any synthesis
+  process used to reach the logic level. In reality, many distinctive types
+  of synthesis are used.
 
 ### Low-level
 
-* tbd
+* Refers to abstractions levels including and below the logic level.
 
 ### Low-level design framework
 
-* tbd
+* It contains system models, EDA tools and design methodologies that are below and
+  include the logic level of abstraction. It uses only a vertical design methodology.
 
 ### Low-level synthesis
 
-* tbd
+* A synthesis process below and including the logic level of abstraction,
+  inherent to the
+  [low-level design framework](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#low-level-design-framework).
 
 ### LSI
 
-* tbd
+* Large Scale Integration - The density of devices having between 100 and 1000
+  equivalent gates.
 
 ### Magic
 
-* tbd
+* Layout software for
+  [CMOS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cmos)
+  VLSI circuits.
 
 ### Mask
 
-* tbd
+* One of the glass lithographs used in an IC fabrication process.
 
 ### MCM
 
-* tbd
+* Multichip Module - A package technology based on placing silicon dice close
+  together with interconnections on a substrate.
 
 ### MCM-C
 
-* tbd
+* MCM assembly consisting of a thick-film multilayer cofired ceramic.
 
 ### MCM-D
 
