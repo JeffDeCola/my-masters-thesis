@@ -1,6 +1,10 @@
+# APPENDIX A
+
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
-# APPENDIX A
+* [HARDWARE AND SOFTWARE USED](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-a/appendix-a.md#hardware-and-software-used)
+  * [I. HARDWARE USED](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-a/appendix-a.md#i-hardware-used)
+  * [II. SOFTWARE USED](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-a/appendix-a.md#ii-software-used)
 
 ## HARDWARE AND SOFTWARE USED
 

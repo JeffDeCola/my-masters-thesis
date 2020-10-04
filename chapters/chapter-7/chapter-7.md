@@ -1,6 +1,12 @@
+# CHAPTER 7
+
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
-# CHAPTER 7
+* 7.1 [High-Level Design Methodology (Technology Migration)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#71-high-level-design-methodology-technology-migration)
+  * 7.1.1 [Top-Down Modeling](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#711-top-down-modeling)
+  * 7.1.2 [General High-Level EDA Environment](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#712-general-high-level-eda-environment)
+  * 7.1.3 [General High-Level EDA Environment](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#713-general-high-level-eda-environment)
+* 7.2 [Evaluation of Technology Migration](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#72-evaluation-of-technology-migration)
 
 ## HIGH-LEVEL HORIZONTAL DESIGN METHODOLOGY (TECHNOLOGY MIGRATION)
 

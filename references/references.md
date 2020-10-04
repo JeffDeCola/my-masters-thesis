@@ -1,6 +1,14 @@
+# REFERENCES
+
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
-# REFERENCES
+* [I. General Related Documentation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#i-general-related-documentation)
+* [II. Alternative System Concepts and CAD Language Systems, Inc. Related Documentation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#ii-alternative-system-concepts-and-cad-language-systems-inc-related-documentation)
+* [III. Mentor Graphics Related Documentation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#iii-mentor-graphics-related-documentation)
+* [IV. Texas Instruments and Actel Related Documentation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#iv-texas-instruments-and-actel-related-documentation)
+* [V. Viewlogic Related Documentation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#v-viewlogic-related-documentation)
+* [VI. Xilinx Related Documentation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#vi-xilinx-related-documentation)
+* [VII. Other Related Documentation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#vii-other-related-documentation)
 
 ## I. General Related Documentation
 
