@@ -73,7 +73,8 @@
   [ASIC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#asic)s
   such as
   [MCMs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm)
-  and analog/digital technologies as well as semi-custom standard-cells
+  and analog/digital technologies as well as semi-custom
+  [standard-cells](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#standard-cell)
   technologies.
 
 ### ALU
@@ -846,7 +847,8 @@ From
   describing the logical
   function of digital systems using such models styles as AND/OR gates,
   [Boolean equations](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#boolean-equation)
-  and standard-cells.
+  and
+  [standard-cells](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#standard-cell).
 
 ### Logic module
 
@@ -1082,7 +1084,8 @@ From
 
 ### MSU
 
-* Mississippi State University - In reference to a library of standard-cells
+* Mississippi State University - In reference to a library of
+  [standard-cells](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#standard-cell)
   used for a
   [CMOS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cmos)
   [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi)
@@ -1099,235 +1102,374 @@ From
 
 ### Non-procedural class
 
-* tbd
+* Class of system representations that contains no software algorithms.
+  The term itself means no procedures are used. It covers the entire
+  [physical](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#physical-domain)
+  and most of the
+  [structural domain](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#structural-domain).
+  This class can be exclusively described
+  using physical symbols such as
+  [logic gates](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#logic-gates),
+  chips and
+  [floor plans](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#floor-plans).
 
 ### NRE
 
-* tbd
+* Non-Recurring Engineering/Expenses - One time expense, not occurring over
+  and over.
 
 ### OEM
 
-* tbd
+* Original Equipment Manufacturer.
 
-### Open Windows
+### OpenWindows
 
-* tbd
+* Sun microsystems windows environment that runs on UNIX-based workstations.
 
 ### Optimization
 
-* tbd
+* The process of refining a model to optimize the designer's specifications.
 
 ### PAL
 
-* tbd
+* Programmable Array Logic - A type of programmable logic that implements a
+  [sum-of-products](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#sum-of-products)
+  logic by using a programmable AND array whose output feeds
+  a fixed OR array.
 
 ### Paradigm
 
-* tbd
+* A model or pattern.
 
 ### PC
 
-* tbd
+* Personal Computer - A computer for one user. Usually used to represent an
+  [IBM](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ibm)
+  or an IBM-clone.
 
 ### PC-Board
 
-* tbd
+* Printed Circuit Board -
+  [ICs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ic)
+  that are interconnected on a multilayer board
+  (usually made of copper laminated between layers of fiberglass).
 
 ### PCW
 
-* tbd
+* Printed Wiring **(sic)** Board - Refer to PCB **(sic)**.
 
 ### Pentium
 
-* tbd
+* A microprocessor from
+  [Intel](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#intel).
 
 ### PGA
 
-* tbd
+* Pin Grid Array - A type of microelectronics packaging.
 
 ### Physical domain
 
-* tbd
+* Covers the physical characteristics of the different technologies, such
+  as topology (relative placement) and geometry. It ignores, as much as
+  possible, the functionality of a system. Its only interest is binding
+  its structure in space or to silicon. Like the structural level,
+  it is not as dependent on the abstraction levels, hence movement from one
+  to another level is performed with little effort.
 
 ### Physical synthesis
 
-* tbd
+* One synthesis step because of the ease of movement from one abstraction level
+  to the next in the
+  [structural domain](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#structural-domain).
 
 ### PL
 
-* tbd
+* Procedural Language (Programming Language) - Express procedures or algorithms
+  by means of a control structure and data structure or sequences of instructions.
 
 ### PLA
 
-* tbd
+* Programmable Logic Array - A type of programmable logic that implements a
+  [sum-of-products](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#sum-of-products)
+  logic by using a fixed AND array whose output feeds a
+  programmable OR array.
 
 ### PLA_Table
 
-* tbd
+* A table that contains output information for a given input.
 
 ### PLCC
 
-* tbd
+* Plastic Leaded Chip Carrier - A type of microelectronics surface mount
+  packaging that has J-leads on four sides with uniform spacing between leads.
 
 ### PLD
 
-* tbd
+* Programmable Logic Device - Any device supplied with an uncommitted logic
+  array, which the designer programs to a specific function.
 
 ### Powerview
 
-* tbd
+* A set of
+  [Viewlogic's](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#viewlogic)
+  EDA tools that runs on a Sun
+  [SPARCstation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#sparcstation)
+  using Openwindows.
 
 ### Procedural class
 
-* tbd
+* A class of system representations that contains algorithmic data processes
+  proceeding in a sequence of steps. The time sequence execution of instructions
+  primarily depends upon the spatial sequence of these instructions within the
+  procedural text. This class easily falls into the upper
+  [algorithmic level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#algorithmic-level).
+  There are two different software classes at the procedural level, software
+  and a combination of both hardware and software structures. The former can be
+  sequential or concurrent. The latter contains several executing processes
+  which run concurrently.
 
 ### Propagation delay
 
-* tbd
+* The amount of time it takes for a change in the input signal to produce a
+  change in the output signal of a signal path.
 
 ### Prototyping
 
-* tbd
+* Developing a preliminary version of a system.
 
 ### RAM
 
-* tbd
+* Random Access Memory - Volatile memory. A memory in which every location can
+  be accessed in equal time. A combinational circuit with n-inputs corresponding
+  to 2<sup>n</sup> memory locations. Two main types: dynamic
+  [RAM](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ram)
+  (DRAM) and static
+  [RAM](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ram)
+  (SRAM).
 
 ### Random logic
 
-* tbd
+* Logic functions that do not correspond to a common, structured operation.
 
 ### Real-time
 
-* tbd
+* Logic functions that do not correspond to a common, structured operation.
 
 ### Register
 
-* tbd
+* A group of
+  [flip-flops](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#flip-flop)
+  (usually in powers of two), each clocked with the same
+  clock signal. Some have the ability to perform elementary operation such as
+  shift and increment.
 
 ### Reverse engineering
 
-* tbd
+* A procedure, often unethical, which unveils the functionality and details of a
+  product.
 
 ### Reverse synthesis
 
-* tbd
+* Sometimes loosely defined as reverse engineering, is a
+  [synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#synthesis)
+  process which travels in the opposite direction, towards a higher
+  [abstraction level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level)
+  or domain.
 
 ### ROM
 
-* tbd
+* Read Only Memory - Unalterable memory. A combinational circuit with n-inputs
+  corresponding to 2<sup>n</sup> memory locations. Really just non-volatile
+  [RAM](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ram).
+  Other types such as PROM, EPROM and EEPROM.
 
 ### RPST
 
-* tbd
+* Rapid Prototyping Synthesis Tool - A
+  [synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#synthesis)
+  tool part of
+  [VBIT](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vbit).
 
 ### RT
 
-* tbd
+* Register transfer - The flow and processing of information from
+  [register](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#register)
+  to
+  [register](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#register).
 
 ### RTL
 
-* tbd
+* Register Transfer Level - At the
+  [functional block abstraction level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#functional-block-level)
+  and behavioral domain that describes the operation of synchronous systems.
 
 ### RTL
 
-* tbd
+* Register Transfer Language - A language used to describe the operation of
+  synchronous systems with the use of register transfer equations.
 
 ### RTL synthesis
 
-* tbd
+* Refer to
+  [functional synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#functional-synthesis).
 
 ### Semantics
 
-* tbd
+* Meaning of language constructs. Refer to
+  [constructs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#constructs)
+  and
+  [syntax](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#syntax).
 
 ### Semi-conductor
 
-* tbd
+* A material, such as silicon, which is between an insulator and a conductor
+  used to make transistors.
 
 ### Semi-custom VLSI
 
-* tbd
+* The designer uses pre-designed
+  [mask](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mask)
+  layers, cells or architectures.
 
 ### Semi-procedural class
 
-* tbd
+* A class of system representations that are related to software, but not
+  algorithmically.
+  [State machine](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#state-machine),
+  differential equations and Boolean
+  equations fall into this class. These descriptions can act concurrently,
+  no algorithms are needed to make them function.
 
 ### Sequential logic
 
-* tbd
+* Outputs depend only on its current inputs and also the past sequence of
+  events. Refer to
+  [combinational logic](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#combinational-logic).
 
 ### Simulate
 
-* tbd
+* Refer to
+  [simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#simulation).
 
 ### Simulation
 
-* tbd
+* A process in which a
+  [system model](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-model),
+  containing functional and structural information, is used to predict it's
+  overall behavior for any given sequence of inputs. Different from
+  [emulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#emulation).
 
 ### Simulator
 
-* tbd
+* A simulation
+  [EDA tool](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool).
 
 ### SMD
 
-* tbd
+* Surface Mount Device - A packaged integrated circuit which fastens to the
+  surface of a circuit board. Many popular packaging techniques, such as DIPs,
+  have leads which extend through the board and are, therefor, not surface
+  mounted.
 
 ### Solder bump
 
-* tbd
+* A technique used to connect
+  [die](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#die)
+  pads to
+  [MCM](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm)
+  assemblies.
 
 ### SPARCstation
 
-* tbd
+* Sun's workstation family that runs
+  [SunOS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#sunos).
 
 ### SSI
 
-* tbd
+* Small Scale Integration - The density of devices having up to 12 equivalent
+  gates.
 
 ### Standard-cell
 
-* tbd
+* Partial masks in a
+  [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi)
+  process are designed by the user. A library of pre-designed cells are
+  available for the designer to use.
 
 ### Standard part
 
-* tbd
+* A collection of pre-designed components.
 
 ### State diagram
 
-* tbd
+* The information in a
+  [state table](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#state-table)
+  that is represented graphically.
 
 ### State equations
 
-* tbd
+* Boolean equations for the inputs to the
+  [flip-flops](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#flip-flop)
+  in a
+  [state machine](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#state-machine).
+  See
+  [state transitions](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#state-transitions).
 
 ### State machine
 
-* tbd
+* A sequential circuit There are finite and infinite
+  [state machines](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#state-machine).
 
 ### State table
 
-* tbd
+* A time sequence of inputs, outputs, and
+  [flip-flops](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#flip-flop)
+  states containing four
+  basic sections; present state, input, next state and output. Some texts
+  refer to this as a variation of a
+  [transition table](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#transition-table).
 
 ### State transitions
 
-* tbd
+* One
+  [abstraction level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level)
+  below
+  [state equations](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#state-equations).
 
 ### Structural Domain
 
-* tbd
+* Describes the partitioning, interfacing and interconnections of the different
+  components or modules of a digital system. Partitioning defines how a given
+  system is broken up into modules, which is the basis for hierarchy.
+  Interfacing specifies the external view of the system and its modules -
+  the ports that are used for the interconnections. The
+  [structural domain](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#structural-domain)
+  can be described as a wirelist of interconnected components. In contrast to the
+  [behavioral domain](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#behavioral-domain),
+  the
+  [structural domain](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#structural-domain)
+  is less dependent on the
+  [abstraction levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level),
+  thus, very little effort is needed to go from one level to another. For
+  example, movement from the
+  [functional-block level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#functional-block-level)
+  to the logic level requires less effort than in the
+  [behavioral domain](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#behavioral-domain).
 
 ### Sum-of-products
 
-* tbd
+* A logical sum of product terms.
 
 ### Sun Microsystems
 
-* tbd
+* A designer and manufacturer of computers and other digital systems.
 
 ### SunOS
 
-* tbd
+* A
+  [UNIX](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#unix)
+  operating system clone by
+  [Sun Microsystems](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#sun-microsystems).
 
 ### Syntax
 
