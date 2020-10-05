@@ -667,8 +667,15 @@
 
 ### Glue logic
 
-* Simple SSI and MSI logic used to get more complex LSI or VLSI components to
-  work together.
+* Simple
+  [SSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ssi)
+  and
+  [MSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#msi)
+  logic used to get more complex
+  [LSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#lsi)
+  or
+  [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi)
+  components to work together.
 
 ### HDL
 
@@ -834,7 +841,8 @@ From
 ### LIT
 
 * Logic Integration Tool - A software tool used to select the appropriate technology
-  based on the design model and design objectives. From Texas Instruments.
+  based on the design model and design objectives. From
+  [Texas Instruments](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ti).
 
 ### Logic gates
 
@@ -1473,413 +1481,594 @@ From
 
 ### Syntax
 
-* tbd
+* The precise way the constructs of a language can be used. Refer to constructs
+  and semantics.
 
 ### Synthesis
 
-* tbd
+* Refer to
+  [synthesis process](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#synthesis-process).
 
 ### Synthesis process
 
-* tbd
+* The movement of a system from a higher to a lower abstraction level or domain.
+  Synthesis adds another significant layer of detail to the system model,
+  refining it more towards a particular technology (a translation is a
+  one-to-one mapping).
 
 ### Synthesis system
 
-* tbd
+* Contains one or more synthesis tools used to accomplish a
+  [synthesis process](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#synthesis-process).
 
 ### System
 
-* tbd
+* Used in reference to a digital system. Refer to
+  [system model](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-model).
 
 ### System level
 
-* tbd
+* The highest of five basic
+  [abstraction levels](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level)
+  using such model styles as performance,
+  [CPUs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cpu)
+  or
+  [MCMs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm)
+  to represent a system.
 
 ### System model
 
-* tbd
+* A collection of one or more design files (at the same
+  [abstraction level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#abstraction-level))
+  developed from a
+  [description tool](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#description-tool)
+  that represents a designer's idea.
 
 ### System representation
 
-* tbd
+* Referring to one of fifteen basic types of system models.
 
 ### System synthesis
 
-* tbd
+* The most abstract of synthesis types that transfers performance
+  specifications into one or more interconnected structural modules.
 
 ### TAB
 
-* tbd
+* Tape-Automated Bonding - A technique used to connect
+  [die](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#die)
+  pads to
+  [MCM](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm)
+  assemblies.
 
 ### Taxonomy
 
-* tbd
+* A classification.
 
 ### TCE
 
-* tbd
+* Thermal Coefficient of Expansion - A coefficient for determining the linear
+  dimensional change of a material, per unit change in temperature.
+  Usually expressed as parts per million or as inch per inch,
+  per degrees centigrade.
 
 ### Technology
 
-* tbd
+* Refer to
+  [microsystem technology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#microsystem-technologies).
 
 ### Technology­-dependent
 
-* tbd
+* A system model that is dependent on a particular technology.
 
 ### Technology­-independent
 
-* tbd
+* A system model that is independent of any technology.
 
 ### Technology migration
 
-* tbd
+* It pertains to the design process which targets a given system model
+  to more than one
+  [microsystem technology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#microsystem-technologies).
+  It offers the ability to change
+  from one technology to another (i.e.
+  [migration](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#technology-migration)).
+  For example,
+  the replacement of a design implemented using standard parts to one
+  with
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
+  devices.
 
 ### Testability
 
-* tbd
+* The ability to determine to what extent faults can be identified. Combines
+  controllability and observability.
 
 ### Thick-film
 
-* tbd
+* Referring to a
+  [MCMs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm)
+  dielectric layer being thick, relative to the
+  [thin-film](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#thin-film).
 
 ### Thin-film
 
-* tbd
+* Referring to a
+  [MCMs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm)
+  dielectric layer being thin, relative to the
+  [thick-film](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#thick-film).
 
 ### TI
 
-* tbd
+* Texas Instruments - A company that designs and manufactures electronic
+  components and
+  [CAE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cae)
+  systems.
 
 ### TI-ALS
 
-* tbd
+* Action Logic System - A set of tools that includes programs to automatically
+  place and route
+  [TI/Actel](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#tiactel)
+  [FPGAs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga).
+  From
+  [Texas Instruments](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ti).
 
 ### TI/Actel
 
-* tbd
+* Referring to
+  [Texas Instrument](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ti)
+  and
+  [Actel](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#actel)
+  [FPGAs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga).
+  Refer to
+  [TPC10](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#tpc10).
 
 ### Time-dependent
 
-* tbd
+* Dependent on time.
 
 ### Time-independent
 
-* tbd
+* Independent on time.
 
 ### Time-to-market
 
-* tbd
+* A relative time of speed a product takes to get into the commercial market.
 
 ### TMS320
 
-* tbd
+* A
+  [DSP](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#dsp)
+  [IC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ic)
+  family from
+  [Texas Instruments](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ti).
 
 ### Tool-dependent
 
-* tbd
+* A model that is dependent on a particular tool.
 
 ### Tool-independent
 
-* tbd
+* A model that is independent on a particular tool.
 
 ### Top-down methodology
 
-* tbd
+* A methodology that follows a high-to-low progression in which higher system
+  level models are designed first, refining the system with lower system level
+  models, progressing down the
+  [system hierarchy](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-hierarchy).
 
 ### Topology
 
-* tbd
+* Abstractions of geometric information showing relative placement.
 
 ### TPC10
 
-* tbd
+* [Actel](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#actel)
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
+  family consisting of the TPC1010 and TPC1020 devices.
 
 ### TPC12
 
-* tbd
+* [Actel](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#actel)
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
+  family consisting of the TPC1225, TPC1240 and 1PC1280 devices.
 
 ### TPC14
 
-* tbd
+* [Actel](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#actel)
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
+  family in preliminary form.
 
 ### Transactional class
 
-* tbd
+* A class of system representations that includes network, communication
+  protocols, channels, links, messages, network structure, and LANs.
+  It falls into the upper system abstraction level. No procedures are
+  used with this class. Very few software languages are written as yet
+  for the transactional class. For example, Ada is one of the few
+  languages written at the upper system level.
 
 ### Translation
 
-* tbd
+* A one-to-one mapping. Refer to
+  [Synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#synthesis).
 
 ### Transition table
 
-* tbd
+* Refer to
+  [state table](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#state-table).
 
 ### Transistor functions
 
-* tbd
+* Mathematical equations that describe the function of transistors.
 
 ### Truth table
 
-* tbd
+* A table of combinations of the binary variables (list of all that possible
+  combinations of O's and l's) showing the relationship between the values
+  that the variables take and the result of the operation. Refer to
+  [state table](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#state-table).
 
 ### TTL
 
-* tbd
+* Transistor-Transistor Logic - The most popular logic family that has many
+  forms such as Schottky and low-power Schottky.
 
 ### ULSI
 
-* tbd
+* Ultra Large Scale Integration - The density of devices having more then
+  [VLSI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vlsi).
 
 ### ULTRIX
 
-* tbd
+* A
+  [UNIX](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#unix)
+  operating system clone by Digital Equipment Corporation.
 
 ### UNH
 
-* tbd
+* University of New Hampshire - Located in Durham, New Hampshire.
 
 ### UNIX
 
-* tbd
+* A multi-user operating system.
 
 ### VBIT
 
-* tbd
+* VHDL Built-In Test - An
+  [EDA tool](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool)
+  used to incorporate
+  [testability](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#testability)
+  into digital systems.
 
 ### Verilog
 
-* tbd
+* A hardware description language.
 
 ### Vertical design methodology
 
-* tbd
+* It corresponds to the traditional design process which targets a given
+  system model to a specific
+  [microsystem technology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#microsystem-technologies).
+  It is very well documented and widely used.
 
 ### VHDL
 
-* tbd
+* [VHSIC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#vhsic)
+  Hardware Description Language - A
+  [hardware description language](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#hdl)
+  ([IEEE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ieee)
+  1076-1987 Standard).
 
 ### VHSIC
 
-* tbd
+* Very High Speed Integrated Circuit - A United States
+  [DOD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#dod)
+  program used to develop high speed
+  [ICs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ic).
 
 ### Viewlogic
 
-* tbd
+* A
+  [CAE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cae)
+  company.
 
 ### Virtual
 
-* tbd
+* In effect or in essence, but not strictly defined.
 
 ### Virtual time
 
-* tbd
+* Having the essence of time, although not strictly defined.
 
 ### VLSI
 
-* tbd
+* Very Large Scale Integration - The density of devices having over 1000
+  equivalent gates.
 
 ### Wave/Particle Correlator
 
-* tbd
+* A
+  [NASA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#nasa)
+  device used to examine the cause and effect of electrons
+  and electromag­netic energy. Refer to
+  [Appendix B](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-b/appendix-b.md#appendix-b).
 
 ### Wire bond
 
-* tbd
+* A technique used to connect die pads to
+  [MCM](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#mcm)
+  assemblies.
 
 ### Workview
 
-* tbd
+* A set of
+  [Viewlogic's](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#viewlogic)
+  [EDA tools](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool)
+  that runs on a PC-based system using
+  [MS-DOS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ms-dos).
 
 ### WSI
 
-* tbd
+* Wafer Scale Integration - The use of an entire wafer for a single system.
 
 ### XC3000
 
-* tbd
+* [Xilinx](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#xilinx)
+  reprogrammable
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
+  family.
 
 ### XC4000
 
-* tbd
+* [Xilinx](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#xilinx)
+  reprogrammable
+  [FPGA](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga)
+  family.
 
 ### Xilinx
 
-* tbd
+* A manufacturer of
+  [FPGAs](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#fpga).
 
 ## II. CAE Environment Acronyms and Technical Terms
 
 ### Attribute
 
-* tbd
+* Text usually assigned to a schematic or symbol that provides additional
+  information about a design, such as capacitance, delay or current direction.
+  An attribute is not used to reference an object. Refer to
+  [label](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#label)
+  and
+  [text](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#text).
 
 ### Back annotation
 
-* tbd
+* Post-layout delay information that is back annotated to a
+  [simulator](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#simulator)
+  for timing analysis.
 
 ### Block
 
-* tbd
+* Refer to
+  [module](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#model).
 
 ### Bus
 
-* tbd
+* A collection of nets that can operate as a group or as a single unit.
 
 ### Critical net
 
-* tbd
+* A net whose signal propagation delay is part of the critical path in the
+  system.
 
 ### Critical path
 
-* tbd
+* The slowest path in the system. Determines the speed of the design.
 
 ### Component
 
-* tbd
+* Instantiation of a symbol in a schematic drawing.
 
 ### CUI
 
-* tbd
+* Common User Interface - Each application in a software environment,
+  usually part of a common framework, having the same user interface.
 
 ### Delay simulation
 
-* tbd
+* Refer to
+  [timing simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#timing-simulation).
 
 ### Design file
 
-* tbd
+* A file that contains all or part of the information of the system model.
 
 ### Design manager
 
-* tbd
+* A tool used to manage files and other
+  [EDA tools](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#eda-tool).
 
 ### EDIF
 
-* tbd
+* Electronic Design Interchange Format - A standard file format for
+  representing data for
+  [IC](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#ic)
+  design so that data can be transferred from the design environment to the
+  fabrication environment. Handles data from the gate to the physical level.
 
 ### Fixed macro
 
-* tbd
+* A hard macro that has a user-assigned location in the array that is not
+  altered by automatic placement.
 
 ### Functional simulation
 
-* tbd
+* Simulation that uses a unit delay to catch logical errors in a design.
+  Refer to
+  [timing simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#timing-simulation).
 
 ### GUI
 
-* tbd
+* Graphical User Interface - A graphical user interface that can be
+  part of a
+  [CUI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cui).
 
 ### Hard macro
 
-* tbd
+* Unit level macros with fixed relative placement.
 
 ### Hierarchy
 
-* tbd
+* Style of organizing a system where a level of a logic system
+  is expressed in terms of lower level modules. Lower level modules, in turn,
+  be expressed in terms of other lower level modules. Refer to
+  [system hierarchy](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-hierarchy).
 
 ### IGES
 
-* tbd
+* Initial Graphics Exchange Specification - A standard that handles both graphical,
+  mechanical and electrical design data, allowing it to be exchanged between
+  [CAD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cad)
+  systems from different vendors.
 
 ### Instance
 
-* tbd
+* Each placement of a library element into a design file that defines a unique
+  instance of that element.
 
 ### Instantiate
 
-* tbd
+* Reference, "Copy of', a symbol.
 
 ### IPC
 
-* tbd
+* Institute for Interconnecting and Packaging Electronic Circuits -
+  A standard that covers the physical layout of printed circuit boards;
+  the artwork, assembly, schematic, and parts drawings; netlists;
+  board-testing information; and internal and external design data
+  libraries.
 
 ### Label
 
-* tbd
+* Text that is attached to and is used as a way to identify and refer
+  to a net, component, bus or pin. Refer to
+  [attribute](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#attribute)
+  and
+  [text](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#text).
 
 ### Level
 
-* tbd
+* Refer to
+  [system level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-level).
 
 ### Library
 
-* tbd
+* A collection of graphic symbols and their corresponding functional descriptions.
 
 ### Module
 
-* tbd
+* A partition of a system, usually major functional areas.
 
 ### Net
 
-* tbd
+* Electrical connection between components. Represents a physical wire.
 
 ### Netlist
 
-* tbd
+* A list of all the connections in a design. For each signal name,
+  the pins of a particular component is listed.  Used as an input for most
+  back-end manufacturing tools.
 
 ### Parts list
 
-* tbd
+* List of all the components used in a design.
 
 ### Path
 
-* tbd
+* An implied connection of one or more
+  [nets](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#net)
+  with two adjacent
+  [nets](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#net)
+  always passing through the same component.
 
 ### Pin
 
-* tbd
+* Part of a component used for interconnecting
+  [nets](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#net)
+  or
+  [buses](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#bus).
 
 ### Primitive
 
-* tbd
+* Basic building blocks of a description tool that are structural
+  (uniform at all levels) or functional (uniform at one level).
 
 ### Schematic
 
-* tbd
+* Part or all of a system model represented using components and their
+  interconnections on a system level. Enough detail is given to construct
+  the system. They can either be flat or hierarchical.
 
 ### Schematic capture
 
-* tbd
+* The process of editing a schematic using a schematic capture description tool.
 
 ### Schematic capture description tool
 
-* tbd
+* An EDA graphical tool that allows the editing of symbols and primitives
+  on a schematic and connects them together using
+  [nets](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#net)
+  or
+  [buses](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#bus).
 
 ### Schematic editor
 
-* tbd
+* Refer to
+  [schematic capture description tool](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#schematic-capture-description-tool).
 
 ### Sheet
 
-* tbd
+* Section of a schematic on a system level.
 
 ### Soft macro
 
-* tbd
+* Unit level macros with fixed relative placement that a designer can define.
 
 ### Symbol
 
-* tbd
+* Usually a custom black box created in a schematic capture program to represent
+  some sort of functionality.
 
-### System level
+### System level **(sic)**
 
-* tbd
+* A level containing a full schematic in the system hierarchy.
 
 ### System hierarchy
 
-* tbd
+* A way to design a system in which larger modules are partitioned
+  into smaller modules, and so forth, thus creating a hierarchy of modules.
 
 ### Test vectors
 
-* tbd
+* A set of input combinations for use in
+  [verification](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#verification).
 
 ### Text
 
-* tbd
+* Text on a schematic sheet that has no functional value other then to
+  write notes on a schematic. Refer to
+  [attribute](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#attribute)
+  and
+  [label](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#label).
 
 ### Timing simulation
 
-* tbd
+* Simulation that uses real delay information from back annotation to
+  analyze delay paths in a system. Refer to
+  [functional simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#functional-simulation).
 
 ### Tool framework
 
