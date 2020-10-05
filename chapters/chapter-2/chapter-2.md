@@ -142,7 +142,7 @@ and only a slight connection with the conceptual­system element.
 Hence, the designer uses the schematic capture description tool to create
 a low-level model that is less comprehensible than the designer's actual idea.
 
-![Figure-2.2-Schematic-Capture-View-of-the-Digital-Design-Domain.jpg](figures/image-coming-soon.png)
+![Figure-2.2-Schematic-Capture-View-of-the-Digital-Design-Domain.jpg](figures/Figure-2.2-Schematic-Capture-View-of-the-Digital-Design-Domain.jpg)
 
 **Figure 2.2** *Schematic Capture View of the Digital Design Domain*
 
@@ -158,7 +158,7 @@ are rich in mnemonic meaning
 [[DGLW92]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#dglw92)
 [[Hart87a]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#hart87a).
 
-![Figure-2.3-VHDL-View-of-the-Digital-Design-Domain.jpg](figures/image-coming-soon.png)
+![Figure-2.3-VHDL-View-of-the-Digital-Design-Domain.jpg](figures/Figure-2.3-VHDL-View-of-the-Digital-Design-Domain.jpg)
 
 **Figure 2.3** *VHDL View of the Digital Design Domain*
 
@@ -192,7 +192,7 @@ advancement of system models and microsystem technologies.
 
 Furthermore, the architecture styles are now embedded in the design automation tools.
 
-![Figure-2.4-The-Design-Framework.jpg](figures/image-coming-soon.png)
+![Figure-2.4-The-Design-Framework.jpg](figures/Figure-2.4-The-Design-Framework.jpg)
 
 **Figure 2.4** *The Design Framework*
 
@@ -238,7 +238,7 @@ horizontal design methodology (technology migration) in the high-level design
 framework. It will be helpful to refer to this particular table throughout
 the thesis.
 
-![Table-2.1-Low-and-High-Level-Design-Framework-Capabilities.jpg](figures/image-coming-soon.png)
+![Table-2.1-Low-and-High-Level-Design-Framework-Capabilities.jpg](figures/Table-2.1-Low-and-High-Level-Design-Framework-Capabilities.jpg)
 
 **Table 2.1** *Low and High-Level Design Framework Capabilities*
 
@@ -271,7 +271,7 @@ separate technologies.
 will explain how to salvage these low-level
 system models for use with other technologies.
 
-![Figure-2.5-The-Design-Framework-with-Schematic-Capture-Models.jpg](figures/image-coming-soon.png)
+![Figure-2.5-The-Design-Framework-with-Schematic-Capture-Models.jpg](figures/Figure-2.5-The-Design-Framework-with-Schematic-Capture-Models.jpg)
 
 **Figure 2.5** *The Design Framework with Schematic Capture Models*
 
@@ -285,7 +285,7 @@ instead of four needed with schematic capture. The role of synthesis is fully
 explained in
 [Chapter 4](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#chapter-4).
 
-![Figure-2.6-The-Design-Framework-with-a-VHDL-Model-Illustrating-Technology-Migration.jpg](figures/image-coming-soon.png)
+![Figure-2.6-The-Design-Framework-with-a-VHDL-Model-Illustrating-Technology-Migration.jpg](figures/Figure-2.6-The-Design-Framework-with-a-VHDL-Model-Illustrating-Technology-Migration.jpg)
 
 **Figure 2.6** *The Design Framework with a VHDL Model Illustrating Technology Migration*
 
