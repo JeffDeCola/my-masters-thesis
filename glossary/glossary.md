@@ -1962,7 +1962,7 @@ From
 ### Level
 
 * Refer to
-  [system level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-level).
+  [system level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-level-cae).
 
 ### Library
 
@@ -2009,7 +2009,9 @@ From
 ### Schematic
 
 * Part or all of a system model represented using components and their
-  interconnections on a system level. Enough detail is given to construct
+  interconnections on a
+  [system level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-level-cae).
+  Enough detail is given to construct
   the system. They can either be flat or hierarchical.
 
 ### Schematic capture
@@ -2031,7 +2033,8 @@ From
 
 ### Sheet
 
-* Section of a schematic on a system level.
+* Section of a schematic on a
+  [system level](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#system-level-cae).
 
 ### Soft macro
 
@@ -2058,7 +2061,9 @@ From
 
 ### Text
 
-* Text on a schematic sheet that has no functional value other then to
+* Text on a schematic
+  [sheet](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#sheet)
+  that has no functional value other then to
   write notes on a schematic. Refer to
   [attribute](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#attribute)
   and
@@ -2072,16 +2077,23 @@ From
 
 ### Tool framework
 
-* tbd
+* A software environment that provides a design database with a central
+  exchange format, data and process management, a
+  [CUI](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cui)
+  and an open architecture.
 
 ### Tools
 
-* tbd
+* Software
+  [CAD](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#cad)
+  programs that assists a designer during system development. **(sic)**
 
 ### Verification
 
-* tbd
+* Verifying and/or analyzing a physical hardware device, testing for
+  functionally (go/no go test), timing (delay path) or structural (faults).
 
 ### Wirelist
 
-* tbd
+* Refer to
+  [netlist](https://github.com/JeffDeCola/my-masters-thesis/blob/master/glossary/glossary.md#netlist).
