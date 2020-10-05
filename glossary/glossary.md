@@ -2042,7 +2042,7 @@ From
 * Usually a custom black box created in a schematic capture program to represent
   some sort of functionality.
 
-### System level **(sic)**
+### System level (cae)
 
 * A level containing a full schematic in the system hierarchy.
 
