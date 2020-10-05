@@ -46,9 +46,6 @@ The digital design domain represents a designer's view of a digital system
 It is important because it formulates the foundation of the
 design framework.
 
-<img src="figures/Figure-2.1-The-Digital-Design-Domain.jpg"
-width="800"/>
-
 ![Figure-2.1-The-Digital-Design-Domain.jpg](figures/Figure-2.1-The-Digital-Design-Domain.jpg)
 
 **Figure 2.1** *The Digital Design Domain*
@@ -144,9 +141,6 @@ can be utilized. There is a substantial focus on the microsystem technology
 and only a slight connection with the conceptual­system element.
 Hence, the designer uses the schematic capture description tool to create
 a low-level model that is less comprehensible than the designer's actual idea.
-
-<img src="figures/Figure-2.2-Schematic-Capture-View-of-the-Digital-Design-Domain.jpg"
-width="800"/>
 
 ![Figure-2.2-Schematic-Capture-View-of-the-Digital-Design-Domain.jpg](figures/Figure-2.2-Schematic-Capture-View-of-the-Digital-Design-Domain.jpg)
 
