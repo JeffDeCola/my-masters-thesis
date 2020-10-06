@@ -52,7 +52,7 @@ be manufactured using any technological family such as the transistor-transistor
 logic (TTL), emitter-coupled logic (ECL) or the complementary metal
 oxide semiconductor (CMOS) family.
 
-![Figure-5.1-Integrated-Circuit-Technology-Breakdown.jpg](figures/image-coming-soon.png)
+![Figure-5.1-Integrated-Circuit-Technology-Breakdown.jpg](figures/Figure-5.1-Integrated-Circuit-Technology-Breakdown.jpg)
 
 **Figure 5.1** *Integrated Circuit Technology Breakdown*
 
@@ -297,18 +297,7 @@ For an example of programming a typical FPGA, refer to Laboratory 5A
 ([Appendix G](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-g/appendix-g.md)).
 For reference, the main steps are listed in Table 5.1.
 
-|       |                                           |  
-|------:|:------------------------------------------|
-| 1)    | Front-End Preparation                     |
-| 2)    | Wirelist Optimization (Optional)          |
-| 3)    | Enter Programming Environment             |
-| 4)    | Select Package and Device                 |
-| 5)    | Manual I/0 Pin Assignments (Optional)     |
-| 6)    | Validate, Place, Route and Extract        |
-| 7)    | Static Timing Verification (Optional)     |
-| 8)    | Back Annotation (Optional)                |
-| 9)    | Device Programming                        |
-| 1O)   | Verification                              |
+![Table-5.1-TI-ALS-FPGA-Programming-Flowchart.jpg](figures/TI-ALS-FPGA-Programming-Flowchart.jpg)
 
 **Table 5.1** *TI-ALS FPGA Programming Flowchart*
 
@@ -339,7 +328,7 @@ assembly and various dice that contain the digital systems. The assembly
 unit is the structure that contains the interconnections between the dice
 and the external environment. As an analogy, an MCM is a very small PC-board.
 
-![Figure-5.2-General-MCM-Assembly-Unit-and-Dice.jpg](figures/image-coming-soon.png)
+![Figure-5.2-General-MCM-Assembly-Unit-and-Dice.jpg](figures/Figure-5.2-General-MCM-Assembly-Unit-and-Dice.jpg)
 
 **Figure 5.2** *General MCM Assembly Unit and Dice*
 
@@ -508,7 +497,7 @@ the system model and the design objectives. It can reduce the tedium and
 time spent in determining which logic device best meets the design objectives.
 It is a powerful tool in the design framework as illustrated in Figure 5.3.
 
-![Figure-5.3-Design-Framework-Illustrating-Software-Aided-Device-Selection.jpg](figures/image-coming-soon.png)
+![Figure-5.3-Design-Framework-Illustrating-Software-Aided-Device-Selection.jpg](figures/Figure-5.3-Design-Framework-Illustrating-Software-Aided-Device-Selection.jpg)
 
 **Figure 5.3** *Design Framework Illustrating Software Aided Device Selection*
 
