@@ -71,7 +71,7 @@ fifteen separate system representations has a synthesis process associated
 with its abuttable neighbors. For a high-level model to reach the physical
 domain (the goal of the designer), it must pass through many types of synthesis.
 
-![Figure-4.1-Synthesis-View-of-System-Representations.jpg](figures/image-coming-soon.png)
+![Figure-4.1-Synthesis-View-of-System-Representations.jpg](figures/Figure-4.1-Synthesis-View-of-System-Representations.jpg)
 
 **Figure 4.1** *Synthesis View of System Representations*
 
@@ -145,7 +145,7 @@ This process might be a combination of many different types of synthesis.
 The figure also shows a low-level schematic capture model limited to a
 particular technology.
 
-![Figure-4.2-Design-Framework-Illustrating-Synthesis-Tools-used-for-Technology-Migration.jpg](figures/image-coming-soon.png)
+![Figure-4.2-Design-Framework-Illustrating-Synthesis-Tools-used-for-Technology-Migration.jpg](figures/Figure-4.2-Design-Framework-Illustrating-Synthesis-Tools-used-for-Technology-Migration.jpg)
 
 **Figure 4.2** *Design Framework Illustrating Synthesis Tools used for
 Technology Migration*
@@ -155,7 +155,7 @@ through the process of reverse synthesis. Figure 4.3 illustrates this process,
 synthesizing a schematic capture model into a VHDL model. From the VHDL model,
 technology migration is more feasible.
 
-![Figure-4.3-Design-Framework-Illustrating-Reverse-Synthesis-Tools-for-Technology-Migration.jpg](figures/image-coming-soon.png)
+![Figure-4.3-Design-Framework-Illustrating-Reverse-Synthesis-Tools-for-Technology-Migration.jpg](figures/Figure-4.3-Design-Framework-Illustrating-Reverse-Synthesis-Tools-for-Technology-Migration.jpg)
 
 **Figure 4.3** *Design Framework Illustrating Reverse Synthesis Tools for
 Technology Migration*
@@ -197,7 +197,7 @@ demonstrates model enhancement.
 * *Model enhancement* adds a capability to a system model, usually through a
   design automation process.
 
-![Figure-4.4-System-Representations-Illustrating-Synthesis-and-Design-Automation-(Model-Enhancement).jpg](figures/image-coming-soon.png)
+![Figure-4.4-System-Representations-Illustrating-Synthesis-and-Design-Automation-Model-Enhancement.jpg](figures/Figure-4.4-System-Representations-Illustrating-Synthesis-and-Design-Automation-Model-Enhancement.jpg)
 
 **Figure 4.4** *System Representations Illustrating Synthesis and Design
 Automation (Model Enhancement)*
@@ -214,7 +214,7 @@ Enhancement can occur at two places in system development - at the model level o
 during a synthesis process. As shown in both figures, design automation does
 not change abstraction levels or domains.
 
-![Figure-4.5-Design-Framework-Illustrating-Model-Enhancement.jpg](figures/image-coming-soon.png)
+![Figure-4.5-Design-Framework-Illustrating-Model-Enhancement.jpg](figures/Figure-4.5-Design-Framework-Illustrating-Model-Enhancement.jpg)
 
 **Figure 4.5** *Design Framework Illustrating Model Enhancement*
 
@@ -250,7 +250,7 @@ all microsystem technologies. The most efficient technology implementation
 can then be chosen based on the designer's objectives
 [[Gajs91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#gajs91).
 
-![Figure-4.6-Design-Framework-Illustrating-Different-Architecture-Styles.jpg](figures/image-coming-soon.png)
+![Figure-4.6-Design-Framework-Illustrating-Different-Architecture-Styles.jpg](figures/Figure-4.6-Design-Framework-Illustrating-Different-Architecture-Styles.jpg)
 
 **Figure 4.6** *Design Framework Illustrating Different Architecture Styles*
 
