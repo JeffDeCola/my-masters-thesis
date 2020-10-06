@@ -297,7 +297,7 @@ For an example of programming a typical FPGA, refer to Laboratory 5A
 ([Appendix G](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-g/appendix-g.md)).
 For reference, the main steps are listed in Table 5.1.
 
-![Table-5.1-TI-ALS-FPGA-Programming-Flowchart.jpg](figures/TI-ALS-FPGA-Programming-Flowchart.jpg)
+![Table-5.1-TI-ALS-FPGA-Programming-Flowchart.jpg](figures/Table-5.1-TI-ALS-FPGA-Programming-Flowchart.jpg)
 
 **Table 5.1** *TI-ALS FPGA Programming Flowchart*
 

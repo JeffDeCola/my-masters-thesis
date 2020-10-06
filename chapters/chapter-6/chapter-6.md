@@ -43,7 +43,7 @@ In order to better understand the low-level vertical design methodology;
 bottom-up modeling, the general low-level schematic capture EDA environment,
 and the general steps of the methodology are addressed.
 
-![Figure-6.1-Low-Level-Design-Framework.jpg](figures/image-coming-soon.png)
+![Figure-6.1-Low-Level-Design-Framework.jpg](figures/Figure-6.1-Low-Level-Design-Framework.jpg)
 
 **Figure 6.1** *Low-Level Design Framework*
 
