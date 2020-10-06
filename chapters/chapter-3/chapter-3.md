@@ -60,7 +60,7 @@ The also provide a way to visualize various EDA tools, classify system models
 (by model style) and characterize design methodologies. Figure 3.1 will be
 expanded upon throughout this thesis to illustrate these points.
 
-![Figure-3.1-Fifteen-Basic-System-Representations-Five-Basic-Abstraction-Levels-and-Three-Associated-Domains-with-Various-Model-Styles.jpg](figures/image-coming-soon.png)
+![Figure-3.1-Fifteen-Basic-System-Representations-Five-Basic-Abstraction-Levels-and-Three-Associated-Domains-with-Various-Model-Styles.jpg](figures/Figure-3.1-Fifteen-Basic-System-Representations-Five-Basic-Abstraction-Levels-and-Three-Associated-Domains-with-Various-Model-Styles.jpg)
 
 **Figure 3.1** *Fifteen Basic System Representations - Five Basic Abstraction Levels
 and Three Associated Domains - with Various Model Styles*
@@ -155,7 +155,7 @@ characteristics interact with one other. This will be expanded upon in
 when illustrating the taxonomy of common design languages
 [[Hart87b]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#hart87b).
 
-![Figure-3.2-Fifteen-Basic-System-Representations-Illustrating-Four-Basic-Classes.jpg](figures/image-coming-soon.png)
+![Figure-3.2-Fifteen-Basic-System-Representations-Illustrating-Four-Basic-Classes.jpg](figures/Figure-3.2-Fifteen-Basic-System-Representations-Illustrating-Four-Basic-Classes.jpg)
 
 **Figure 3.2** *Fifteen Basic System Representations Illustrating Four Basic Classes*
 
@@ -216,7 +216,7 @@ it is completely modeled. If errors are found at this stage, additional time
 is required changing the logic gates. Higher levels of abstraction
 surpass these problems; a higher level description tool allows this to happen.
 
-![Figure-3.3-Schematic-Capture-Description-Tool-Area-of-System-Representations.jpg](figures/image-coming-soon.png)
+![Figure-3.3-Schematic-Capture-Description-Tool-Area-of-System-Representations.jpg](figures/Figure-3.3-Schematic-Capture-Description-Tool-Area-of-System-Representations.jpg)
 
 **Figure 3.3** *Schematic Capture Description Tool Area of System Representations*
 
@@ -243,7 +243,7 @@ now be realized with the use of an HDL
 It has already been stated that higher levels facilitate technology migration
 and comprehension, but these are only two of the benefits.
 
-![Figure-3.4-HDL-Description-Tool-Area-of-System-Representations.jpg](figures/image-coming-soon.png)
+![Figure-3.4-HDL-Description-Tool-Area-of-System-Representations.jpg](figures/Figure-3.4-HDL-Description-Tool-Area-of-System-Representations.jpg)
 
 **Figure 3.4** *HDL Description Tool Area of System Representations*
 
@@ -361,7 +361,7 @@ Figure 3.5 shows the language tree starting with the two basic language
 forms - programming and hardware. Ovals represent a type (category) of language
 while the rectangles represent a more specific form.
 
-![Figure-3.5-The-Language-Tree-for-Electronic-Design.jpg](figures/image-coming-soon.png)
+![Figure-3.5-The-Language-Tree-for-Electronic-Design.jpg](figures/Figure-3.5-The-Language-Tree-for-Electronic-Design.jpg)
 
 **Figure 3.5** *The Language Tree for Electronic Design*
 
@@ -415,7 +415,7 @@ or modeling). Figure 3.6 represents all of the above criteria - except the
 last two - bringing together all of the definitions and concepts introduced
 earlier in this chapter.
 
-![Figure-3.6-Language-Classifications.jpg](figures/image-coming-soon.png)
+![Figure-3.6-Language-Classifications.jpg](figures/Figure-3.6-Language-Classifications.jpg)
 
 **Figure 3.6** *Language Classifications*
 
@@ -570,7 +570,7 @@ transfer (dataflow), the behavioral and a mixture of the above three
 [[Nava91]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#nava91).
 Figure 3.7 illustrates how these models fit into the system representation diagram.
 
-![Figure-3.7-VHDL-Description-Tool-Area-of-System-Representations.jpg](figures/image-coming-soon.png)
+![Figure-3.7-VHDL-Description-Tool-Area-of-System-Representations.jpg](figures/Figure-3.7-VHDL-Description-Tool-Area-of-System-Representations.jpg)
 
 **Figure 3.7** *VHDL Description Tool Area of System Representations*
 
