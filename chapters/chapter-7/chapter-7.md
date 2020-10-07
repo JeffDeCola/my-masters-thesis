@@ -68,7 +68,7 @@ Figure 7.2. This figure is used as a guide when going through the high-level
 horizontal  design methodology steps (next subsection). A brief overview of the
 VHDL tools follows.
 
-![Figure-7.2-General-VHDL-Tools-and-File-Structure-in-the-EDA-Environment.jpg](figures/image-coming-soon.png)
+![Figure-7.2-General-VHDL-Tools-and-File-Structure-in-the-EDA-Environment.jpg](figures/Figure-7.2-General-VHDL-Tools-and-File-Structure-in-the-EDA-Environment.jpg)
 
 **Figure 7.2** *General VHDL Tools and File Structure in the EDA Environment*
 
@@ -117,25 +117,9 @@ respectively. The entire high-level design methodology that was used to develop
 a HISC is explained in Laboratories 2B-5B
 ([Appendices H-K](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-h/appendix-h.md)).
 
-![Figure-7.3-General-High-Level-Design-Methodology.jpg](figures/image-coming-soon.png)
+![Figure-7.3-General-High-Level-Design-Methodology.jpg](figures/Figure-7.3-General-High-Level-Design-Methodology.jpg)
 
 **Figure 7.3** *General High-Level Design Methodology*
-
-|       |                                                         |
-|------:|:--------------------------------------------------------|
-| 1)    | Design Capture                                          |
-| 2)    | Test Vector Development                                 |
-| 3)    | Functional Simulation                                   |
-| 4)    | Repeat Steps One, Two and Three (Top-Down Modeling)     |
-| 5)    | - Model Enhancement (Optional)                          |
-| 6)    | - Software Aided Device Selection (Optional)            |
-| 7)    | Synthesis                                               |
-|       | - Model Enhancement (Optional)                          |
-|       | - Software Aided Device Selection (Optional)            |
-| 8)    | Pre-Manufacturing (Mapping, Validation)                 |
-| 9)    | Timing Simulation (Optional)                            |
-| 10)   | Manufacturing                                           |
-| 11)   | Verification (Functional, Analysis, Fault)              |
 
 ![Table-7.1-General-High-Level-Design-Methodology-Steps.jpg](figures/Table-7.1-General-High-Level-Design-Methodology-Steps.jpg)
 
