@@ -70,7 +70,7 @@ vertical design methodology steps (next subsection). To orient the reader,
 in the top right comer, the .sch file contains the information of the schematic
 drawing (low-level system model).
 
-![Figure-6.2-General-Schematic-Capture-Tool-and-File-Structure-in-the-EDA-Environment.jpg](figures/image-coming-soon.png)
+![Figure-6.2-General-Schematic-Capture-Tool-and-File-Structure-in-the-EDA-Environment.jpg](figures/Figure-6.2-General-Schematic-Capture-Tool-and-File-Structure-in-the-EDA-Environment.jpg)
 
 **Figure 6.2** *General Schematic Capture Tool and File Structure in the EDA Environment*
 
@@ -83,22 +83,11 @@ Figure 6.2. The entire low-level design methodology that was used to develop
 the HISC is explained in Laboratories 2A-5A
 ([Appendices D-G](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-d/appendix-d.md)).
 
-![Figure-6.3-General-Low-Level-Vertical-Design-Methodology.jpg](figures/image-coming-soon.png)
+![Figure-6.3-General-Low-Level-Vertical-Design-Methodology.jpg](figures/Figure-6.3-General-Low-Level-Vertical-Design-Methodology.jpg)
 
 **Figure 6.3** *General Low-Level Vertical Design Methodology*
 
-|       |                                                         |
-|------:|:--------------------------------------------------------|
-| 1)    | Design Capture                                          |
-| 2)    | Test Vector Development                                 |
-| 3)    | Functional Simulation                                   |
-| 4)    | Repeat Steps One, Two and Three (Bottom-Up Modeling)    |
-| 5)    | Model Enhancement (Optional)                            |
-| 6)    | Software Aided Device Selection (Optional)              |
-| 7)    | Pre-Manufacturing (Mapping, Validation)                 |
-| 8)    | Timing Simulation (Optional)                            |
-| 9)    | Manufacturing                                           |
-| 10)   | Verification (Functional, Analysis, Fault)              |
+![Table-6.1-General-Low-Level-Vertical-Design-Methodology-Steps.jpg](figures/Figure-6.3-General-Low-Level-Vertical-Design-Methodology.jpg)
 
 **Table 6.1** *General Low-Level Vertical Design Methodology Steps*
 
@@ -205,12 +194,7 @@ be efficiently utilized. Finally, the methodology must allow a design
 team to work independently and concurrently
 [[LaMc86]](https://github.com/JeffDeCola/my-masters-thesis/blob/master/references/references.md#lamc86).
 
-|       |                                        |
-|------:|:---------------------------------------|
-| 1)    | Flexibility                            |
-| 2)    | Complete Verification System           |
-| 3)    | Efficient use of Computer Resources    |
-| 4)    | Independent/Concurrent Design Team     |
+![Table-6.2-Goals-of-a-Design-Methodology.jpg](figures/Table-6.2-Goals-of-a-Design-Methodology.jpg)
 
 **Table 6.2** *Goals of a Design Methodology*
 
