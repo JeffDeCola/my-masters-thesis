@@ -92,7 +92,8 @@
 * *Boundary Scan Implementation of a Wave/Particle Correlator*
 * Department of Electrical and Computer Engineering
 * University of New Hampshire, Durham, New Hampshire. May, 1991.
-* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction)
+* [Introduction](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-1/chapter-1.md#introduction),
+  [Appendix B](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-b/appendix-b.md#i-nasa-correlator)
 
 ### [Deco91a]
 
