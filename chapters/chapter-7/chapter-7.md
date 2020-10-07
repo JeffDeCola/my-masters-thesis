@@ -137,6 +137,8 @@ a HISC is explained in Laboratories 2B-5B
 | 10)   | Manufacturing                                           |
 | 11)   | Verification (Functional, Analysis, Fault)              |
 
+![Table-7.1-General-High-Level-Design-Methodology-Steps.jpg](figures/Table-7.1-General-High-Level-Design-Methodology-Steps.jpg)
+
 **Table 7.1** *General High-Level Design Methodology Steps*
 
 Although the low-level and high-level design methodology steps are
