@@ -174,7 +174,6 @@ FPGA technology.
   * [LABORATORY 5B: PROGRAMMING A TI TPC12 FPGA WI1H TI-ALS TOOLS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-k/appendix-k.md#laboratory-5b-programming-a-ti-tpc12-fpga-wi1h-ti-als-tools)
 * [APPENDIX L](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md)
   * [PROGRAMABLE 8-BIT MICROPROCESSOR](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md#programable-8-bit-microprocessor)
-    * [I. TOP-LEVELS OF THE MICROPROCESSOR]()
-    * [II. GENERIC VHDL TEST GENERATION TEMPLATE]()
-    * [III. STRUCTURAL VHDL DESCRIPTION OF THE 8-BIT MICROPROCESSOR]()
-    
+    * [I. TOP-LEVELS OF THE MICROPROCESSOR](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md#i-top-levels-of-the-microprocessor)
+    * [II. GENERIC VHDL TEST GENERATION TEMPLATE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md#ii-generic-vhdl-test-generation-template)
+    * [III. STRUCTURAL VHDL DESCRIPTION OF THE 8-BIT MICROPROCESSOR](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md#iii-structural-vhdl-description-of-the-8-bit-microprocessor)

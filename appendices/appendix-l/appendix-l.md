@@ -7,6 +7,9 @@
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
 * [PROGRAMABLE 8-BIT MICROPROCESSOR](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md#programable-8-bit-microprocessor)
+  * [I. TOP-LEVELS OF THE MICROPROCESSOR](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md#i-top-levels-of-the-microprocessor)
+  * [II. GENERIC VHDL TEST GENERATION TEMPLATE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md#ii-generic-vhdl-test-generation-template)
+  * [III. STRUCTURAL VHDL DESCRIPTION OF THE 8-BIT MICROPROCESSOR](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-l/appendix-l.md#iii-structural-vhdl-description-of-the-8-bit-microprocessor)
 
 ## PROGRAMABLE 8-BIT MICROPROCESSOR
 
