@@ -1,9 +1,5 @@
 # APPENDIX B
 
-```text
-*** THIS APPENDIX UNDER CONSTRUCTION - CHECK BACK SOON ***
-```
-
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
 * [HOST INTERFACE SERIAL CONTROLLER (HISC) (CORRELATOR CONTROLLER) ARCHITECTURE](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-b/appendix-b.md#host-interface-serial-controller-hisc-correlator-controller-architecture)
@@ -104,3 +100,9 @@ or priority logic.
 ![Figure-B.2-Correlator-Controller-with-Seven-Processors.jpg](figures/Figure-B.2-Correlator-Controller-with-Seven-Processors.jpg)
 
 **Figure B.2** *Correlator Controller with Seven Processors*
+
+The internal structure of the HISC is located in Laboratories 2A-3A
+([Appendices D-E](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-d/appendix-d.md#appendix-d)).
+It explains in detail, the logic of the state machines
+control sequences, the control signal decoder, the Correlator Chooser
+and miscellaneous glue logic. The HISC was prototyped using FPGAs.
