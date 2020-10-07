@@ -32,7 +32,7 @@ Technology Migration](https://github.com/JeffDeCola/my-masters-thesis/blob/maste
 * **7.1** [High-Level Design Framework](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#71-high-level-design-methodology-technology-migration)
 * **7.2** [General VHDL Tools and File Structure in the EDA Environment](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#712-general-high-level-eda-environment)
 * **7.3** [General High-Level Design Methodology](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-7/chapter-7.md#713-general-high-level-eda-environment)
-* **B.1** []()
+* **B.1** [Correlator Processor Architecture]()
 * **B.2** []()
 * **L1.1** []()
 * **L1.2** []()
