@@ -4,23 +4,16 @@
 
 BY Jeffry A. DeCola
 
-B.S.E.E., University of New Hampshire, 1991
-
 Submitted to the University of New Hampshire
 in Partial Fulfillment of the Requirements for the Degree of
 Master of Science
 in
-Electrical Engineering,
-December, 1993
+Electrical Engineering
 
 Copies of my thesis are located at the
 [UNH Diamond Library](https://unh.primo.exlibrisgroup.com/permalink/01USNH_UNH/121i3ml/alma991007116219805221)
 and the
 [UNH Engineering, Math & CS Library](https://unh.primo.exlibrisgroup.com/permalink/01USNH_UNH/121i3ml/alma991007116219805221)
-
-ALL RIGHTS RESERVED
-&copy;1993 Jeffry A. DeCola
-(Registration Number [TXu000610236](https://www.copyright.gov))
 
 ## ABSTRACT
 
@@ -39,6 +32,7 @@ FPGA technology.
 
 ## TABLE OF CONTENTS
 
+* [TITLE AND COPYRIGHT](https://github.com/JeffDeCola/my-masters-thesis/blob/master/title-and-copyright/title-and-copyright.md)
 * [EXAMINED AND APPROVED](https://github.com/JeffDeCola/my-masters-thesis/blob/master/examined-and-approved/examined-and-approved.md)
 * [DEDICATION](https://github.com/JeffDeCola/my-masters-thesis/blob/master/dedication/dedication.md)
 * [ACKNOWLEDGMENTS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/acknowledgements/acknowledgements.md)
