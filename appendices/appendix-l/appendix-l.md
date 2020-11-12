@@ -1,8 +1,10 @@
 # APPENDIX L
 
-```text
-*** THIS APPENDIX UNDER CONSTRUCTION - CHECK BACK SOON ***
-```
+**NOTE:** I translated the following programable 8-bit microprocessor
+in my Thesis, from VHDL to verilog, and have a full working synthesizable
+example in
+[my-systemverilog-examples](https://github.com/JeffDeCola/my-systemverilog-examples/tree/master/systems/microprocessors/programable-8-bit-microprocessor)
+repo.
 
 [Table of Contents](https://github.com/JeffDeCola/my-masters-thesis#table-of-contents)
 
@@ -29,8 +31,15 @@
 
 ### II. GENERIC VHDL TEST GENERATION TEMPLATE
 
-*coming soon*
+**NOTE:** I translated the original VHDL in my Thesis into
+verilog and have a full working testbench in
+[my-systemverilog-examples](https://github.com/JeffDeCola/my-systemverilog-examples/tree/master/systems/microprocessors/programable-8-bit-microprocessor)
+repo.
 
 ### III. STRUCTURAL VHDL DESCRIPTION OF THE 8-BIT MICROPROCESSOR
 
-*coming soon*
+**NOTE:** Keeping the exact same structure, ports, and logic, I translated the
+original VHDL in my Thesis into verilog and have a full working synthesizable
+example in
+[my-systemverilog-examples](https://github.com/JeffDeCola/my-systemverilog-examples/tree/master/systems/microprocessors/programable-8-bit-microprocessor)
+repo.
