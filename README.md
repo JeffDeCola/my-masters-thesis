@@ -1,5 +1,11 @@
 # my-masters-thesis
 
+[GitHub Webpage](https://jeffdecola.github.io/my-masters-thesis/)
+_built with
+[concourse ci](https://github.com/JeffDeCola/my-masters-thesis/blob/master/ci-README.md)_
+
+---
+
 **A HIGH-LEVEL DESIGN FRAMEWORK ILLUSTRATING TECHNOLOGY MIGRATION**
 
 BY Jeffry A. DeCola
@@ -14,6 +20,8 @@ Copies of my thesis are located at the
 [UNH Diamond Library](https://unh.primo.exlibrisgroup.com/permalink/01USNH_UNH/121i3ml/alma991007116219805221)
 and the
 [UNH Engineering, Math & CS Library](https://unh.primo.exlibrisgroup.com/permalink/01USNH_UNH/121i3ml/alma991007116219805221)
+
+---
 
 ## ABSTRACT
 
