@@ -1,7 +1,7 @@
 ---
 layout: default
-title: JeffDeCola/my-docker-image-builds
-projectname : my-docker-image-builds
+title: JeffDeCola/my-masters-thesis
+projectname : my-masters-thesis
 summary: A High-Level Design Framework Illustrating Technology Migration
 ---
 
