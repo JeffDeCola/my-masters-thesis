@@ -10,4 +10,4 @@
 
 ## LABORATORY 5A: PROGRAMMING A TI TPC12 FPGA WITH TI-ALS TOOLS
 
-*coming soon*
+_Coming soon._

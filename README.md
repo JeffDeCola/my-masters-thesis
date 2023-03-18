@@ -1,6 +1,5 @@
 # MY MASTERS THESIS
 
-[![codeclimate Issue Count](https://codeclimate.com/github/JeffDeCola/my-master-thesis/badges/issue_count.svg)](https://codeclimate.com/github/JeffDeCola/my-masters-thesis/issues)
 [![jeffdecola.com](https://img.shields.io/badge/website-jeffdecola.com-blue)](https://jeffdecola.com)
 
 This repos
