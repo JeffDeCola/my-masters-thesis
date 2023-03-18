@@ -19,15 +19,15 @@ repo._
 
 ![Figure-L.1-Top-Level-Block-Diagram-of-the-8-bit-Microprocessor.jpg](figures/Figure-L.1-Top-Level-Block-Diagram-of-the-8-bit-Microprocessor.jpg)
 
-**Figure L.1** *Top-Level Block Diagram of the 8-bit Microprocessor*
+**Figure L.1** _Top-Level Block Diagram of the 8-bit Microprocessor*_
 
 ![Figure-L.2-Control-Block-of-the-8-bit-Microprocessor.jpg](figures/Figure-L.2-Control-Block-of-the-8-bit-Microprocessor.jpg)
 
-**Figure L.2** *Control Block of the 8-bit Microprocessor*
+**Figure L.2** _Control Block of the 8-bit Microprocessor_
 
 ![Figure-L.3-Processor-Block-of-the-8-bit-Microprocessor.jpg](figures/Figure-L.3-Processor-Block-of-the-8-bit-Microprocessor.jpg)
 
-**Figure L.3** *Processor Block of the 8-bit Microprocessor*
+**Figure L.3** _Processor Block of the 8-bit Microprocessor_
 
 ### II. GENERIC VHDL TEST GENERATION TEMPLATE
 

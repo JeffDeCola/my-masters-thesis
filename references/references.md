@@ -872,7 +872,7 @@
 
 ### [Bout92]
 
-* Daniel R. Boutin 
+* Daniel R. Boutin
 * "CASE Technology: A Software Perspective"
 * *Proceedings of the Atlantic Test Workshop '92*
 * University of New Hampshire, Durham, New Hampshire. May, 1992. pg. 2.4a.

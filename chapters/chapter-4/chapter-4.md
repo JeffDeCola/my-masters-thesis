@@ -4,9 +4,9 @@
 
 * 4.1 [Synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#41-synthesis)
 * 4.2 [Types of Synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis)
-* 4.3 [Synthesis for Technology Migration ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#43-synthesis-for-technology-migration)
-* 4.4 [Synthesis System ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
-  * 4.4.1 [Design Automation ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation)
+* 4.3 [Synthesis for Technology Migration](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#43-synthesis-for-technology-migration)
+* 4.4 [Synthesis System](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
+  * 4.4.1 [Design Automation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation)
   * 4.4.2 [Benefits of High-Level Synthesis Systems](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#442-benefits-of-high-level-synthesis-systems)
   * 4.4.3 [Limitations of High-Level Synthesis Systems](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#443-limitations-of-high-level-synthesis-systems)
 * 4.5 [Modeling for the Synthesis System](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#45-modeling-for-the-synthesis-system)
