@@ -10,4 +10,4 @@
 
 ## LABORATORY 4B: VHDL SIMULATION WI1H VIEWLOGIC'S VIEWSIM
 
-*coming soon*
+_Coming soon._

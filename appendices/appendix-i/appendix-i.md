@@ -10,4 +10,4 @@
 
 ## LABORATORY 3B: VHDL HIERARCHICAL DESIGN WI1H VIEWLOGIC'S TOOLS
 
-*coming soon*
+_Coming soon._

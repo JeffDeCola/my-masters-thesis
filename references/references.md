@@ -333,31 +333,31 @@
 
 * Casper Stoel
 * "FRITS: FRamework Including Test Systems, Version 0.5 Developer's Guide"
-* Alternative System Concepts, Inc., Durham, New Hampshire. August, 1992.  
+* Alternative System Concepts, Inc., Durham, New Hampshire. August, 1992.
 
 ### [Stoe92c]
 
 * Casper Stoel
 * "VBIT: VHDL Built-In Test, Version 1.0 Release Guide"
-* Alternative System Concepts, Inc., Durham, New Hampshire. November, 1992.  
+* Alternative System Concepts, Inc., Durham, New Hampshire. November, 1992.
 
 ### [Stoe92d]
 
 * Casper Stoel
 * "VBIT: VHDL  Built-In Test, Version 1.0 User's Guide"
-* Alternative System Concepts, Inc., Durham, New Hampshire. September, 1992.  
+* Alternative System Concepts, Inc., Durham, New Hampshire. September, 1992.
 
 ### [Stoe92e]
 
 * Casper Stoel
 * *ABIT: Automatic BIST Insertion Tool, Version 1.0 User's Guide*
-* Alternative System Concepts, Inc., Durham, New Hampshire. December, 1992.  
+* Alternative System Concepts, Inc., Durham, New Hampshire. December, 1992.
 
 ### [Stoe92f]
 
 * Casper Stoel
 * *ABSIT: Automatic Boundary Scan Insertion Tool, Version 1.0, User's Guide*
-* Alternative System Concepts, Inc., Durham, New Hampshire. November, 1992.  
+* Alternative System Concepts, Inc., Durham, New Hampshire. November, 1992.
 
 ## III. Mentor Graphics Related Documentation
 

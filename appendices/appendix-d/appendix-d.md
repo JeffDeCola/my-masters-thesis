@@ -10,4 +10,4 @@
 
 ## LABORATORY 2A: SCHEMATIC CAPTURE WITH VIEWLOGIC'S VIEWDRAW
 
-*coming soon*
+_Coming soon._

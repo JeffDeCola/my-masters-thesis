@@ -8,6 +8,6 @@
 
 * [LABORATORY 1: SOFTWARE AIDED DEVICE SELECTION WITH THE TI LOGIC INTEGRATION TOOL (LIT)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/appendices/appendix-c/appendix-c.md#laboratory-1-software-aided-device-selection-with-the-ti-logic-integration-tool-lit)
 
-## [LABORATORY 1: SOFTWARE AIDED DEVICE SELECTION WITH THE TI LOGIC INTEGRATION TOOL (LIT)
+## LABORATORY 1: SOFTWARE AIDED DEVICE SELECTION WITH THE TI LOGIC INTEGRATION TOOL (LIT)
 
-*coming soon*
+_Coming soon._
