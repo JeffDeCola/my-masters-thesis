@@ -1,8 +1,12 @@
-# my-masters-thesis
+# MY MASTERS THESIS
 
-[GitHub Webpage](https://jeffdecola.github.io/my-masters-thesis/)
+[![codeclimate Issue Count](https://codeclimate.com/github/JeffDeCola/my-master-thesis/badges/issue_count.svg)](https://codeclimate.com/github/JeffDeCola/my-masters-thesis/issues)
+[![jeffdecola.com](https://img.shields.io/badge/website-jeffdecola.com-blue)](https://jeffdecola.com)
+
+This repos
+[github webpage](https://jeffdecola.github.io/my-masters-thesis/)
 _built with
-[concourse ci](https://github.com/JeffDeCola/my-masters-thesis/blob/master/ci-README.md)_
+[concourse](https://github.com/JeffDeCola/my-masters-thesis/blob/master/ci-README.md)_
 
 ---
 
@@ -78,16 +82,16 @@ FPGA technology.
 * 3.5 [Multi-Level Description Environment and Multi-Level Simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#35-multi-level-description-environment-and-multi-level-simulation)
 * 3.6 [VHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#36-vhdl)
   * 3.6.1 [Benefits and Limitations of VHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#36-vhdl)
-  * 3.6.2 [Four Types of VHDL Models ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
+  * 3.6.2 [Four Types of VHDL Models](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
   * 3.6.3 [VHDL Library Design Units](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#363-vhdl-library-design-units)
 
 **4 [DESIGN SYNTHESIS](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#chapter-4)**
 
 * 4.1 [Synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#41-synthesis)
 * 4.2 [Types of Synthesis](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#42-types-of-synthesis)
-* 4.3 [Synthesis for Technology Migration ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#43-synthesis-for-technology-migration)
-* 4.4 [Synthesis System ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
-  * 4.4.1 [Design Automation ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation)
+* 4.3 [Synthesis for Technology Migration](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#43-synthesis-for-technology-migration)
+* 4.4 [Synthesis System](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#44-synthesis-system)
+  * 4.4.1 [Design Automation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#441-design-automation)
   * 4.4.2 [Benefits of High-Level Synthesis Systems](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#442-benefits-of-high-level-synthesis-systems)
   * 4.4.3 [Limitations of High-Level Synthesis Systems](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#443-limitations-of-high-level-synthesis-systems)
 * 4.5 [Modeling for the Synthesis System](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-4/chapter-4.md#45-modeling-for-the-synthesis-system)

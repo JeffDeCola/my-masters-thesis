@@ -1,67 +1,93 @@
 # my-masters-thesis pipeline.yml
 
+#------------------------------------------------------------------------------------------
 jobs:
 
+#**********************************************
 - name: job-readme-github-pages
+#**********************************************
   plan:
-  - get: my-masters-thesis
-    trigger: true
-  - put: resource-slack-alert
-    params:
-      channel: '#jeff-builds'
-      text: "From my-masters-thesis: STARTED job-readme-github-pages in concourse ci."
-  - put: resource-repo-status
-    params: { state: "pending", description: "STARTED job-readme-github-pages in concourse ci.", commit: "my-masters-thesis" }
-  - task: task-readme-github-pages
-    file: my-masters-thesis/ci/tasks/task-readme-github-pages.yml
-    on_success:
-      do:
-      - put: my-masters-thesis
-        params:
-          repository: my-masters-thesis-updated  
-      - put: resource-slack-alert
-        params:
-          channel: '#jeff-builds'
-          text: "From my-masters-thesis: PASSED job-readme-github-pages in concourse ci."
-      - put: resource-repo-status
-        params: { state: "success", description: "PASSED job-readme-github-pages in concourse ci", commit: "my-masters-thesis" }
-    on_failure:
-      do:
-      - put: resource-slack-alert
-        params:
-          channel: '#jeff-builds'
-          text: "From my-masters-thesis: FAILED job-readme-github-pages in concourse ci."
-      - put: resource-repo-status
-        params: { state: "failure", description: "FAILED job-readme-github-pages in concourse ci", commit: "my-masters-thesis" }
 
+    # GET REPO FROM GITHUB
+    - get: my-masters-thesis
+      trigger: true
+    # SEND SLACK ALERT  
+    - put: resource-slack-alert
+      params:
+        channel: '#jeff-builds'
+        text: "From my-masters-thesis: STARTED job-readme-github-pages in concourse ci."
+    # SEND GITHUB STATUS
+    - put: resource-repo-status
+      params: { state: "pending", description: "STARTED job-readme-github-pages in concourse ci.", commit: "my-masters-thesis" }    
+    
+    # RUN TASK IN REPO USING ALPINE DOCKER IMAGE
+    - task: task-readme-github-pages
+      file: my-masters-thesis/ci/tasks/task-readme-github-pages.yml
+      
+      # TASK SUCCESS
+      on_success:
+        do:
+          # PUSH NEW REPO TO GITHUB
+          - put: my-masters-thesis
+            params:
+              repository: my-masters-thesis-updated  
+          # SEND SLACK ALERT  
+          - put: resource-slack-alert
+            params:
+              channel: '#jeff-builds'
+              text: "From my-masters-thesis: PASSED job-readme-github-pages in concourse ci."
+          # SEND GITHUB STATUS
+          - put: resource-repo-status
+            params: { state: "success", description: "PASSED job-readme-github-pages in concourse ci", commit: "my-masters-thesis" }
+      
+      # TASK FAILURE   
+      on_failure:
+        do:
+          # SEND SLACK ALERT  
+          - put: resource-slack-alert
+            params:
+              channel: '#jeff-builds'
+              text: "From my-masters-thesis: FAILED job-readme-github-pages in concourse ci."
+          # SEND GITHUB STATUS
+          - put: resource-repo-status
+            params: { state: "failure", description: "FAILED job-readme-github-pages in concourse ci", commit: "my-masters-thesis" }
+
+#------------------------------------------------------------------------------------------
 resource_types:
 
-- name: slack-notification
-  type: docker-image
-  source:
-    repository: cfcommunity/slack-notification-resource
-    tag: latest
-- name: github-status
-  type: docker-image
-  source:
-    repository: dpb587/github-status-resource
-    tag: master
+  - name: slack-notification
+    type: docker-image
+    source:
+      repository: cfcommunity/slack-notification-resource
+      tag: latest
 
+  - name: github-status
+    type: docker-image
+    source:
+      repository: dpb587/github-status-resource
+      tag: master
+
+#------------------------------------------------------------------------------------------
 resources:
 
-- name: my-masters-thesis
-  type: git
-  source:
-    #uri: https://github.com/jeffdecola/my-masters-thesis
-    uri: git@github.com:jeffdecola/my-masters-thesis.git
-    branch: master
-    private_key: {{git_private_key}}
-- name: resource-slack-alert
-  type: slack-notification
-  source:
-    url: {{slack_url}} 
-- name: resource-repo-status 
-  type: github-status
-  source:
-    repository: jeffdecola/my-masters-thesis 
-    access_token: {{repo_github_token}}
+  - name: my-masters-thesis
+    type: git
+    icon: github
+    source:
+      #uri: https://github.com/jeffdecola/my-masters-thesis
+      uri: git@github.com:jeffdecola/my-masters-thesis.git
+      branch: master
+      private_key: ((git_private_key))
+
+  - name: resource-slack-alert
+    type: slack-notification
+    icon: slack
+    source:
+      url: ((slack_url)) 
+
+  - name: resource-repo-status 
+    type: github-status
+    icon: github
+    source:
+      repository: jeffdecola/my-masters-thesis 
+      access_token: ((repo_github_token))
