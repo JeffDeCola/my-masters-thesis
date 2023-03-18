@@ -15,7 +15,7 @@
 * 3.5 [Multi-Level Description Environment and Multi-Level Simulation](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#35-multi-level-description-environment-and-multi-level-simulation)
 * 3.6 [VHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#36-vhdl)
   * 3.6.1 [Benefits and Limitations of VHDL](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#36-vhdl)
-  * 3.6.2 [Four Types of VHDL Models ](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
+  * 3.6.2 [Four Types of VHDL Models](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#362-four-types-of-vhdl-models)
   * 3.6.3 [VHDL Library Design Units](https://github.com/JeffDeCola/my-masters-thesis/blob/master/chapters/chapter-3/chapter-3.md#363-vhdl-library-design-units)
 
 ## SYSTEM MODELS, DESCRIPTION TOOLS AND SIMULATION
