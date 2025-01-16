@@ -1,8 +1,7 @@
-# CONCOURSE
-.credentials.yml
+# repo-generic-.gitignore
 
-# GO
-coverage.out
+# CONCOURSE SECRETS
+.credentials.yml
 
 # macOS
 .DS_Store
