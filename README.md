@@ -1,6 +1,7 @@
 # MY MASTERS THESIS
 
 [![jeffdecola.com](https://img.shields.io/badge/website-jeffdecola.com-blue)](https://jeffdecola.com)
+[![Copyright](https://img.shields.io/:copyright-1993-blue.svg)](https://github.com/JeffDeCola/my-masters-thesis/blob/master/title-and-copyright/title-and-copyright.md)
 
 This repos
 [github webpage](https://jeffdecola.github.io/my-masters-thesis/)
